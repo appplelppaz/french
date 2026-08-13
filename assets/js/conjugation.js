@@ -128,20 +128,61 @@
 
   /* ---------- 動詞の判別 ---------- */
 
+  /* ---------- 代名動詞 ---------- */
+
+  var REFLEXIVE = ['me', 'te', 'se', 'nous', 'vous', 'se'];
+  var IMPER_REFLEXIVE = ['toi', 'nous', 'vous'];
+
+  /** "se coucher" / "s'appeler" のような代名動詞の不定詞を分解する */
+  function splitPronominal(inf) {
+    var m = String(inf).trim().toLowerCase().match(/^(se\s+|s['’]\s*)(.+)$/);
+    return m ? m[2].trim() : null;
+  }
+
+  /** 再帰代名詞を活用形の前に付ける（母音の前ではエリジオンする） */
+  function attachReflexive(form, index) {
+    if (!form) return null;
+    var r = REFLEXIVE[index];
+    if ((r === 'me' || r === 'te' || r === 'se') && /^[aeiouéèêëàâîïôûùüh]/i.test(form)) {
+      return r.charAt(0) + "'" + form;
+    }
+    return r + ' ' + form;
+  }
+
   function lookup(inf) {
     if (!inf) return null;
-    var key = String(inf).trim().toLowerCase();
-    if (FR.VERBS && FR.VERBS[key]) return { inf: key, data: FR.VERBS[key], irregular: true };
-    if (FR.REGULAR_VERBS && FR.REGULAR_VERBS[key]) return { inf: key, data: FR.REGULAR_VERBS[key], irregular: false };
+    var raw = String(inf).trim().toLowerCase();
+
+    // 代名動詞は、もとの動詞を引いてから印を付ける
+    var base = splitPronominal(raw);
+    if (base) {
+      var inner = lookup(base);
+      if (!inner) return null;
+      var display = 'se ' + inner.inf;
+      var known = FR.PRONOMINAL_VERBS && FR.PRONOMINAL_VERBS[display];
+      return {
+        inf: inner.inf,
+        display: display,
+        // 代名動詞として登録があれば、その意味と「推測ではない」ことを引き継ぐ
+        data: known ? Object.assign({}, inner.data, { ja: known }) : inner.data,
+        irregular: inner.irregular,
+        guessed: known ? false : inner.guessed,
+        pronominal: true
+      };
+    }
+
+    if (FR.VERBS && FR.VERBS[raw]) return { inf: raw, display: raw, data: FR.VERBS[raw], irregular: true };
+    if (FR.REGULAR_VERBS && FR.REGULAR_VERBS[raw]) return { inf: raw, display: raw, data: FR.REGULAR_VERBS[raw], irregular: false };
     // 未登録の動詞も、語尾から規則動詞として推定して活用させる
-    if (/er$/.test(key)) return { inf: key, data: { group: 1 }, irregular: false, guessed: true };
-    if (/ir$/.test(key)) return { inf: key, data: { group: 2 }, irregular: false, guessed: true };
-    if (/re$/.test(key)) return { inf: key, data: { group: 3 }, irregular: false, guessed: true };
+    if (/er$/.test(raw)) return { inf: raw, display: raw, data: { group: 1 }, irregular: false, guessed: true };
+    if (/ir$/.test(raw)) return { inf: raw, display: raw, data: { group: 2 }, irregular: false, guessed: true };
+    if (/re$/.test(raw)) return { inf: raw, display: raw, data: { group: 3 }, irregular: false, guessed: true };
     return null;
   }
 
-  /** 助動詞に être を取る動詞か */
+  /** 助動詞に être を取る動詞か。代名動詞は例外なく être。 */
   function auxOf(entry) {
+    if (entry.pronominal) return 'être';
     return (entry.data && entry.data.aux) || 'avoir';
   }
 
@@ -356,6 +397,17 @@
     if (entry.data.impersonal && tenseKey !== 'imperatif') {
       out = out.map(function (f, i) { return i === 2 ? f : null; });
     }
+
+    // 代名動詞は再帰代名詞を伴う。命令形だけは動詞の後ろにハイフンでつなぐ（第16章）
+    if (entry.pronominal) {
+      if (tenseKey === 'imperatif') {
+        out = out.map(function (f, i) {
+          return f ? f + '-' + IMPER_REFLEXIVE[i] : null;
+        });
+      } else {
+        out = out.map(attachReflexive);
+      }
+    }
     return out;
   }
 
@@ -386,6 +438,15 @@
   function splitForm(entry, tenseKey, index, form) {
     if (!form) return { stem: '', ending: '' };
     var t = TENSE_BY_KEY[tenseKey];
+
+    // 代名動詞は再帰代名詞を切り離してから、残りを語幹と語尾に分ける
+    if (entry.pronominal && tenseKey !== 'imperatif') {
+      var m = form.match(/^((?:me|te|se|nous|vous)\s+|[mts]['’])(.+)$/);
+      if (m) {
+        var inner = splitForm({ inf: entry.inf, data: entry.data }, tenseKey, index, m[2]);
+        return { stem: m[1] + inner.stem, ending: inner.ending };
+      }
+    }
 
     // 複合時制は「助動詞 + 過去分詞」で切る
     if (t && t.compound) {
@@ -422,24 +483,30 @@
    * @param {string} form
    * @param {boolean} [is3pl] ils の形か（-ent を語尾として扱ってよいか）
    */
+  function reduceWord(word, is3pl) {
+    if (is3pl && /ent$/.test(word) && word.length > 3) return word.slice(0, -3);
+
+    var stripped;
+    if (/es$/.test(word)) stripped = word.slice(0, -2);
+    else if (/e$/.test(word)) stripped = word.slice(0, -1);
+    if (stripped) return stripped;
+
+    return word.replace(/[stdxzpg]+$/, '') || word;
+  }
+
   function phoneticKey(form, is3pl) {
     if (!form) return '';
     var f = String(form).toLowerCase().trim();
 
-    // 複合時制は助動詞の部分だけで判定する
-    var sp = f.indexOf(' ');
-    if (sp !== -1) {
-      return phoneticKey(f.slice(0, sp), is3pl) + ' ' + f.slice(sp + 1);
+    // 複合時制（ai chanté）や代名動詞（me couche）は語ごとに縮約する。
+    // -ent が無音になるのは活用形の語尾だけなので、その判定は最後の語にだけ適用する。
+    if (f.indexOf(' ') !== -1) {
+      var words = f.split(/\s+/);
+      return words.map(function (w, i) {
+        return reduceWord(w, is3pl && i === words.length - 1);
+      }).join(' ');
     }
-
-    if (is3pl && /ent$/.test(f) && f.length > 3) return f.slice(0, -3);
-
-    var stripped;
-    if (/es$/.test(f)) stripped = f.slice(0, -2);
-    else if (/e$/.test(f)) stripped = f.slice(0, -1);
-    if (stripped) return stripped;
-
-    return f.replace(/[stdxzpg]+$/, '') || f;
+    return reduceWord(f, is3pl);
   }
 
   /**
@@ -490,12 +557,38 @@
     /** 動詞が登録されているか（推定も含めて活用可能か） */
     exists: function (inf) { return !!lookup(inf); },
 
+    /**
+     * ":::conj se coucher présent" のような指定を、動詞と時制に分ける。
+     * 動詞名が "se coucher" のように空白を含みうるので、
+     * 末尾のトークンが時制として解決できるかどうかで境目を決める。
+     */
+    parseDirective: function (args) {
+      var s = String(args == null ? '' : args).trim();
+      if (!s) return { verbs: [], tenses: [] };
+
+      var parts = s.split(/\s+/);
+      var tenses = [];
+      if (parts.length > 1) {
+        var last = parts[parts.length - 1].split(',').filter(Boolean);
+        if (last.length && last.every(function (t) { return normalizeTense(t); })) {
+          tenses = last;
+          parts.pop();
+        }
+      }
+      var verbs = parts.join(' ').split(',')
+        .map(function (v) { return v.trim(); })
+        .filter(Boolean);
+      return { verbs: verbs, tenses: tenses };
+    },
+
     /** 動詞の基本情報 */
     info: function (inf) {
       var e = lookup(inf);
       if (!e) return null;
       return {
-        inf: e.inf,
+        inf: e.display || e.inf,
+        base: e.inf,
+        pronominal: !!e.pronominal,
         ja: e.data.ja || '',
         group: e.data.group,
         irregular: e.irregular,
@@ -580,11 +673,17 @@
     homophoneGroups: homophoneGroups,
     phoneticKey: phoneticKey,
 
-    /** 登録済みの動詞名を全部返す */
+    /** 登録済みの動詞名を返す。filter: 'irregular' | 'regular' | 'pronominal' */
     list: function (filter) {
-      var out = Object.keys(FR.VERBS || {}).concat(Object.keys(FR.REGULAR_VERBS || {}));
+      var out;
       if (filter === 'irregular') out = Object.keys(FR.VERBS || {});
-      if (filter === 'regular') out = Object.keys(FR.REGULAR_VERBS || {});
+      else if (filter === 'regular') out = Object.keys(FR.REGULAR_VERBS || {});
+      else if (filter === 'pronominal') out = Object.keys(FR.PRONOMINAL_VERBS || {});
+      else {
+        out = Object.keys(FR.VERBS || {})
+          .concat(Object.keys(FR.REGULAR_VERBS || {}))
+          .concat(Object.keys(FR.PRONOMINAL_VERBS || {}));
+      }
       return out.sort(function (a, b) { return a.localeCompare(b, 'fr'); });
     },
 

@@ -230,6 +230,48 @@ forms('falloir', 'subjonctif', [null, null, 'faille', null, null, null]);
 forms('pleuvoir', 'present', [null, null, 'pleut', null, null, null]);
 forms('pleuvoir', 'passeCompose', [null, null, 'a plu', null, null, null]);
 
+/* ==================== 代名動詞 ==================== */
+
+forms('se coucher', 'present',
+  ['me couche', 'te couches', 'se couche', 'nous couchons', 'vous couchez', 'se couchent']);
+
+// 母音で始まる動詞では再帰代名詞がエリジオンする
+forms('s\'appeler', 'present',
+  ["m'appelle", "t'appelles", "s'appelle", 'nous appelons', 'vous appelez', "s'appellent"]);
+
+// 代名動詞の助動詞は例外なく être。
+// 助動詞 es / est は母音で始まるので、再帰代名詞がここでもエリジオンする
+forms('se coucher', 'passeCompose',
+  ['me suis couché', "t'es couché", "s'est couché", 'nous sommes couchés', 'vous êtes couchés', 'se sont couchés']);
+
+eq('代名動詞の助動詞は être', conj.info('se coucher').aux, 'être');
+eq('代名動詞と分かる', conj.info('se coucher').pronominal, true);
+eq('代名動詞の表示名', conj.info('se coucher').inf, 'se coucher');
+eq('代名動詞の意味を引く', conj.info('se lever').ja, '起きる');
+
+// 命令形は動詞の後ろにハイフンでつなぎ、te は toi になる
+forms('se coucher', 'imperatif', ['couche-toi', 'couchons-nous', 'couchez-vous']);
+forms('se lever', 'imperatif', ['lève-toi', 'levons-nous', 'levez-vous']);
+
+eq('主語つきの代名動詞', conj.line('se coucher', 'present', 0), 'je me couche');
+eq("代名動詞のエリジオン", conj.line("s'appeler", 'present', 0), "je m'appelle");
+
+// il se couche と ils se couchent は同音
+eq('代名動詞の同音判定',
+  conj.homophoneGroups(conj.get('se coucher', 'present').forms), [[2, 5]]);
+
+// ":::conj se coucher présent" のような指定を正しく分解できるか
+eq('指定の分解（代名動詞）',
+  conj.parseDirective('se coucher présent'), { verbs: ['se coucher'], tenses: ['présent'] });
+eq('指定の分解（複数時制）',
+  conj.parseDirective('chanter présent,futur'), { verbs: ['chanter'], tenses: ['présent', 'futur'] });
+eq('指定の分解（複数動詞）',
+  conj.parseDirective('chanter,finir présent'), { verbs: ['chanter', 'finir'], tenses: ['présent'] });
+eq('指定の分解（時制なし）',
+  conj.parseDirective('chanter'), { verbs: ['chanter'], tenses: [] });
+eq('指定の分解（代名動詞・時制なし）',
+  conj.parseDirective('se lever'), { verbs: ['se lever'], tenses: [] });
+
 /* ==================== 主語つきの行（エリジオン） ==================== */
 
 eq('je + chante', conj.line('chanter', 'present', 0), 'je chante');

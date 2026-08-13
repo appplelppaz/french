@@ -114,26 +114,27 @@ for (const ch of chapters) {
 
   /* :::conj と :::drill の中身 */
   lines.forEach((line, i) => {
-    const t = line.trim();
-    let m = t.match(/^:::conj\s+(\S+)\s*(\S*)/);
-    if (m) {
-      const [, verb, tenses] = m;
-      if (!FR.conj.exists(verb)) fail(id, `${i + 1}行目: :::conj の動詞 "${verb}" が活用データに無い`);
-      else if (FR.conj.info(verb).guessed) warn(id, `${i + 1}行目: "${verb}" は語尾から推測して活用している（verbs.js に未登録）`);
-      for (const tn of (tenses || '').split(',').filter(Boolean)) {
-        if (!FR.conj.normalizeTense(tn)) fail(id, `${i + 1}行目: :::conj の時制 "${tn}" が解決できない`);
-      }
+    const m = line.trim().match(/^:::(conj|drill)\s+(.*)$/);
+    if (!m) return;
+    const [, kind, args] = m;
+    const spec = FR.conj.parseDirective(args);
+
+    if (!spec.verbs.length) {
+      fail(id, `${i + 1}行目: :::${kind} に動詞が指定されていない`);
       return;
     }
-    m = t.match(/^:::drill\s+(\S+)\s*(\S*)/);
-    if (m) {
-      const [, verbs, tenses] = m;
-      for (const v of verbs.split(',').filter(Boolean)) {
-        if (!FR.conj.exists(v)) fail(id, `${i + 1}行目: :::drill の動詞 "${v}" が活用データに無い`);
+    for (const v of spec.verbs) {
+      if (!FR.conj.exists(v)) {
+        fail(id, `${i + 1}行目: :::${kind} の動詞 "${v}" が活用データに無い`);
+      } else if (FR.conj.info(v).guessed) {
+        warn(id, `${i + 1}行目: "${v}" は語尾から推測して活用している（verbs.js に未登録）`);
       }
-      for (const tn of (tenses || '').split(',').filter(Boolean)) {
-        if (!FR.conj.normalizeTense(tn)) fail(id, `${i + 1}行目: :::drill の時制 "${tn}" が解決できない`);
-      }
+    }
+    // 時制の解決は parseDirective がすでに保証しているが、
+    // 「時制として解釈されなかった余りのトークン」を取りこぼさないよう確認する
+    const rest = args.trim().split(/\s+/);
+    if (!spec.tenses.length && rest.length > 1 && !/^(se|s['’])/.test(rest[0])) {
+      fail(id, `${i + 1}行目: :::${kind} の時制 "${rest[rest.length - 1]}" が解決できない`);
     }
   });
 

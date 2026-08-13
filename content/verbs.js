@@ -371,6 +371,22 @@
     'remplir':    { ja: '満たす', group: 2 },
     'rougir':     { ja: '赤くなる', group: 2 },
 
+    // 代名動詞のもとになる -er 動詞（第23章）
+    'coucher':    { ja: '寝かせる', group: 1 },
+    'lever':      { ja: '上げる', group: 1 },
+    'laver':      { ja: '洗う', group: 1 },
+    'réveiller':  { ja: '目覚めさせる', group: 1 },
+    'habiller':   { ja: '服を着せる', group: 1 },
+    'promener':   { ja: '散歩させる', group: 1 },
+    'dépêcher':   { ja: '急がせる', group: 1 },
+    'reposer':    { ja: '休ませる', group: 1 },
+    'brosser':    { ja: 'ブラシをかける', group: 1 },
+    'tromper':    { ja: 'だます', group: 1 },
+    'amuser':     { ja: '楽しませる', group: 1 },
+    'inquiéter':  { ja: '心配させる', group: 1 },
+    'installer':  { ja: '設置する', group: 1 },
+    'rappeler':   { ja: '思い出させる、呼び戻す', group: 1 },
+
     // 第3群 -re（attendre 型）
     'attendre':   { ja: '待つ', group: 3 },
     'entendre':   { ja: '聞こえる', group: 3 },
@@ -379,6 +395,31 @@
     'perdre':     { ja: '失う', group: 3 },
     'descendre':  { ja: '降りる', group: 3, aux: 'être' },
     'rendre':     { ja: '返す', group: 3 }
+  };
+
+  /* ---------- 代名動詞（第23章） ---------- */
+  /* 活用はもとの動詞から導けるので、ここには不定詞と意味だけを置く。
+     助動詞は conjugation.js が例外なく être に固定する。 */
+
+  FR.PRONOMINAL_VERBS = {
+    'se lever':       '起きる',
+    'se coucher':     '寝る',
+    'se réveiller':   '目が覚める',
+    'se laver':       '体を洗う',
+    'se brosser':     '（歯などを）磨く',
+    'se dépêcher':    '急ぐ',
+    'se promener':    '散歩する',
+    'se reposer':     '休む',
+    'se rappeler':    '思い出す',
+    'se tromper':     '間違える',
+    'se demander':    '自問する',
+    'se trouver':     'ある、位置する',
+    'se passer':      '起こる',
+    'se parler':      '話し合う',
+    'se regarder':    '見つめ合う',
+    'se téléphoner':  '電話し合う',
+    'se marier':      '結婚する',
+    'se préparer':    '準備する'
   };
 
   /* 未来語幹だけが不規則な第1群動詞 */

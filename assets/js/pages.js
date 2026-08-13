@@ -113,7 +113,8 @@
     var sel = doc.createElement('select');
     var groups = [
       { label: '不規則動詞', list: FR.conj.list('irregular') },
-      { label: '規則動詞', list: FR.conj.list('regular') }
+      { label: '規則動詞', list: FR.conj.list('regular') },
+      { label: '代名動詞', list: FR.conj.list('pronominal') }
     ];
     groups.forEach(function (g) {
       var og = doc.createElement('optgroup');

@@ -281,15 +281,12 @@
     // 依存モジュールは読み込み順の都合で、描画時点で解決する
     try {
       if (name === 'conj' && FR.conjTable) {
-        var a = args.trim().split(/\s+/);
-        return FR.conjTable.render(a[0], (a[1] || '').split(',').filter(Boolean));
+        var a = FR.conj.parseDirective(args);
+        return FR.conjTable.render(a.verbs[0], a.tenses);
       }
       if (name === 'drill' && FR.drill) {
-        var b = args.trim().split(/\s+/);
-        return FR.drill.embed({
-          verbs: (b[0] || '').split(',').filter(Boolean),
-          tenses: (b[1] || '').split(',').filter(Boolean)
-        });
+        var b = FR.conj.parseDirective(args);
+        return FR.drill.embed({ verbs: b.verbs, tenses: b.tenses });
       }
       if (name === 'vmap' && FR.conjTable && FR.conjTable.renderMap) {
         return FR.conjTable.renderMap(args.trim());
