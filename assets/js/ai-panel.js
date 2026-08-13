@@ -88,7 +88,7 @@
   function addSaveButtons(root) {
     root.querySelectorAll('.exlist li[data-fr]').forEach(function (li) {
       if (li.querySelector('.save-phrase')) return;
-      var b = el('button', 'btn-mini save-phrase', '⭐︎ 保存');
+      var b = el('button', 'btn-mini save-phrase', '保存');
       b.type = 'button';
       b.style.alignSelf = 'center';
       b.addEventListener('click', function () {
@@ -100,7 +100,7 @@
           ja: ja ? ja.textContent : '',
           chapter: context.title
         });
-        b.textContent = '⭐ 保存済み';
+        b.textContent = '保存済み';
         b.disabled = true;
       });
       li.appendChild(b);
@@ -318,7 +318,7 @@
     var out = el('div', 'ai-out');
 
     if (kind === 'ai-ask') {
-      var ask = el('button', 'aitool', '✨ ' + (arg || 'この章について質問する'));
+      var ask = el('button', 'aitool', arg || 'この章について質問する');
       ask.type = 'button';
       ask.addEventListener('click', function () {
         open();
@@ -331,11 +331,11 @@
     // ai-gen: 例文生成
     var topic = arg || (context.title || 'この章の文法');
 
-    var gen = el('button', 'aitool', '✨ この文法の例文を作ってもらう');
+    var gen = el('button', 'aitool', 'この文法の例文を作ってもらう');
     gen.type = 'button';
     wrap.appendChild(gen);
 
-    var check = el('button', 'aitool', '📝 自分の作文を添削してもらう');
+    var check = el('button', 'aitool', '自分の作文を添削してもらう');
     check.type = 'button';
     wrap.appendChild(check);
 
@@ -599,7 +599,7 @@
 
   function keyNotice() {
     var box = el('div', 'callout note');
-    box.appendChild(el('div', 'callout-title', '🔑 API キーが必要です'));
+    box.appendChild(el('div', 'callout-title', 'API キーが必要です'));
     var p = el('p');
     p.appendChild(doc.createTextNode('AI 機能を使うには Gemini の API キーを登録してください。'));
     var a = el('a', null, '設定画面へ');
@@ -612,7 +612,7 @@
 
   function errorBox(err) {
     var box = el('div', 'callout warn');
-    box.appendChild(el('div', 'callout-title', '⚠️ うまくいきませんでした'));
+    box.appendChild(el('div', 'callout-title', 'うまくいきませんでした'));
     box.appendChild(el('p', null, err && err.message ? err.message : String(err)));
     return box;
   }

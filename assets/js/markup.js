@@ -28,12 +28,13 @@
   var BLOCK_DIRECTIVES = { ex: 1, note: 1, warn: 1, adv: 1, tip: 1, deep: 1, quiz: 1, vocab: 1 };
   var SOLO_DIRECTIVES = { conj: 1, drill: 1, vmap: 1, 'ai-gen': 1, 'ai-ask': 1 };
 
+  /* 見出しの色と左の縦線だけで種別を区別するので、絵文字は使わない */
   var CALLOUT_LABEL = {
-    note: { icon: '📌', fallback: 'ポイント' },
-    warn: { icon: '⚠️', fallback: '要注意' },
-    adv:  { icon: '🎓', fallback: '発展' },
-    deep: { icon: '🔬', fallback: '詳しく' },
-    tip:  { icon: '💡', fallback: 'コツ' }
+    note: { fallback: 'ポイント' },
+    warn: { fallback: '要注意' },
+    adv:  { fallback: '発展' },
+    deep: { fallback: '詳しく' },
+    tip:  { fallback: 'コツ' }
   };
 
   function el(tag, cls, text) {
@@ -154,7 +155,7 @@
 
     var head = el('div', 'exblock-head');
     head.appendChild(el('span', 'ttl', title || '例文'));
-    var all = el('button', 'btn-mini', '▶ 通して聞く');
+    var all = FR.iconize(el('button', 'btn-mini', '通して聞く'), 'play', 11);
     all.type = 'button';
     all.dataset.playAll = '1';
     head.appendChild(all);
@@ -165,7 +166,7 @@
       var li = el('li');
       li.dataset.fr = it.fr;
 
-      var btn = el('button', 'playbtn', '▶');
+      var btn = el('button', 'playbtn');
       btn.type = 'button';
       btn.setAttribute('aria-label', it.fr + ' を発音');
       li.appendChild(btn);
@@ -185,10 +186,11 @@
 
   function renderCallout(kind, title, lines) {
     var box = el('div', 'callout ' + kind);
-    var meta = CALLOUT_LABEL[kind] || { icon: '', fallback: '' };
+    var meta = CALLOUT_LABEL[kind] || { fallback: '' };
     var head = el('div', 'callout-title');
-    if (meta.icon) head.appendChild(doc.createTextNode(meta.icon));
-    head.appendChild(doc.createTextNode(' ' + (title || meta.fallback)));
+    // 種別（要注意・発展など）を小さく置き、見出しがあればその後ろに続ける
+    head.appendChild(el('span', 'callout-kind', meta.fallback));
+    if (title) head.appendChild(el('span', 'callout-label', title));
     box.appendChild(head);
     blocks(lines, box, { used: {}, headings: [] });
     return box;
@@ -248,8 +250,8 @@
   function renderVocab(title, lines) {
     var box = el('div', 'vocab');
     var head = el('div', 'vocab-head');
-    head.appendChild(el('span', null, '📖 ' + (title || 'この章の語彙')));
-    var all = el('button', 'btn-mini', '▶ 通して聞く');
+    head.appendChild(el('span', null, title || 'この章の語彙'));
+    var all = FR.iconize(el('button', 'btn-mini', '通して聞く'), 'play', 11);
     all.type = 'button';
     all.dataset.playAll = '1';
     head.appendChild(all);

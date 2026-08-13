@@ -5,7 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>フランス語文法テキスト</title>
 <meta name="description" content="日本語話者のための、大学レベルのフランス語文法テキスト。全文クリックで発音、動詞活用ドリル、AI文法質問つき。">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23a4243b'/%3E%3Ctext x='16' y='23' font-size='20' font-family='Georgia,serif' font-style='italic' fill='white' text-anchor='middle'%3EF%3C/text%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%2316161A'/%3E%3Crect%20x='1.5'%20y='1.5'%20width='61'%20height='61'%20rx='12.5'%20fill='none'%20stroke='%23FF4D5E'%20stroke-opacity='.4'%20stroke-width='3'/%3E%3Ctext%20x='32'%20y='47'%20font-family=%22Georgia,'Times%20New%20Roman',serif%22%20font-size='46'%20font-weight='700'%20fill='%23FF4D5E'%20text-anchor='middle'%3E&#233;%3C/text%3E%3C/svg%3E">
+<link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%2316161A'/%3E%3Crect%20x='1.5'%20y='1.5'%20width='61'%20height='61'%20rx='12.5'%20fill='none'%20stroke='%23FF4D5E'%20stroke-opacity='.4'%20stroke-width='3'/%3E%3Ctext%20x='32'%20y='47'%20font-family=%22Georgia,'Times%20New%20Roman',serif%22%20font-size='46'%20font-weight='700'%20fill='%23FF4D5E'%20text-anchor='middle'%3E&#233;%3C/text%3E%3C/svg%3E">
+<meta name="theme-color" content="#0d0d10">
+<meta name="color-scheme" content="dark light">
 <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
@@ -13,7 +16,7 @@
 <a class="skip-link" href="#main">本文へスキップ</a>
 
 <header class="topbar">
-  <button class="iconbtn" id="btn-menu" aria-label="目次を開く" aria-expanded="false">☰</button>
+  <button class="iconbtn" id="btn-menu" aria-label="目次を開く" aria-expanded="false"></button>
 
   <a class="brand" href="#/">
     <span class="brand-fr">Grammaire</span>
@@ -27,9 +30,9 @@
     <div class="search-results" id="search-results" hidden></div>
   </div>
 
-  <button class="iconbtn" id="btn-speech" aria-label="音声設定" title="音声設定">🔊</button>
-  <button class="iconbtn" id="btn-theme" aria-label="テーマ切替" title="テーマ切替">◐</button>
-  <button class="iconbtn iconbtn-ai" id="btn-ai" aria-label="AIパネルを開く" title="AIに質問">✨</button>
+  <button class="iconbtn" id="btn-speech" aria-label="音声設定" title="音声設定"></button>
+  <button class="iconbtn" id="btn-theme" aria-label="テーマを切り替える" title="テーマ"></button>
+  <button class="iconbtn iconbtn-ai" id="btn-ai" aria-label="AIパネルを開く" title="AIに質問"></button>
 </header>
 
 <div id="voice-banner" class="banner" hidden></div>
@@ -43,10 +46,10 @@
     </div>
     <ol class="toc" id="toc"></ol>
     <div class="sidebar-foot">
-      <a href="#/drill" class="sidebar-link">🎯 活用ドリル</a>
-      <a href="#/verbs" class="sidebar-link">📖 動詞活用表</a>
-      <a href="#/myphrases" class="sidebar-link">⭐ マイ例文</a>
-      <a href="#/settings" class="sidebar-link">⚙️ 設定</a>
+      <a href="#/drill" class="sidebar-link" data-icon="target">活用ドリル</a>
+      <a href="#/verbs" class="sidebar-link" data-icon="grid">動詞活用表</a>
+      <a href="#/myphrases" class="sidebar-link" data-icon="star">マイ例文</a>
+      <a href="#/settings" class="sidebar-link" data-icon="gear">設定</a>
     </div>
   </nav>
 
@@ -66,7 +69,7 @@
   <div class="aipanel-head">
     <strong>AI に質問</strong>
     <span class="aipanel-ctx" id="aipanel-ctx"></span>
-    <button class="iconbtn" id="btn-ai-close" aria-label="閉じる">✕</button>
+    <button class="iconbtn" id="btn-ai-close" aria-label="閉じる"></button>
   </div>
   <div class="aipanel-body" id="aipanel-body"></div>
   <form class="aipanel-form" id="aipanel-form">
@@ -96,6 +99,7 @@
   </form>
 </dialog>
 
+<script src="assets/js/icons.js"></script>
 <script src="assets/js/store.js"></script>
 <script src="assets/js/speech.js"></script>
 <script src="assets/js/markup.js"></script>

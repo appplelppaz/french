@@ -40,7 +40,7 @@ FR.chapter({
 :::conj chanter présent
 
 :::warn 4つの形が同じ音になる
-上の表で「同じ音 ♪」を押してください。**je / tu / il / ils の4つに印が付きます。**
+上の表で「同じ音」を押してください。**je / tu / il / ils の4つに印が付きます。**
 
 chante、chantes、chante、chantent —— 綴りは違いますが、**発音はすべて「シャント」で同一**です。
 

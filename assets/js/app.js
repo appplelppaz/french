@@ -221,7 +221,7 @@
     }).catch(function (err) {
       host.textContent = '';
       var box = el('div', 'callout warn');
-      box.appendChild(el('div', 'callout-title', '⚠️ 表示できませんでした'));
+      box.appendChild(el('div', 'callout-title', '表示できませんでした'));
       box.appendChild(el('p', null, err.message));
       box.appendChild(el('p', null, 'この章はまだ用意されていない可能性があります。'));
       host.appendChild(box);
@@ -284,18 +284,25 @@
 
   /* ==================== テーマ ==================== */
 
+  /* テーマは3択（dark / light / auto）で、既定はダーク。
+     CSS 側は :root がダークなので、auto を選んだときだけ
+     data-theme="auto" を立てて端末の設定に従わせる。 */
   function applyTheme() {
     var t = FR.store.settings.get('theme');
-    if (t === 'light' || t === 'dark') doc.documentElement.setAttribute('data-theme', t);
-    else doc.documentElement.removeAttribute('data-theme');
+    if (t !== 'light' && t !== 'auto') t = 'dark';
+    doc.documentElement.setAttribute('data-theme', t);
   }
 
   function cycleTheme() {
-    var order = ['auto', 'light', 'dark'];
+    var order = ['dark', 'light', 'auto'];
     var cur = FR.store.settings.get('theme');
-    var next = order[(order.indexOf(cur) + 1) % order.length];
+    var i = order.indexOf(cur);
+    var next = order[(i < 0 ? 0 : i + 1) % order.length];
     FR.store.settings.set('theme', next);
     applyTheme();
+    var label = { dark: 'ダーク', light: 'ライト', auto: '端末に合わせる' }[next];
+    byId('btn-theme').setAttribute('title', 'テーマ：' + label);
+    byId('btn-theme').setAttribute('aria-label', 'テーマを切り替える（現在：' + label + '）');
   }
 
   /* ==================== 検索 ==================== */
@@ -415,7 +422,8 @@
       if (FR.speech.isReady()) { banner.hidden = true; return; }
       banner.hidden = false;
       banner.textContent = '';
-      banner.appendChild(doc.createTextNode('🔊 フランス語の読み上げ音声が見つかりません。'));
+      if (FR.icon) banner.appendChild(FR.icon('sound', 13));
+      banner.appendChild(doc.createTextNode('フランス語の読み上げ音声が見つかりません。'));
 
       var a = doc.createElement('a');
       a.href = '#/settings';
@@ -487,8 +495,21 @@
 
   /* ==================== 起動 ==================== */
 
+  /** HTML に置いたボタン・リンクへアイコンを差し込む */
+  function installIcons() {
+    if (!FR.icon) return;
+    [['btn-menu', 'menu'], ['btn-speech', 'sound'], ['btn-theme', 'theme'],
+     ['btn-ai', 'spark'], ['btn-ai-close', 'close']].forEach(function (pair) {
+      FR.setIcon(byId(pair[0]), pair[1]);
+    });
+    doc.querySelectorAll('[data-icon]').forEach(function (a) {
+      a.insertBefore(FR.icon(a.dataset.icon, 16), a.firstChild);
+    });
+  }
+
   function init() {
     applyTheme();
+    installIcons();
     buildToc();
     setupSearch();
     setupSpeechDialog();

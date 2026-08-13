@@ -159,7 +159,7 @@
 
     /* --- ヘッダ --- */
     var head = el('div', 'drill-head');
-    head.appendChild(el('span', 'ttl', opts.title || '🎯 活用ドリル'));
+    head.appendChild(el('span', 'ttl', opts.title || '活用ドリル'));
 
     var modeBtn = el('button', 'btn-mini', mode === 'input' ? '4択にする' : '入力式にする');
     modeBtn.type = 'button';
@@ -367,7 +367,7 @@
       foot.appendChild(table);
 
       if (!correct && FR.aiPanel) {
-        var ai = el('button', 'aitool', '✨ なぜこの形になるの？');
+        var ai = el('button', 'aitool', 'なぜこの形になるの？');
         ai.type = 'button';
         ai.addEventListener('click', function () {
           FR.aiPanel.explainDrill(current);
