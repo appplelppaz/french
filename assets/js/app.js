@@ -38,9 +38,16 @@
     if (p) { p.forEach(function (fn) { fn(ch); }); delete pending[ch.id]; }
   };
 
+  /** 1ファイル版では全章が同梱済みなので、章を取りに行かない */
+  var bundled = doc.body && doc.body.dataset && doc.body.dataset.bundled === '1';
+
   function loadChapter(id) {
     return new Promise(function (resolve, reject) {
       if (chapters[id]) return resolve(chapters[id]);
+
+      if (bundled) {
+        return reject(new Error('この章はこのファイルに含まれていません: ' + id));
+      }
 
       if (pending[id]) { pending[id].push(resolve); return; }
       pending[id] = [resolve];

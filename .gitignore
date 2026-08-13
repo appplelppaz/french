@@ -1,3 +1,8 @@
 node_modules/
 .DS_Store
 *.log
+
+# APIキーを誤って置かないための保険（キーは localStorage にのみ保存される）
+.env
+*.key
+secrets.json
