@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>フランス語文法テキスト</title>
+<meta name="description" content="日本語話者のための、大学レベルのフランス語文法テキスト。全文クリックで発音、動詞活用ドリル、AI文法質問つき。">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23a4243b'/%3E%3Ctext x='16' y='23' font-size='20' font-family='Georgia,serif' font-style='italic' fill='white' text-anchor='middle'%3EF%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<a class="skip-link" href="#main">本文へスキップ</a>
+
+<header class="topbar">
+  <button class="iconbtn" id="btn-menu" aria-label="目次を開く" aria-expanded="false">☰</button>
+
+  <a class="brand" href="#/">
+    <span class="brand-fr">Grammaire</span>
+    <span class="brand-ja">フランス語文法テキスト</span>
+  </a>
+
+  <div class="topbar-spacer"></div>
+
+  <div class="search-wrap">
+    <input type="search" id="search-input" placeholder="検索…" aria-label="全文検索" autocomplete="off">
+    <div class="search-results" id="search-results" hidden></div>
+  </div>
+
+  <button class="iconbtn" id="btn-speech" aria-label="音声設定" title="音声設定">🔊</button>
+  <button class="iconbtn" id="btn-theme" aria-label="テーマ切替" title="テーマ切替">◐</button>
+  <button class="iconbtn iconbtn-ai" id="btn-ai" aria-label="AIパネルを開く" title="AIに質問">✨</button>
+</header>
+
+<div id="voice-banner" class="banner" hidden></div>
+
+<div class="layout">
+
+  <nav class="sidebar" id="sidebar" aria-label="目次">
+    <div class="sidebar-head">
+      <span>目次</span>
+      <span class="progress-pill" id="progress-pill"></span>
+    </div>
+    <ol class="toc" id="toc"></ol>
+    <div class="sidebar-foot">
+      <a href="#/drill" class="sidebar-link">🎯 活用ドリル</a>
+      <a href="#/verbs" class="sidebar-link">📖 動詞活用表</a>
+      <a href="#/myphrases" class="sidebar-link">⭐ マイ例文</a>
+      <a href="#/settings" class="sidebar-link">⚙️ 設定</a>
+    </div>
+  </nav>
+
+  <main id="main" class="main" tabindex="-1">
+    <article id="chapter" class="chapter"></article>
+    <nav class="chapter-nav" id="chapter-nav" aria-label="前後の章"></nav>
+  </main>
+
+  <aside class="minitoc" id="minitoc" aria-label="この章の目次"></aside>
+
+</div>
+
+<div class="scrim" id="scrim" hidden></div>
+
+<!-- AI パネル -->
+<aside class="aipanel" id="aipanel" aria-label="AIアシスタント" hidden>
+  <div class="aipanel-head">
+    <strong>AI に質問</strong>
+    <span class="aipanel-ctx" id="aipanel-ctx"></span>
+    <button class="iconbtn" id="btn-ai-close" aria-label="閉じる">✕</button>
+  </div>
+  <div class="aipanel-body" id="aipanel-body"></div>
+  <form class="aipanel-form" id="aipanel-form">
+    <textarea id="ai-input" rows="2" placeholder="この章について質問する…（例：なぜここは de になるの？）"></textarea>
+    <button type="submit" id="ai-send" class="btn btn-primary">送信</button>
+  </form>
+  <p class="aipanel-note">AI の回答は誤ることがあります。教材本文が正です。</p>
+</aside>
+
+<!-- 音声設定ダイアログ -->
+<dialog id="speech-dialog" class="dialog">
+  <form method="dialog">
+    <h2>音声設定</h2>
+    <label class="field">
+      <span>読み上げの声</span>
+      <select id="voice-select"></select>
+    </label>
+    <label class="field">
+      <span>速さ <output id="rate-out"></output></span>
+      <input type="range" id="rate-range" min="0.5" max="1.2" step="0.05">
+    </label>
+    <p class="hint" id="speech-hint"></p>
+    <menu>
+      <button class="btn" id="speech-test" type="button">試聴</button>
+      <button class="btn btn-primary" value="close">閉じる</button>
+    </menu>
+  </form>
+</dialog>
+
+<script src="assets/js/store.js"></script>
+<script src="assets/js/speech.js"></script>
+<script src="assets/js/markup.js"></script>
+<script src="content/verbs.js"></script>
+<script src="assets/js/conjugation.js"></script>
+<script src="assets/js/conj-table.js"></script>
+<script src="assets/js/drill.js"></script>
+<script src="assets/js/gemini.js"></script>
+<script src="assets/js/ai-panel.js"></script>
+<script src="content/index.js"></script>
+<script src="assets/js/pages.js"></script>
+<script src="assets/js/app.js"></script>
+
+</body>
+</html>
