@@ -6,6 +6,11 @@
  *   - 表の列数が行ごとにずれている（[[仏文|カナ|訳]] がセルを割ってしまう事故）
  *   - 例文ブロックや語彙リストの項目数が足りない
  *   - テンプレートリテラルを壊す文字の混入
+ *   - 分量（文字数・練習問題数・語彙数）が目標に届いていない
+ *
+ * 分量の未達は構造の壊れとは性質が違う。書き進めている途中は必ず未達が出るので、
+ * 既定では一覧に出すだけで終了コードには反映しない。
+ * すべて書き終えたあとの最終確認では --strict を付けて、未達も失敗として扱う。
  */
 'use strict';
 
@@ -21,8 +26,20 @@ require(path.join(ROOT, 'content', 'index.js'));
 
 const FR = globalThis.FR;
 
+const STRICT = process.argv.includes('--strict');
+
+/* 分量の目安。市販の仏文法書に近い密度をめざす。 */
+const SIZE = {
+  target:   20000,  // 1章の目標
+  warnAt:   13000,  // これを下回ったら「もう少し」
+  failAt:    8000,  // これを下回ったら明らかに足りない
+  quizzes:     10,  // 練習問題の数
+  vocab:       15   // 語彙リストの項目数
+};
+
 const problems = [];
 const warnings = [];
+const sizes = [];      // 章ごとの分量（一覧に出す）
 let checked = 0;
 
 function fail(file, msg) { problems.push(`  ${file}: ${msg}`); }
@@ -157,6 +174,7 @@ for (const ch of chapters) {
 
   /* 例文ブロック・語彙リストの項目数 */
   let mode = null;
+  let vocabCount = 0;
   lines.forEach((line, i) => {
     const t = line.trim();
     if (/^:::ex\b/.test(t)) { mode = 'ex'; return; }
@@ -168,8 +186,11 @@ for (const ch of chapters) {
     if (mode === 'ex' && parts.length < 3) {
       warn(id, `${i + 1}行目: 例文が3項目そろっていない（仏文 | カナ | 和訳）: ${t.slice(0, 40)}`);
     }
-    if (mode === 'vocab' && parts.length < 3) {
-      warn(id, `${i + 1}行目: 語彙が3項目そろっていない（語 | 品詞 | 意味）: ${t.slice(0, 40)}`);
+    if (mode === 'vocab') {
+      vocabCount++;
+      if (parts.length < 3) {
+        warn(id, `${i + 1}行目: 語彙が3項目そろっていない（語 | 品詞 | 意味）: ${t.slice(0, 40)}`);
+      }
     }
   });
 
@@ -184,7 +205,7 @@ for (const ch of chapters) {
   }
 
   /* 練習問題は Q. と A. が対になっているか */
-  let inQuiz = false, qs = 0, as = 0;
+  let inQuiz = false, qs = 0, as = 0, quizCount = 0;
   for (const line of lines) {
     const t = line.trim();
     if (/^:::quiz\b/.test(t)) { inQuiz = true; qs = 0; as = 0; continue; }
@@ -193,12 +214,20 @@ for (const ch of chapters) {
       inQuiz = false;
       continue;
     }
-    if (inQuiz && /^Q[.．:：]/.test(t)) qs++;
+    if (inQuiz && /^Q[.．:：]/.test(t)) { qs++; quizCount++; }
     if (inQuiz && /^A[.．:：]/.test(t)) as++;
   }
 
   /* 見出しがあるか */
   if (!/^##\s/m.test(body)) warn(id, '見出し（##）が1つも無い');
+
+  /* 分量。「網羅的に」という目標を機械で担保する */
+  sizes.push({
+    id, no: ch.no, title: ch.title || '',
+    chars: body.length, quizzes: quizCount, vocab: vocabCount,
+    short: body.length < SIZE.warnAt || quizCount < SIZE.quizzes || vocabCount < SIZE.vocab,
+    tooShort: body.length < SIZE.failAt
+  });
 }
 
 /* ---------- 結果 ---------- */
@@ -219,5 +248,49 @@ if (missing.length) {
   console.log('');
 }
 
-console.log(`原稿の検査: ${checked} 章を確認、問題 ${problems.length} 件 / 注意 ${warnings.length} 件`);
-process.exit(problems.length ? 1 : 0);
+/* ---------- 分量の一覧 ---------- */
+
+sizes.sort((a, b) => a.chars - b.chars);
+
+const under = sizes.filter(s => s.short);
+const total = sizes.reduce((n, s) => n + s.chars, 0);
+
+function pad(s, n) {
+  // 全角を2つ分として数える。等幅で見たときに桁がそろうように。
+  // 長すぎる場合は切り詰める（切り詰めないと以降の列がずれる）。
+  const cells = [];
+  let w = 0;
+  for (const c of String(s)) {
+    const cw = /[ -~｡-ﾟ]/.test(c) ? 1 : 2;
+    if (w + cw > n - 1) { cells.push('…'); w += 1; break; }
+    cells.push(c); w += cw;
+  }
+  return cells.join('') + ' '.repeat(Math.max(0, n - w));
+}
+
+console.log(`分量（目標 ${SIZE.target.toLocaleString()}字 / 練習 ${SIZE.quizzes}問 / 語彙 ${SIZE.vocab}語）`);
+console.log(`  合計 ${total.toLocaleString()}字、平均 ${Math.round(total / (sizes.length || 1)).toLocaleString()}字`);
+
+if (under.length) {
+  console.log(`  未達 ${under.length} / ${sizes.length} 章（少ない順）`);
+  console.log('');
+  console.log('    ' + pad('章', 26) + pad('文字数', 10) + pad('練習', 8) + '語彙');
+  for (const s of under) {
+    const mark = s.tooShort ? '× ' : '・';
+    console.log('    ' + mark + pad(`${s.no} ${s.title}`, 24)
+      + pad(s.chars.toLocaleString(), 10)
+      + pad(s.quizzes < SIZE.quizzes ? s.quizzes + ' /' + SIZE.quizzes : String(s.quizzes), 8)
+      + (s.vocab < SIZE.vocab ? s.vocab + ' /' + SIZE.vocab : String(s.vocab)));
+  }
+  console.log('');
+  console.log(`    × は ${SIZE.failAt.toLocaleString()}字未満。--strict を付けるとこれらも失敗として扱う`);
+} else {
+  console.log('  すべての章が目標に達している');
+}
+console.log('');
+
+const shortFail = STRICT ? under.length : 0;
+
+console.log(`原稿の検査: ${checked} 章を確認、問題 ${problems.length} 件 / 注意 ${warnings.length} 件`
+  + (under.length ? ` / 分量の未達 ${under.length} 章` : ''));
+process.exit(problems.length || shortFail ? 1 : 0);
