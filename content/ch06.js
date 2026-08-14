@@ -278,39 +278,6 @@ clair（明るい）/ foncé（濃い）が付くと全体が不変化になり�
 - [[Elle chante bien.\|エル・シャント・ビアン\|彼女は上手に歌う。]]（副詞 → 一致しない）
 :::
 
-## 練習問題
-
-:::quiz
-Q. un vieil homme はなぜ vieux ではなく vieil なのですか。
-A. beau / nouveau / vieux は、母音または無音の h で始まる男性名詞の前でのみ、bel / nouvel / vieil という特別な形を取る。母音の衝突を避けて発音を滑らかにするためで、エリジオン・リエゾンと同じ原理。複数形では通常の形に戻る（de vieux hommes）。
-
-Q. un grand homme と un homme grand は、それぞれどういう意味ですか。
-A. un grand homme は「偉人」（前置＝主観的・比喩的な評価）、un homme grand は「背の高い男」（後置＝客観的な性質）。この対立は ancien, cher, pauvre, propre, seul などにも共通する。
-
-Q. bon の女性形が bonne になると、なぜ発音が「ボン」から「ボンヌ」に変わるのですか。
-A. n が重なることで鼻母音の条件（n の後ろに母音字が来ない、n が重なっていない）を満たさなくなるため。第0章の鼻母音の規則がそのまま効いている。italien → italienne も同じ。
-
-Q. des livres intéressants と de beaux livres で、なぜ冠詞が違うのですか。
-A. 複数の不定冠詞 des は、形容詞が名詞の前に置かれると de に変わる（書き言葉の規則）。intéressant は後置なので des のまま、beau は前置なので de になる。
-
-Q. 「彼女は上手に歌う」を Elle chante bonne. と書くのはなぜ誤りですか。
-A. 動詞を修飾するのは副詞であり、形容詞ではないため。bon の副詞形は不規則で bien。正しくは Elle chante bien. 副詞は性数一致しない。
-
-Q. évidemment はどう発音しますか。また、どの形容詞から作られていますか。
-A. 「エヴィダマン」。-ent で終わる形容詞 évident から、-emment を付けて作られる。-amment（constant → constamment）と -emment（évident → évidemment）は綴りが違うが、どちらも「アマン」と発音される。
-
-Q. des chaussures marron の marron に s が付かないのはなぜですか。
-A. marron（栗）は**名詞由来の色**なので不変化だから。orange も同じ。名詞をそのまま色名に転用した形容詞は一致しない。普通の色（bleu / noir / rouge …）は一致する。
-
-Q. 「明るい青の目」は des yeux bleus clairs ですか。
-A. 違う。**des yeux bleu clair**。clair / foncé などが付いた**複合色は全体が不変化**になる。une jupe vert foncé（深緑のスカート）も同じ。
-
-Q. Elle est japonaise. と C'est une Japonaise. で大文字が違うのはなぜですか。
-A. **形容詞は小文字、名詞（〜人）は大文字**という規則があるから。英語がどちらも Japanese と大文字にするのと違い、フランス語では品詞で書き分ける。言語名も小文字（le japonais 日本語）。
-
-Q. 「彼女は背の高い美しい女性だ」のように形容詞を2つ使うとき、位置はどうなりますか。
-A. それぞれの形容詞の定位置に置く：**une belle femme grande** より **une grande et belle femme** など並べ方は複数ありうるが、原則は「前置形容詞は前、後置形容詞は後ろ」（une **petite** voiture **rouge** 小さくて赤い車）。同じ位置に2つ並ぶときは et でつなぐ。
-:::
 
 :::ai-gen 形容詞の性数一致、形容詞の位置、位置で意味が変わる形容詞
 

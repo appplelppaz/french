@@ -312,39 +312,6 @@ Vous êtes combien dans votre famille ? | ヴー・ゼット・コンビアン |
 - どの〜 / 〜は何か → **quel**（名詞に性数一致する）
 :::
 
-## 練習問題
-
-:::quiz
-Q. qu'est-ce qui と qu'est-ce que は、どこが違いますか。また、どう覚えればよいですか。
-A. 後半の qui / que が文中の役割を表す。qui なら**主語**（何が）、que なら**目的語**（何を）。前半の qu' は「物」を表す。つまり「前半＝人か物か、後半＝主語か目的語か」の2部品構成として理解すれば、4つを丸暗記しなくてよい。
-
-Q. 「何が起きているの？」を短形で言えますか。
-A. 言えない。**物が主語のときは短形が存在しない**（× Que se passe ?）。必ず長形 Qu'est-ce qui se passe ? を使う。疑問代名詞の体系にある唯一の欠落。
-
-Q. À que penses-tu ? はなぜ誤りですか。
-A. 前置詞の後ろでは que ではなく **quoi** を使うため。正しくは À **quoi** penses-tu ? que は動詞の直前に置く弱形で、単独や前置詞の後には立てない（me / moi の関係と同じ）。
-
-Q. 「お名前は何ですか？」を Qu'est-ce que votre nom ? と言えないのはなぜですか。
-A. 名前・職業・住所・年齢といった「人・物の属性」を尋ねるときは疑問形容詞 quel を使うため。正しくは **Quel est votre nom ?** 目安として、答えが名詞そのものなら quel、答えが説明・定義なら qu'est-ce que。
-
-Q. Pourquoi pleure Marie ? はなぜ誤りですか。
-A. pourquoi だけは単純倒置（名詞主語をそのまま動詞の後ろに置く）ができないため。正しくは **Pourquoi Marie pleure-t-elle ?**（複合倒置）。他の疑問副詞（où, quand, comment）では単純倒置が可能。
-
-Q. 話し言葉で「何してるの？」を最もくだけた形で言うとどうなりますか。
-A. **Tu fais quoi ?** 語順を変えず疑問詞を文末に置く形。このとき que ではなく quoi を使う。中立なら Qu'est-ce que tu fais ?、改まった書き言葉なら Que fais-tu ?
-
-Q. 「名前は何ていうの？」を、くだけた形・中立の形・改まった形で言ってください。
-A. くだけた：**Tu t'appelles comment ?**（疑問詞を文末に）／中立：**Comment est-ce que tu t'appelles ?**／改まった：**Comment t'appelles-tu ?**（倒置）。話し言葉では文末形が最も多い。
-
-Q. 文末に置けない疑問詞はどれですか。
-A. **pourquoi**。× Tu pleures pourquoi ? は言えず、Pourquoi tu pleures ? と文頭に置く。理由を問う語は文全体にかかるため。他の疑問詞（où / quand / comment / combien / qui / quoi）は文末に置ける。
-
-Q. Pourquoi pas ? はどういう意味ですか。
-A. 「**いいんじゃない？**」。文字どおりは「なぜだめなのか」だが、提案への前向きな同意の定型。On va au cinéma ? — Pourquoi pas ! のように使う。
-
-Q. C'est quoi, ça ? はどんな文体ですか。書き言葉ではどうなりますか。
-A. かなり**くだけた話し言葉**（何それ？）。書き言葉・改まった場面では **Qu'est-ce que c'est ?** を使う。quoi は前置詞の後ろか文末にしか立てない強勢形の疑問詞で、文頭の「何」は que / qu'est-ce que になる（§3）。
-:::
 
 :::ai-gen 疑問副詞、疑問代名詞 qui/que/quoi、quel との使い分け
 

@@ -487,39 +487,6 @@ Laisse les choses telles quelles. | レス・レ・ショーズ・テル・ケ�
 
 :::drill être,avoir,venir,partir present,passeCompose
 
-## 練習問題
-
-:::quiz
-Q. tout は品詞としていくつの働きを持ちますか。それぞれ例を挙げてください。
-A. **3つ**。（1）**形容詞**——tout le monde、toute la journée、tous les jours（限定詞＋名詞に付いて「全部」）。（2）**代名詞**——Tout va bien.（中性「すべてのこと」）、Ils sont tous venus.（人「全員」）。（3）**副詞**——Elle est tout étonnée.（「まったく」）。1語で3役をこなす、フランス語で最も多機能な語。
-
-Q. 綴りが同じ tous の発音は、どのように使い分けますか。
-A. **形容詞なら [tu]「トゥ」、代名詞なら [tus]「トゥス」**。Il vient tous les jours.「トゥ・レ・ジュール」（形容詞、s を読まない）／ Ils sont tous venus.「トゥス・ヴニュ」（代名詞、s を読む）。代名詞は単独で立つので、聞き分けのために語末の s を発音する。「語末の子音は読まない」の体系的な例外。
-
-Q. tous les hommes と tout homme は意味がどう違いますか。
-A. **tous les hommes** は限定詞つきで「すべての人間」＝**集合を一括して指す**。**tout homme** は無冠詞単数で「どんな人間も」＝**任意の一人を取り上げる**。後者はやや改まった言い方で、法律・格言・掲示に多い（Tout homme est mortel.）。論理学の全称を表す2つの方法に対応する。
-
-Q. chaque と chacun の違いを述べてください。
-A. **chaque は形容詞専用**で、必ず後ろに名詞が要り、常に単数・不変化・冠詞と共存しない（chaque jour）。**chacun / chacune は代名詞専用**で、名詞なしで単独に立つ（Chacun a ses défauts.）。× Chaque a un livre は誤りで、○ Chacun a un livre。
-
-Q. quelque chose に形容詞を付けるとき、どういう形になりますか。
-A. **quelque chose de + 形容詞（男性単数）**。de は省略できず、形容詞は常に男性単数形。quelque chose **de** beau、quelqu'un **de** gentil、rien **de** nouveau、personne **de** sérieux。quelque chose は文法上の性を持たないので、既定値の男性単数が使われる。× quelque chose de belle は誤り。
-
-Q. un certain homme と un homme certain の意味の違いと、その背景にある原理を述べてください。
-A. **un certain homme** は「ある男」（不特定）、**un homme certain** は「確実な男」。フランス語の形容詞は本来「名詞の後」が基本位置なので、**前に出すことが「ふつうでない読み方をせよ」という合図**になる。前は主観的・比喩的、後ろは客観的・本来的。ancien、propre、cher、grand、pauvre、dernier、seul も同じ対立を持つ。
-
-Q. d'autres と des autres はどう違いますか。
-A. **d'autres** は「他のいくつか」で、不定冠詞 des が前置形容詞の前で de に縮まった形（J'ai vu d'autres films.＝他の映画を何本か見た）。**des autres** は前置詞 de + 定冠詞 les の縮約（J'ai vu les films des autres.＝他の人たちの映画を見た）。書き分けを間違えると意味が変わる。
-
-Q. même の意味は位置によってどう変わりますか。4通り挙げてください。
-A. （1）**限定詞 + même + 名詞** = 同じ（le même jour）。（2）**名詞 + même** = まさにその（le jour même）。（3）**強勢形 + -même** = 〜自身（moi-même）。（4）**副詞** = 〜さえ（Même lui est venu.）。副詞用法は**不変化**だが、形容詞用法は複数で mêmes になる。
-
-Q. Je n'ai rien vu. と Je n'ai vu personne. で、rien と personne の位置が違うのはなぜですか。
-A. **rien は pas と同じ扱いの軽い語**なので、否定の枠の中（助動詞と過去分詞の間）に収まる。**personne は名詞由来の重い語**なので、目的語と同じく過去分詞の後ろに回る。nulle part も personne と同じで過去分詞の後。主語として使うときはどちらも文頭で、ne は残るが pas は付かない（Personne n'est venu. / Rien n'a changé.）。
-
-Q. on の動詞の形と、on が受動態の代わりになる理由を述べてください。
-A. on の動詞は意味が「私たち」でも**必ず3人称単数**（On est fatigués.）。ただし属詞の形容詞は意味上の主語に一致して複数になることがあり、規範と実用がずれる。on はラテン語 homo（人）＝名詞 homme と同語源の不定代名詞なので、動作主を明示せずに済む。そのため英語が受動で言うところを、フランス語は on の能動で表すほうが自然（On a construit ce pont en 1900.）。
-:::
 
 :::ai-gen 不定形容詞と不定代名詞、tout の3用法、位置で意味が変わる語
 

@@ -321,39 +321,6 @@ Et dimanche, je n'ai rien fait. | エ・ディマンシュ・ジュ・ネ・リ�
 
 :::drill chanter,finir,prendre,aller,venir,faire,être,avoir,voir,mettre passeCompose
 
-## 練習問題
-
-:::quiz
-Q. Je l'ai vue. の vue に e が付いているのはなぜですか。
-A. 助動詞 avoir でも、直接目的語が過去分詞より前にあるときはその目的語に一致するため。l' が女性（elle）を受けているので vue になる。目的語が後ろなら一致しない（J'ai vu Marie.）。
-
-Q. Je lui ai parlé. で、なぜ parlée にならないのですか。
-A. lui は**間接**目的語だから。一致するのは**直接**目的語が前に出た場合だけで、間接目的語は前にあっても対象外。第17章・第18章の直接／間接の区別が、ここで過去分詞の形を決めている。
-
-Q. être を助動詞に取る動詞には、どんな共通点がありますか。
-A. 移動や状態の変化を表す自動詞（aller/venir, arriver/partir, entrer/sortir, monter/descendre, naître/mourir, rester/tomber など、多くが対になっている）と、代名動詞（se + 動詞）。それ以外は原則 avoir。
-
-Q. Elle est montée. と Elle a monté les valises. で、なぜ助動詞が違うのですか。
-A. monter, descendre, sortir, entrer, rentrer, passer, retourner の7語は、**目的語を取るかどうか**で助動詞が変わる。自動詞なら être（一致する）、他動詞なら avoir（一致しない）。判定基準は直接目的語の有無。
-
-Q. Je n'ai rien vu. と Je n'ai vu personne. で、否定語の位置が違うのはなぜですか。
-A. rien は助動詞と過去分詞の間に入るが、personne は過去分詞の後ろに置かれる。personne がもともと名詞（人）であり、目的語の位置に留まるため。第5章で見た否定語の語源が効いている。
-
-Q. J'ai mangé hier. は、英語では I have eaten yesterday. とは言えません。なぜフランス語では言えるのですか。
-A. フランス語の複合過去は、英語の past simple と present perfect の**両方**をカバーするため。完了した出来事も、現在との関わりを持つ完了も、同じ形で表す。英語のような使い分けはない。
-
-Q. 「いい週末だった？」と月曜に聞くには？
-A. **Tu as passé un bon week-end ?**（vous なら Vous avez passé …）。返答の定番は複合過去の羅列：Samedi, on est allés au marché. / J'ai vu des amis. / Je n'ai rien fait.（何もしなかった）。
-
-Q. 出来事を順に並べる接続語を4つ挙げてください。
-A. **d'abord**（まず）→ **ensuite / puis**（それから）→ **après**（その後）→ **enfin**（最後に）。複合過去の文をこの4語でつなぐと報告の流れができる。
-
-Q. Ça m'a fait du bien. はどういう意味ですか。
-A. 「**いい息抜きになった・気分がよくなった**」。faire du bien à qn（人を心地よくする）の複合過去。休暇・運動・休息の感想の定型。
-
-Q. on est allés の allés に s が付くのはなぜですか。
-A. on が「私たち」の意味なので、**意味上の複数に合わせて過去分詞を一致**させる書き方が広く行われるから（規範では on est allé も可）。動詞そのものは常に3人称単数（est）で変わらない（第3章）。
-:::
 
 :::ai-gen 複合過去、助動詞 avoir と être、過去分詞の性数一致
 

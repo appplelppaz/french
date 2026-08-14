@@ -635,39 +635,6 @@ pis は現代語ではほぼ使われず、慣用句 **tant pis**（しかたな
 
 :::drill parler,travailler,manger,courir,vivre present,passeCompose
 
-## 練習問題
-
-:::quiz
-Q. 形容詞と副詞の違いを、修飾する相手と形の変化の2点で述べてください。
-A. 形容詞は**名詞・代名詞**だけを修飾し、その**性数に一致**する。副詞は**動詞・形容詞・別の副詞・文全体**を修飾し、**一切変化しない**。judgement は「その語を消したとき、意味が成り立たなくなるのはどちらか」で行う。
-
-Q. 形容詞から -ment 副詞を作る3つの規則を述べてください。
-A. （1）語末が -ant / -ent なら **-amment / -emment**（constant → constamment、évident → évidemment。ただし lent → lentement は例外）。（2）男性形が母音で終わるなら**男性形にそのまま -ment**（vrai → vraiment、poli → poliment）。（3）それ以外は**女性形に -ment**（lente → lentement、douce → doucement）。
-
-Q. -amment と -emment の発音はどう違いますか。
-A. **違わない。どちらも [amɑ̃]「アマン」**。évidemment は「エヴィダマン」であって「エヴィドゥマン」ではない。-emment の e を「ア」と読むのはフランス語では例外的な読み方で、綴りと発音の両方向で間違えやすい。
-
-Q. なぜ -ment は形容詞の女性形に付くのですか。
-A. -ment はラテン語の女性名詞 **mens**（心）の奪格 **mente**（〜な心で）が語尾化したもの。もとは clara mente のように2語で、女性名詞 mens にかかるため形容詞が女性形になった。イタリア語・スペイン語の -mente も同じ起源。
-
-Q. 「彼はよくパリに行く」をフランス語にするとき、souvent はどこに置きますか。英語との違いも述べてください。
-A. **Il va souvent à Paris.**（動詞の直後）。英語は He **often** goes と主語と動詞の間に置くが、フランス語ではその位置が空いていないので、× Il souvent va は非文になる。目的語があるときも動詞と目的語の間に入る（Il parle **bien** le français.）。
-
-Q. 複合時制のとき、副詞が「助動詞と過去分詞の間」に入る場合と「過去分詞の後ろ」に来る場合を分けてください。
-A. **短くて頻度の高い副詞**（bien, mal, vite, déjà, encore, toujours, souvent, jamais, beaucoup, trop, presque など）は**間**に入る（Il a **bien** mangé）。**長い -ment 副詞**は**過去分詞の後ろ**（Il a répondu **poliment**）。ただし長い副詞も強調のため間に置ける（Il a **complètement** oublié）ので、非対称。迷ったら間が安全。
-
-Q. très と beaucoup はどう使い分けますか。avoir très faim が言える理由も説明してください。
-A. **très は形容詞・副詞**を、**beaucoup は動詞・名詞（de つき）**を修飾する。したがって × J'aime très ce film は誤りで、○ J'aime **beaucoup** ce film。avoir très faim が言えるのは、avoir + 無冠詞名詞（faim, peur, envie, soif, sommeil, mal）が**状態を表す形容詞のように振る舞う慣用句**になっているため。このセットに限った例外。
-
-Q. peu と un peu はどう違いますか。
-A. **正反対**。peu は「ほとんど〜ない」で**不足を指摘**し、un peu は「少しはある」で**存在を認める**。Il travaille peu.（ほとんど働かない）／ Il travaille un peu.（少し働く）。英語の little と a little と同じ対立で、**un が付けば「ある」**。
-
-Q. 否定文で「私も好きではない」と言うとき、aussi は使えますか。
-A. **使えない**。否定文では aussi の代わりに **non plus** を使う。Moi **non plus**, je n'aime pas le café. × Moi aussi, je n'aime pas … は誤り。英語の too / (n)either の対立と同じ。
-
-Q. meilleur と mieux の使い分けを述べてください。
-A. **meilleur は形容詞 bon の比較級**（名詞にかかる・属詞になる）、**mieux は副詞 bien の比較級**（動詞にかかる）。Ce vin est **meilleur**.（このワインのほうがおいしい）／ Il chante **mieux**.（彼のほうが上手に歌う）。判定は bon / bien の区別と同じで、名詞にかかるか動詞にかかるかで決まる。なお副詞の最上級は性数によらず**冠詞が常に le**（le mieux、le plus vite）。
-:::
 
 :::ai-gen 副詞の位置、-ment の作り方、très と beaucoup の使い分け
 

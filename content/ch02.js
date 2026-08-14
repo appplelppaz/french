@@ -290,39 +290,6 @@ Je ne mange pas de fromage. | ジュ・ヌ・マンジュ・パ・ドゥ・フ�
 無冠詞は「その名詞をモノとして数えていない」しるしだ、という原則がここでも効いています。
 :::
 
-## 練習問題
-
-:::quiz
-Q. J'aime ( ) café. と Je bois ( ) café. に入る冠詞は、それぞれ何ですか。
-A. J'aime **le** café.（定冠詞・総称。「コーヒーというもの」全般が好き）／ Je bois **du** café.（部分冠詞。実際にある量を飲む）。動詞が冠詞を決めている。
-
-Q. Je bois du café. を否定文にしてください。
-A. Je ne bois pas **de** café. 部分冠詞 du は否定文で de になる。不定冠詞・部分冠詞は「ある量」を表すため、否定で量がゼロになると de だけが残る。
-
-Q. Je n'aime pas le café. で、なぜ le が de にならないのですか。
-A. 定冠詞は量ではなく特定性・総称を表すため、否定の影響を受けない。否定の de が起きるのは、不定冠詞と部分冠詞（量を表す冠詞）だけ。
-
-Q. des amis に bons を付けると、なぜ de bons amis になるのですか。
-A. 複数の不定冠詞 des は、形容詞が名詞の前に置かれると de に変わるため（書き言葉の規則）。話し言葉では des bons amis も広く使われる。
-
-Q. 次の2つの du は、それぞれ何ですか。（1）Je bois du café. （2）Je viens du Japon.
-A. （1）は部分冠詞（ある量のコーヒー）。（2）は前置詞 de + 定冠詞 le の縮約（日本から）。形は同じだが機能が違う。
-
-Q. beaucoup de livres で、なぜ livres に冠詞が付かないのですか。
-A. beaucoup がすでに数量の情報を担っているため、冠詞が重ねて量を示す必要がないから。同じ理由で un peu de, trop de, une tasse de などの後ろも無冠詞になる。ただし la plupart des と bien des は定冠詞を保つ。
-
-Q. J'aime le café. / Je bois du café. / Je voudrais un café. の冠詞の違いを説明してください。
-A. **le は総称**（コーヒーというものが好き）、**du は量**（いくらか飲む）、**un は個数**（1杯ください）。好みの動詞（aimer / adorer / détester / préférer）は総称の le、量を扱う動詞（boire / manger / prendre）は du、注文で数えるなら un。
-
-Q. カフェで注文するとき Je voudrais du café. と言うのは自然ですか。
-A. 不自然。注文は「1杯」と数えるので **un café**。部分冠詞は「いくらかの量」を家庭・食卓で扱うときに使う（Il y a du café. コーヒーあるよ）。
-
-Q. 「チーズは食べません」の冠詞はどうなりますか。
-A. **Je ne mange pas de fromage.** 直接目的語の不定冠詞・部分冠詞は、否定文で **de** に変わる（否定の de）。定冠詞は変わらない（Je n'aime pas le fromage.——総称はそのまま）。
-
-Q. 1つの名詞について冠詞を使い分ける「4役」とは何ですか。
-A. **総称の le / 量の du / 個数の un / 否定の de**。同じ名詞（café, fromage …）でこの4つの文が正しく言えれば、冠詞の使い分けの核心は身についている。
-:::
 
 :::ai-gen 定冠詞・不定冠詞・部分冠詞の使い分け、否定の de
 

@@ -6,7 +6,7 @@
  *   - 表の列数が行ごとにずれている（[[仏文|カナ|訳]] がセルを割ってしまう事故）
  *   - 例文ブロックや語彙リストの項目数が足りない
  *   - テンプレートリテラルを壊す文字の混入
- *   - 分量（文字数・練習問題数・語彙数）が目標に届いていない
+ *   - 分量（文字数・語彙数）が目標に届いていない
  *
  * 分量の未達は構造の壊れとは性質が違う。書き進めている途中は必ず未達が出るので、
  * 既定では一覧に出すだけで終了コードには反映しない。
@@ -30,10 +30,11 @@ const STRICT = process.argv.includes('--strict');
 
 /* 分量の目安。市販の仏文法書に近い密度をめざす。 */
 const SIZE = {
-  target:   20000,  // 1章の目標
-  warnAt:   13000,  // これを下回ったら「もう少し」
-  failAt:    8000,  // これを下回ったら明らかに足りない
-  quizzes:     10,  // 練習問題の数
+  // クイズは置かない方針（文法の本文そのもので学べることを優先）。
+  // 文字数は本文＝説明・例文・表・語彙の量を測る。
+  target:   15000,  // 1章の目標
+  warnAt:   10000,  // これを下回ったら「もう少し」
+  failAt:    7000,  // これを下回ったら明らかに足りない
   vocab:       15   // 語彙リストの項目数
 };
 
@@ -225,7 +226,7 @@ for (const ch of chapters) {
   sizes.push({
     id, no: ch.no, title: ch.title || '',
     chars: body.length, quizzes: quizCount, vocab: vocabCount,
-    short: body.length < SIZE.warnAt || quizCount < SIZE.quizzes || vocabCount < SIZE.vocab,
+    short: body.length < SIZE.warnAt || vocabCount < SIZE.vocab,
     tooShort: body.length < SIZE.failAt
   });
 }
@@ -268,18 +269,17 @@ function pad(s, n) {
   return cells.join('') + ' '.repeat(Math.max(0, n - w));
 }
 
-console.log(`分量（目標 ${SIZE.target.toLocaleString()}字 / 練習 ${SIZE.quizzes}問 / 語彙 ${SIZE.vocab}語）`);
+console.log(`分量（目標 ${SIZE.target.toLocaleString()}字 / 語彙 ${SIZE.vocab}語）`);
 console.log(`  合計 ${total.toLocaleString()}字、平均 ${Math.round(total / (sizes.length || 1)).toLocaleString()}字`);
 
 if (under.length) {
   console.log(`  未達 ${under.length} / ${sizes.length} 章（少ない順）`);
   console.log('');
-  console.log('    ' + pad('章', 26) + pad('文字数', 10) + pad('練習', 8) + '語彙');
+  console.log('    ' + pad('章', 26) + pad('文字数', 10) + '語彙');
   for (const s of under) {
     const mark = s.tooShort ? '× ' : '・';
     console.log('    ' + mark + pad(`${s.no} ${s.title}`, 24)
       + pad(s.chars.toLocaleString(), 10)
-      + pad(s.quizzes < SIZE.quizzes ? s.quizzes + ' /' + SIZE.quizzes : String(s.quizzes), 8)
       + (s.vocab < SIZE.vocab ? s.vocab + ' /' + SIZE.vocab : String(s.vocab)));
   }
   console.log('');

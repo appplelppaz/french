@@ -277,39 +277,6 @@ On corrige les copies. | オン・コリージュ・レ・コピ | 答案を採�
 Les copies se corrigent facilement. | レ・コピ・ス・コリージュ・ファスィルマン | 答案は簡単に採点できる。（代名動詞）
 :::
 
-## 練習問題
-
-:::quiz
-Q. 受動態はどう作りますか。過去分詞は一致しますか。
-A. **être + 過去分詞**。être を使うので、過去分詞は必ず**主語に性数一致**する（Le livre est écrit / La lettre est écrite）。時制は être を活用させて変える。
-
-Q. Je téléphone à Marie. を受動態にできますか。
-A. できない。**直接目的語を持つ動詞しか受動態にできない**ため。téléphoner à は間接他動詞なので不可。英語では Marie was telephoned. と言えるが、フランス語では言えない。
-
-Q. par と de は、どう使い分けますか。
-A. **par は具体的な行為**（Le livre est écrit **par** Marie.）、**de は状態・感情**（Il est aimé **de** tous. / La ville est entourée **de** montagnes.）。aimer, respecter, entourer, couvrir などは de を取る。
-
-Q. 「この橋は1900年に建てられた」を、フランス語で最も自然に言うとどうなりますか。
-A. **On a construit ce pont en 1900.** 日本語では受動で訳すのが自然だが、フランス語では on を使った能動文が最も一般的。受動態（Ce pont a été construit…）は書き言葉・報道寄りの文体になる。
-
-Q. Ce livre se vend bien. はどんな構文ですか。
-A. **代名動詞の受動的用法**（第23章）。主語がモノのとき、se + 動詞で受動の意味を表す。一般的な性質を述べるときに使われ、受動態より日常的。
-
-Q. La porte est fermée. には何通りの解釈がありますか。
-A. 2通り。「ドアが閉められる」（動作の受動）と「ドアが閉まっている」（状態）。フランス語は être 一語で両方を担うため形では区別できず、文脈で判断する。ドイツ語の werden / sein、スペイン語の ser / estar のような区別がない。
-
-Q. 「彼は自転車を盗まれた」を自然なフランス語で言ってください。普通の受動態で書きにくいのはなぜですか。
-A. **Il s'est fait voler son vélo.** 「自転車を」という所有物が目的語として残る受け身は、普通の受動態（主語＝盗まれた物）では表せない。se faire + 不定詞が「被害の受け身」を担う。この構文の fait は不変化（Elle s'est fait couper les cheveux.）。
-
-Q. se faire + 不定詞には被害以外の意味もありますか。
-A. ある。**依頼**「〜してもらう」。Elle s'est fait couper les cheveux.（髪を切ってもらった）のように、自分で手配した行為にも使う。文脈で被害か依頼かが決まる。Je me suis fait avoir.（やられた・だまされた）は被害の定型。
-
-Q. Je suis téléphoné par lui. が誤りなのはなぜですか。
-A. 受動態の主語になれるのは**直接目的語だけ**だから。téléphoner **à** qn の「人」は間接目的語なので主語に昇格できない。能動のまま Il m'a téléphoné. と言う。英語の I was phoned が可能なのと対照的で、英語からの類推が効かない箇所。
-
-Q. se laisser + 不定詞はどういう意味ですか。
-A. 「**〜されるがままになる**」。Il s'est laissé convaincre.（説得されてしまった）。se faire が出来事として「された」を述べるのに対し、se laisser は**抵抗しなかった**という主語の態度を含む。
-:::
 
 :::ai-gen 受動態、par と de、on と代名動詞による代用
 

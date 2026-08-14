@@ -286,39 +286,6 @@ Je me couche vers minuit. | ジュ・ム・クシュ・ヴェール・ミニュ�
 
 :::drill coucher,lever,laver,appeler,promener,dépêcher présent,passeCompose
 
-## 練習問題
-
-:::quiz
-Q. 代名動詞の4つの用法を挙げてください。
-A. ①再帰的（自分を／自分に：Je me lave.）②相互的（お互いに：Ils se regardent.）③受動的（〜される：Ce livre se vend bien.）④本質的（代名動詞としてしか存在しない：se souvenir, s'en aller）。
-
-Q. Elle s'est lavée. と Elle s'est lavé les mains. で、なぜ一致が違うのですか。
-A. 前者では se が直接目的語（自分を洗う）なので一致する。後者では直接目的語が les mains であり、se は「自分に」＝間接目的語に格下げされるので一致しない。第20章の「直接目的語が前にあれば一致」という規則がそのまま適用されている。
-
-Q. Ils se sont téléphoné. で、なぜ téléphonés にならないのですか。
-A. téléphoner は **à** を取る動詞なので、se は間接目的語。間接目的語は前にあっても一致の対象にならない。同じ理由で Elles se sont parlé.（parler à）も一致しない。
-
-Q. 代名動詞の助動詞は何ですか。例外はありますか。
-A. **すべて être**。avoir を取る代名動詞は1つもない。第20章の「être を取るのは移動・状態変化の自動詞と代名動詞」の2つ目にあたる。
-
-Q. Je lave mes mains. はなぜ不自然ですか。
-A. 身体部位には所有形容詞ではなく定冠詞を使い、所有者は再帰代名詞で示すため。正しくは **Je me lave les mains.** me が「自分の」を担うので、mes は不要。
-
-Q. Ce livre se vend bien. は受動の意味ですが、第28章の受動態（être + 過去分詞）とどちらがよく使われますか。
-A. 代名動詞の受動的用法のほうが日常的によく使われる。行為者を言う必要がないとき、フランス語は受動態より se + 動詞、あるいは on を使う構文を好む。
-
-Q. Qu'est-ce qui se passe ? はどういう意味ですか。passer との関係は？
-A. 「**どうしたの？ 何が起きてるの？**」。se passer は「起こる」で、passer（通る）から意味がずれた代名動詞。過去なら Qu'est-ce qui s'est passé ?（何があったの？）。
-
-Q. Je m'en doutais. はどういう意味ですか。douter との違いは？
-A. 「**やっぱりね（うすうすそう思っていた）**」。se douter de は「うすうす気づく」で、douter de（疑う）とほぼ**逆の意味**になる。en が de ça を受けている。代名動詞化で意味が予測不能にずれる代表例。
-
-Q. 「駅はどこですか」を se trouver で言ってください。
-A. **Où se trouve la gare ?** se trouver は「位置する・ある」で、建物・場所の所在を尋ねる定型。Où est la gare ? より少し丁寧・客観的な響き。
-
-Q. Elle s'est rendu compte de son erreur. で rendu が一致しないのはなぜですか。
-A. **compte が直接目的語**なので、se は間接目的語（自分に勘定を返す→気づく）だから。§4の規則「se が間接目的語なら一致しない」がそのまま働く。se rendre compte は最頻出の「気づく」なので、この形のまま覚える。
-:::
 
 :::ai-gen 代名動詞、4つの用法、過去分詞の一致
 

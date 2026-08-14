@@ -321,39 +321,6 @@ En sortant, ferme la porte. | アン・ソルタン・フェルム・ラ・ポ�
 Tout en souriant, elle a refusé. | トゥ・タン・スリヤン・エラ・ルフュゼ | 微笑みながらも、彼女は断った。
 :::
 
-## 練習問題
-
-:::quiz
-Q. 現在分詞はどう作りますか。例外は何ですか。
-A. **nous の現在形から -ons を取って -ant を付ける**（半過去と同じ語幹）。例外は **être → étant、avoir → ayant、savoir → sachant** の3つだけ。
-
-Q. J'ai vu une femme chantant. と J'ai vu une femme en chantant. は、どう違いますか。
-A. 前者は**女性が歌っている**（現在分詞が直前の名詞を修飾）。後者は**私が歌っている**（ジェロンディフの主語は必ず主節の主語）。en の有無で、歌っている人が入れ替わる。
-
-Q. une histoire intéressante と une femme chantant une chanson で、なぜ一方だけ一致するのですか。
-A. intéressante は**形容詞的分詞**で性質を表すので一致する。chantant は**現在分詞**で動作を表し、動詞としての性質を保っているので一致しない。目的語（une chanson）を取っていることが現在分詞である証拠。
-
-Q. ジェロンディフの主語は誰ですか。
-A. **必ず主節の主語と同じ**。これがジェロンディフの決定的な規則で、現在分詞（直前の名詞を修飾する）との違いを生んでいる。
-
-Q. 「歌うことは楽しい」を Chantant est amusant. と書けますか。
-A. 書けない。フランス語で動名詞にあたるのは**不定詞**なので、正しくは **Chanter est amusant.** 英語の -ing が現在分詞・動名詞・進行形を兼ねるのに対し、フランス語では役割が分かれている。
-
-Q. C'est en forgeant qu'on devient forgeron. には、どの文法項目が使われていますか。
-A. 第22章の**強調構文**（c'est … que）と、この章の**手段のジェロンディフ**（en forgeant）。「鍛冶をすることによってこそ鍛冶屋になる」＝習うより慣れよ、という諺。
-
-Q. Tout en souriant, elle était furieuse. の tout は何を加えていますか。
-A. **同時性の強調と逆説**。tout en + ジェロンディフは「〜しながらも」という対立の含みを持つ（微笑みながらも怒っていた）。
-
-Q. 「さよならも言わずに出て行った」はジェロンディフの否定で言いますか。
-A. 言わない。**sans + 不定詞**を使う：Il est parti **sans dire** au revoir. ジェロンディフの否定（en ne disant pas）は不自然で、「〜せずに」は sans が担当する。
-
-Q. En sortant du métro, la pluie s'est mise à tomber. はなぜ誤りですか。
-A. ジェロンディフの意味上の主語は**主節の主語**でなければならないから。この文では「地下鉄を出た」のが la pluie（雨）になってしまう。英語の懸垂分詞と同じ誤り。Quand je suis sorti du métro, il s'est mis à pleuvoir. などに直す。
-
-Q. C'est en forgeant qu'on devient forgeron. はどんな構造ですか。
-A. ジェロンディフの**手段・条件**の用法（鍛冶をすることで）を、**c'est … que の強調構文**（第22章）で取り出した形。「習うより慣れろ」にあたる諺。ジェロンディフが si 節の代わりの条件になる用法（En prenant le train de 8 heures, …）の代表例。
-:::
 
 :::ai-gen 現在分詞、ジェロンディフ、形容詞的分詞の区別
 

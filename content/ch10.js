@@ -305,39 +305,6 @@ J'aime mon livre. | ジェーム・モン・リーヴル | 私は自分の本が
 Quel livre aimes-tu ? | ケル・リーヴル・エム・テュ | 君はどの本が好き？
 :::
 
-## 練習問題
-
-:::quiz
-Q. son livre は「彼の本」ですか、「彼女の本」ですか。
-A. どちらとも決まらない。son / sa / ses は**所有される名詞の性・数**に一致するのであって、所有者の性別とは無関係。livre が男性名詞だから son になっているだけ。所有者を明示したいときは son livre à elle のように強勢形を添える。
-
-Q. 「私の女友だち」は ma amie ですか、mon amie ですか。
-A. **mon amie**。女性名詞でも母音・無音の h で始まる場合は男性形（mon/ton/son）を使う。母音の衝突を避けるためで、cet homme や bel homme と同じ原理。ただし名詞は女性のままなので、形容詞は女性形で一致する（mon amie japonaise）。
-
-Q. cet と cette は、どうやって聞き分けますか。
-A. 聞き分けられない。どちらも「セット」で完全に同音。書くときに名詞の性で選ぶしかない（cet homme / cette femme）。
-
-Q. Il a mal à sa tête. はなぜ不自然ですか。
-A. 所有者が主語から明らかな身体部位には、フランス語は所有形容詞ではなく**定冠詞**を使うため。正しくは Il a mal à **la** tête. 所有者を明示する必要があるときは間接目的語や代名動詞で表す（Je me lave les mains.）。
-
-Q. 「なんていい天気だ！」を Quel un beau temps ! と書くのはなぜ誤りですか。
-A. 感嘆の quel の後ろには冠詞を付けないため。正しくは Quel beau temps ! 英語の What **a** beautiful day! とは違う点。
-
-Q. 「私の友人の一人」を un mon ami と言えないのはなぜですか。
-A. 冠詞と所有形容詞はどちらも限定詞であり、名詞ひとつにつき1個しか置けないため。正しくは un ami à moi または un de mes amis。なお tout は限定詞ではないので前に置ける（tous mes amis）。
-
-Q. 「なんて残念！」を quel を使って言ってください。感嘆の quel の冠詞の扱いも述べてください。
-A. **Quel dommage !** 感嘆の quel には**冠詞を付けない**（× Quel un dommage）。英語の What a pity! と違って a にあたるものが入らない。Quelle chance !（なんて運がいい）、Quelle bonne idée !（いい考え）も同じ型。
-
-Q. 相手一人に vous で話しているとき、所有形容詞はどれを使いますか。
-A. **votre / vos**。敬称の vous でも所有形容詞は2人称複数の系列で揃える。tu で話しながら votre を使う、あるいはその逆は、呼び方の混在として失礼にあたる。
-
-Q. n'importe quelle heure の n'importe quel はどういう意味ですか。
-A. 「**どんな〜でも、任意の**」。n'importe（どれでも構わない）+ quel の組み合わせで、quel は名詞に性数一致する（à n'importe quelle heure 何時でも）。n'importe qui / quoi / où（第10.5章）と同じ仲間。
-
-Q. Quel que soit le prix, j'achète. の quel que は何をしていますか。
-A. 「**〜がどうであれ**」という譲歩。quel que + être の接続法で、quel は主語に性数一致する（Quelles que soient tes raisons …）。書き言葉寄りの表現で、第31.5章の譲歩構文の仲間。
-:::
 
 :::ai-gen 指示形容詞、所有形容詞、疑問形容詞 quel
 

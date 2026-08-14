@@ -354,39 +354,6 @@ Ce n'est pas Marie que j'aime. | ス・ネ・パ・マリ・ク・ジェーム |
 
 :::drill avoir,être,aller,faire present
 
-## 練習問題
-
-:::quiz
-Q. C'est Marie qui aime Paul. と C'est Paul que Marie aime. は、それぞれ何を強調していますか。
-A. 前者は**主語**（ポールを愛しているのは他でもないマリだ）、後者は**目的語**（マリが愛しているのは他でもないポールだ）。取り出した要素が元の文で主語だったなら qui、それ以外なら que。判定は第21章の関係代名詞とまったく同じ。
-
-Q. 強調構文は文の情報をどう分けていますか。どういう文脈で使うのが自然ですか。
-A. **前提**（既知の情報：誰かがポールを愛している）と**焦点**（新情報：それはマリだ）に分ける。聞き手が前提を共有しているときに、1点だけを**特定・訂正**するのが自然な使い方（Ce n'est pas moi qui ai cassé le vase, c'est le chat !）。脈絡なしに使うと不自然になる。
-
-Q. 「私が行くのはパリだ」を強調構文にするとき、英語のように前置詞を後ろに残せますか。
-A. 残せない。**前置詞は要素と一緒に前へ出す**：C'est **à Paris** que je vais.（× C'est Paris que je vais à）。英語の前置詞残留（It's Paris that I'm going to）はフランス語には存在しない。前置詞つきの要素は主語ではないので、関係詞は常に que。
-
-Q. C'est moi qui a raison. はなぜ誤りですか。
-A. qui が受けている先行詞は moi（1人称）なので、動詞も1人称で活用しなければならない。正しくは C'est moi qui **ai** raison. 第21章の「qui の後の動詞は先行詞に一致する」という規則。ネイティブの一部も間違えるほど「qui の後は3人称」の引力は強いが、書き言葉では必ず守る。
-
-Q. 話し言葉では ce sont eux qui … はどうなりますか。
-A. **C'est eux qui …** が普通。ce sont は書き言葉の規範で、会話では c'est が複数の前でも使われる。同様に、過去の話でも c'est は現在形のままが普通（C'est hier que je l'ai vu.）で、c'était に変えるのは義務ではない。
-
-Q. Ce que j'aime, c'est le fromage. は c'est … que の強調構文とどう違いますか。
-A. 形が逆向きの**疑似分裂文**。c'est … que が「答えを先に言って訂正・特定する」のに対し、ce que …, c'est は「〜なのはね」と**前置きしてから自分の話を導入する**。日本語の「私が好きなのはね…」と同じ呼吸。de を取る動詞なら ce **dont**（Ce dont j'ai besoin, c'est de vacances.）になる。
-
-Q. 遊離構文とは何ですか。c'est … qui との使い分けを述べてください。
-A. 要素を文頭・文末に出して**代名詞で受け直す**構文（Ce livre, je **l'**ai déjà lu. / Il est gentil, **ton frère**.）。話し言葉で最も頻度が高い。**Moi, j'aime Paris.** は「私について言えば」と主題を立てる（日本語の「私はね」）、**C'est moi qui aime Paris.** は「私だ」と特定する（日本語の「私が」）。受け直す代名詞は第17〜26章の規則どおり（en / y も使う：Le café, j'en bois trop.）。
-
-Q. ne … que はどういう意味ですか。ne … pas との違いと、冠詞の扱いを述べてください。
-A. **制限「〜しか…ない」**＝ seulement。否定ではないので、Je ne bois que du café. は「コーヒーしか飲まない」。**否定の de への変化は起きない**（× que de café。意味的に肯定だから）。que は焦点を当てたい要素の直前に置ける（Je ne bois du café que le matin. 朝しか飲まない）。主語を「〜だけ」にするときは Il n'y a que … qui か Seul を使う。
-
-Q. 「言いたいのは、君が正しいということだ」をフランス語で言ってください。
-A. **Ce que je veux dire, c'est que tu as raison.** 議論で自分の要点をまとめ直す定型表現。ce que（言いたい**こと**＝直接目的語）で前置きし、c'est que + 完結した文で内容を述べる。
-
-Q. qu'est-ce que という疑問形は、構造的には何ですか。
-A. que（何）+ est-ce que（強調構文の疑問形）。強調構文が化石化して疑問の目印になったもの。だから「前半＝人か物か、後半＝主語か目的語か」という2部品構成になっている（第12章）。第9章の est-ce que、第12章の疑問詞長形、第22章の強調構文は、同じ構造の3つの側面。
-:::
 
 :::ai-gen 強調構文 c'est ... qui / que、ce qui ... c'est、遊離構文、ne ... que
 

@@ -281,45 +281,6 @@ Elle vous invite ? — Oui, elle nous invite. | ウィ・エル・ヌー・ザ�
 Je peux le faire ? — Oui, tu peux le faire. | ウィ・テュ・プ・ル・フェール | それをやってもいい？ — うん、いいよ。
 :::
 
-## 練習問題
-
-:::quiz
-Q. Je regarde la télé. の la télé を代名詞に置き換えてください。
-A. **Je la regarde.** 代名詞になると動詞の前に出る。名詞のままなら動詞の後ろ（Je regarde la télé.）。
-
-Q. Je le veux voir. はなぜ誤りですか。
-A. le は voir の目的語（見たい対象）なので、voir の直前に置く必要がある。正しくは **Je veux le voir.** 代名詞は「自分が目的語になっている動詞の直前」に置く。
-
-Q. téléphoner と attendre では、目的語の扱いがどう違いますか。
-A. téléphoner は **à** を取る間接他動詞（téléphoner à Marie）。attendre は前置詞なしの直接他動詞（attendre Marie）。日本語ではどちらも「〜に／〜を」と訳せるが、フランス語では別扱いになり、使う代名詞も変わる（第18章）。英語の wait **for** と違い、attendre に前置詞は不要。
-
-Q. Je l'aime. の l' は男性ですか、女性ですか。
-A. どちらとも決まらない。le も la も母音の前では l' にエリジオンするため、性が見えなくなる。文脈で判断する。
-
-Q. 「疲れてる？」「うん、そうだよ」の「そうだよ」はフランス語でどう言いますか。
-A. **Oui, je le suis.** この le は形容詞 fatigué を受ける中性代名詞で、性数一致しない（女性でも je le suis）。英語では Yes, I am. と省略されるが、フランス語では le が必要。
-
-Q. Je fais chanter Marie. を代名詞にすると、なぜ Je la fais chanter. になるのですか。
-A. 使役の faire + 不定詞は1つの動詞のかたまりとして扱われるため、代名詞は faire の前に置く（× Je fais la chanter）。知覚動詞（voir, entendre）や laisser + 不定詞も同じ扱い。
-
-Q. Tu cherches tes clés ? に「ほら、ここだよ」と答えるには？
-A. **Les voilà.** voici / voilà は動詞のように直接目的語代名詞を前に取る（Le voici. / Me voici !）。探し物・人の到着の場面の定型表現。
-
-Q. 話し言葉で Je ne le sais pas. はどう聞こえますか。
-A. **「ジュルセパ」（Je le sais pas / J'le sais pas）**。話し言葉では ne が落ち、je + le が縮んで1語のように発音される。自分は丁寧に話してよいが、聞き取りではこの縮んだ形を知らないと代名詞を聞き落とす。
-
-Q. 「彼を見ないで！」を命令形で言ってください。肯定形との違いも述べてください。
-A. **Ne le regarde pas !** 否定命令では代名詞が**動詞の前**（通常の位置）に戻る。肯定命令なら Regarde-**le** ! と動詞の後ろにハイフンで付く。位置が変わるのは肯定命令だけ。
-
-Q. Je veux le voir. の le は、なぜ veux の前ではなく voir の前にあるのですか。
-A. 代名詞は「**自分が目的語になっている動詞**」の直前に置くから。le は voir（見る）の目的語であって vouloir の目的語ではない。× Je le veux voir は誤り。ただし使役 faire と知覚動詞では主動詞の前に来る（Je le fais lire.）。
-
-Q. Je t'aime. と Je t'aime bien. はどう違いますか。
-A. **Je t'aime. は「愛している」（恋愛）、Je t'aime bien. は「君のこといい人だと思う」（友情）**。bien が付くほうが弱い。恋愛と友情を分ける重大な区別で、フランス語で最も有名な語法の1つ。
-
-Q. Tu aimes le café ? に「うん、好きだよ」と答えるとき、Je l'aime. は自然ですか。
-A. 不自然。**総称（コーヒーというもの）は ça で受けて J'aime ça.** が自然。le / la / les は特定の個体を受ける（Tu aimes **ce** café ? — Je l'aime bien. この店のコーヒーは好き）。
-:::
 
 :::ai-gen 直接目的補語人称代名詞、代名詞の位置
 

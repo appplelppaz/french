@@ -318,39 +318,6 @@ Il n'y a que toi. | イル・ニヤ・ク・トワ | 君しかいない。
 
 最後の文は第5章の **ne … que**（〜しかない）です。否定ではなく制限なので、「君だけがいる」という意味になります。
 
-## 練習問題
-
-:::quiz
-Q. avec je はなぜ誤りですか。
-A. 前置詞の後ろは強い位置なので、強勢形を使う必要がある。正しくは avec **moi**。第12章の「前置詞の後は que ではなく quoi」とまったく同じ原理。
-
-Q. 強勢形で新しく覚えるべき語は何語ですか。
-A. 4語（moi, toi, lui, eux）。nous, vous, elle, elles は主語形と同じ。ただし eux は強勢形にしかない形で、lui は間接目的語代名詞と綴りが同じなので注意。
-
-Q. 間接目的語の lui と強勢形の lui は、どう違いますか。
-A. 間接目的語の lui は**男女共通**（Je lui parle. は彼にも彼女にも使える）。強勢形の lui は**男性専用**で、女性は elle（avec lui / avec elle）。性の扱いが逆になっている。
-
-Q. Moi suis japonais. はなぜ誤りですか。
-A. 強勢形は主語の代わりではなく、主語に添える強調だから、主語代名詞を省略できない。正しくは Moi, **je** suis japonais.
-
-Q. Je pense à Marie. を代名詞にすると、なぜ Je lui pense. にならないのですか。
-A. penser à の à は「相手に何かを届ける」タイプではなく「〜に向かう心の動き」を表すため、間接目的語代名詞ではなく à + 強勢形を使う。正しくは **Je pense à elle.** 同型の動詞に tenir à, s'intéresser à, faire attention à などがあり、代名動詞はすべてこの型になる。
-
-Q. 肯定命令で me が moi に変わるのはなぜですか。
-A. 肯定命令では代名詞が動詞の後ろ＝強い位置に来るため、弱形 me が強形 moi に変わる。否定命令では動詞の前（弱い位置）なので me のまま。位置が形を決めるという、強勢形の原理そのもの。
-
-Q. 「自分でやりました」を強勢形を使って言ってください。
-A. **Je l'ai fait moi-même.** 強勢形 + -même で「〜自身」。il なら lui-même、敬称単数の vous なら vous-même（s なし）、複数なら vous-mêmes / eux-mêmes。
-
-Q. On rentre chez soi. の soi は何ですか。
-A. **不定の主語（on / chacun / tout le monde）を受ける強勢形**。特定の人なら chez lui / chez elle だが、不特定なら soi になる。chez soi（わが家）、en soi（それ自体）、la confiance en soi（自信）が定型。
-
-Q. Je n'aime pas ça. に「私も（嫌い）」と返すには？「私は好き」なら？
-A. **Moi non plus.**（否定への同意は non plus。× Moi aussi）。「私は好き」と反対するなら **Moi si.**（否定に対する肯定は si、第9章）。肯定文への「私も」は Moi aussi.、「私は違う」は Pas moi.。この4つは動詞なしで文になる相づちの既定セット。
-
-Q. 前置詞の後に je や me を置けないのはなぜですか。
-A. je / me は**無強勢の接語**で、動詞に寄りかからないと発音できない弱い形だから。前置詞の後ろは強勢が当たる自立した位置なので、**強勢形**（moi, toi, lui …）しか立てない。avec moi（× avec je / avec me）。
-:::
 
 :::ai-gen 強勢形、前置詞の後の代名詞、penser à + 強勢形
 

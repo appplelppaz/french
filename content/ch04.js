@@ -252,45 +252,6 @@ C'est un livre. | セ・タン・リーヴル | これは本です。（何で�
 | il y a | ある場所に**存在する**ことを述べる |
 | c'est / ce sont | それが**何であるか**を同定する |
 
-## 練習問題
-
-:::quiz
-Q. 「彼は医者です」を2通りで言い、それぞれの違いを説明してください。
-A. **Il est médecin.**（無冠詞。職業という分類を述べる）と **C'est un médecin.**（限定詞つき名詞。その人物を「医者という個体」として同定する）。判断基準は「名詞に限定詞が付いているか」の一点。
-
-Q. Il est bon professeur. はなぜ誤りですか。
-A. 形容詞 bon が付いたことで、その人を「良い教師というタイプの個体」として個別化しているため、冠詞が必要になる。限定詞が付くと c'est を使う規則により、正しくは **C'est un bon professeur.**
-
-Q. 「学生が3人いる」を il y a で言ってください。また、それを否定してください。
-A. Il y a trois étudiants. → Il n'y a pas **de** étudiants ではなく、正しくは **Il n'y a pas d'étudiants.**（否定の de、母音の前でエリジオン）。なお trois のような数詞を否定する場合は Il n'y a pas trois étudiants.（数そのものを否定）とも言える。
-
-Q. 英語の there is / there are はフランス語ではどうなりますか。
-A. 単数・複数を問わず常に **il y a**。il が非人称の形式主語で何も指していないため、後ろの名詞に合わせて変化しない。
-
-Q. voici と voilà は、なぜ主語も動詞も必要としないのですか。
-A. もともと動詞 voir の古い命令形 vois に、副詞 ci / là が付いた形だから。すでに動詞的な力を持つ「提示詞」であり、それ自体で文を作れる。目的語代名詞が前に来る（Me voici !）のも、動詞としての性質が残っているため。
-
-Q. Il est difficile de comprendre. と C'est difficile à comprendre. の違いは何ですか。
-A. 前者は「理解することは難しい」と、これから述べる内容（de 以下）を予告する形（書き言葉的）。後者はすでに話題になっている事柄を受けて「それは理解しにくい」と述べる形。前置詞が de と à で変わる点にも注意。
-
-Q. C'est bon. と C'est bien. の使い分けを述べてください。
-A. **C'est bon.** は味・状態・許可（おいしい／OK）、**C'est bien.** は行い・作品への評価（いいね・感心だ）。料理には C'est bon !、相手の報告には C'est bien !。bon（形容詞・性質）と bien（副詞由来・評価）の対立が c'est の後にも現れている。
-
-Q. 謝られたとき「大丈夫ですよ」と返すには？
-A. **Ce n'est pas grave.**（話し言葉では C'est pas grave.）。「大したことではない」が定型の返し。合わせて Ça marche.（了解）、Ça dépend.（場合による）、Ça y est.（できた）も返事の既定セット。
-
-Q. 「選ぶのは難しい」を c'est を使って言ってください。
-A. **C'est difficile de choisir.** c'est + 形容詞 + **de** + 不定詞で「〜するのは…だ」。規範では il est difficile de … だが、話し言葉では c'est … de … が圧倒的に多い。
-
-Q. C'est n'importe quoi. はどういう意味ですか。
-A. 「**めちゃくちゃだ、でたらめだ**」という呆れの口語表現。n'importe quoi（何でも→でたらめ、第10.5章）を c'est で受けた形。強い批判なので使う相手と場面に注意。
-
-Q. 人を紹介する定番の流れを4文で言ってください。
-A. **Voici mon ami Paul.**（指し示す）→ **C'est un collègue.**（何者か・冠詞つき）→ **Il est ingénieur.**（職業・無冠詞）→ **Il y a cinq ans qu'on se connaît.**（付き合いの長さ）。c'est + 名詞、il est + 属性の使い分けが紹介の場面に凝縮されている。
-
-Q. Il y a cinq ans qu'on se connaît. を depuis で言い換えてください。
-A. **On se connaît depuis cinq ans.** il y a + 期間 + que + 現在形は depuis の言い換えで、「〜して…になる」。どちらも現在形と組む（第7.5章）。
-:::
 
 :::ai-gen c'est と il est の使い分け、il y a、voici / voilà
 

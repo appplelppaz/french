@@ -301,39 +301,6 @@ s'en aller は代名動詞（第23章）+ en（第25章）の組み合わせで�
 
 :::drill aller,venir,être,avoir,tenir,devenir présent,passeCompose
 
-## 練習問題
-
-:::quiz
-Q. Je vais partir. と Je viens de partir. の違いは何ですか。
-A. 前者は近接未来「これから出発する」、後者は近接過去「出発したばかりだ」。aller + 不定詞（前置詞なし）と venir **de** + 不定詞。de の有無が時間の向きを決める。
-
-Q. Je viens te voir. と Je viens de te voir. は、どう違いますか。
-A. 前者は「君に会いに来た」（venir + 不定詞＝目的）。後者は「君に会ったばかりだ」（venir de + 不定詞＝近接過去）。de があるかないかで意味が反転する。
-
-Q. aller の活用が vais / allons / irai と3つの語幹に分かれているのはなぜですか。
-A. 3つの別々のラテン語動詞（vadere, ambulare, ire）が1つの動詞に合流したため。補充法（supplétisme）と呼ばれる現象で、英語の go / went と同じ。最頻出の動詞ほど起きやすい。
-
-Q. Je ne vais pas partir. で、なぜ partir が pas の後ろにあるのですか。
-A. ne … pas が挟むのは**活用した動詞**であり、ここで活用しているのは aller だから。partir は不定詞なので挟む対象にならない。第5章の原則がそのまま適用されている。代名詞も同様に不定詞の前（Je vais **le** faire.）。
-
-Q. Il vient de sortir hier. はなぜ不自然ですか。
-A. 近接過去は「たった今〜し終えた」という現在との強い結びつきを含意するため、hier（昨日）と両立しない。遠い過去は複合過去で表す（Il est sorti hier.）。
-
-Q. 日常会話で未来を言うとき、近接未来と単純未来のどちらが多く使われますか。
-A. 近接未来（aller + 不定詞）が圧倒的に多い。単純未来は「予測・約束・宣言」といったやや改まった場面や書き言葉に寄る。決め手は時間の近さそのものより「現在との地続き感」で、1年先のことでも確実なら近接未来を使う。
-
-Q. 呼ばれて「今行く！」と答えるとき、フランス語では何と言いますか。なぜ aller を使えないのですか。
-A. **J'arrive !** または **Je viens !**（× Je vais !）。フランス語の venir は「**聞き手のいる場所への移動**」を表すので、呼んだ相手の方へ行くなら venir。日本語の「行く／来る」は話し手の視点で決まるため、ここで逆転する。英語の come / go と同じ振る舞いなので、英語の感覚が使える。
-
-Q. J'allais partir quand tu as téléphoné. の allais は何を表していますか。
-A. **過去における近接未来**「〜しようとしていた」。aller の半過去 + 不定詞で、過去のある時点の直後を表す。対になる venais de + 不定詞（〜したばかりだった）と合わせると、過去のある時点の前後を描ける。J'allais justement t'appeler !（ちょうど電話しようとしてた！）は会話の定番。
-
-Q. amener / emmener / apporter / emporter を使い分ける2つの軸は何ですか。
-A. **人か物か**（mener 系は人・動物、porter 系は物）と、**視点の向き**（a- は相手・目的地の方へ、em- はその場から一緒に・外へ）。J'amène mon frère à la fête.（人を目的地へ）／ Je t'emmène au cinéma.（一緒に連れ出す）／ Apporte du vin !（物を持って来る）／ un café à emporter（持ち帰り）。
-
-Q. 「駅まで迎えに来てくれる？」をフランス語で言ってください。
-A. **Tu peux venir me chercher à la gare ?** aller / venir chercher は直訳「探しに行く／来る」だが、意味は「迎えに行く／来る・取りに行く」。聞き手が自分の方へ来るので venir を使う。日常で最頻出の言い回しの1つ。
-:::
 
 :::ai-gen aller と venir、近接未来、近接過去、amener と emmener の使い分け
 

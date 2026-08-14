@@ -350,39 +350,6 @@ Envoie cette lettre à ton père ! → Envoie-la-lui ! | アンヴォワ・ラ�
 
 :::drill donner,montrer,rendre,prêter,envoyer,dire present,passeCompose,imperatif
 
-## 練習問題
-
-:::quiz
-Q. 代名詞を2つ並べるときの基本の語順を言ってください。
-A. me / te / se / nous / vous → le / la / les → lui / leur → y → en。動詞の前にこの順で置く。1列目は1・2人称と再帰代名詞、2列目は3人称の直接目的語、3列目は3人称の間接目的語、y と en は常に最後。
-
-Q. y と en が最後に来ることには、理屈による説明がありますか。
-A. ある。**y と en はもともと場所の副詞**（ラテン語 ibi / inde）で、代名詞の列に後から加わったため、いちばん外側に置かれる。1列目が先なのは「1人称 > 2人称 > 3人称」という人称の階層に従っている。残りの順序は暗唱に頼るのが現実的。
-
-Q. Il me lui présente. はなぜ誤りですか。どう言い換えますか。
-A. 1列目（me, te, se, nous, vous）と3列目（lui, leur）は共存できないため。me が直接目的語か間接目的語か判別できなくなるのを避ける制約。正しくは **Il me présente à lui.** と、間接目的語のほうを à + 強勢形にして後ろに回す。直接目的語を à + 強勢形にすることはできない。
-
-Q. Il me le donne. を肯定命令にすると、語順はどうなりますか。否定命令ではどうですか。
-A. 肯定命令は **Donne-le-moi !**——代名詞が動詞の後ろに来て、語順が「直接目的語 → 間接目的語」に入れ替わり、強い位置なので me が moi に変わる。否定命令は **Ne me le donne pas !** で、位置も語順も形も通常に戻る。**特殊なのは「動詞の後ろに来るとき」だけ**。
-
-Q. Donne-moi ça. と Donne-m'en. で、なぜ形が違うのですか。
-A. en が続くと、強形 moi が m' に戻るため。母音の前ではエリジオンが優先される。Va-t'en !（te + en）も同じ。
-
-Q. s'en aller の命令法3形を挙げてください。
-A. **Va-t'en !**（tu）／ **Allons-nous-en !**（nous）／ **Allez-vous-en !**（vous）。肯定命令なので代名詞が動詞の後ろに来て、te は en の前で t' にエリジオンする。日常で非常によく使うので形のまま覚えるのが早い。
-
-Q. Je la lui ai donnée. で、なぜ donnée に e が付くのですか。どの代名詞なら一致しますか。
-A. 直接目的語 la（女性）が過去分詞より前にあるため、第20章の規則③で一致する。**一致するのは le / la / les と、直接目的語として使われた me / te / nous / vous だけ**。lui / leur（間接目的語）、y、en、中性の le は一致しない。
-
-Q. 倒置疑問のとき、代名詞はどこに置きますか。
-A. **目的語代名詞は動詞の前に残り、主語代名詞だけが動詞の後ろに回る**。Me le donnez-vous ? ／ Le lui as-tu donné ? ／ Y en a-t-il ?（il y en a の倒置。y と en は残り、il だけ後ろへ回って -t- が入る）。主語代名詞と目的語代名詞がはっきり区別される場面。
-
-Q. Je le lui vais donner. はなぜ誤りですか。使役動詞ではどうなりますか。
-A. 代名詞は「自分が目的語になっている動詞」の直前に置くため。le も lui も donner の目的語なので、正しくは **Je vais le lui donner.** ただし**使役の faire や知覚動詞（voir, entendre, laisser）+ 不定詞では、代名詞が主動詞の前**に来る（Je le lui fais lire.）。faire + 不定詞が1つの動詞のかたまりとして扱われるため。
-
-Q. 代名詞は最大でいくつまで並べられますか。
-A. 理論上は3つ並べられるが、**実際にはほぼ il y en a だけ**。3つ以上並ぶと聞き取りが困難になるため、話し言葉では一方を名詞や副詞に戻すか文を分ける（× Je le lui y en ai parlé → ○ Je lui en ai parlé là-bas.）。**2つまでが実用的な上限**。
-:::
 
 :::ai-gen 代名詞の併用と語順、肯定命令での語順の反転、使役構文の代名詞
 

@@ -270,42 +270,6 @@ en と最もよく組むのは boire / vouloir / avoir / prendre / acheter で�
 
 :::drill boire,vouloir,avoir,prendre,acheter present,passeCompose
 
-## 練習問題
-
-:::quiz
-Q. en が受けるものを一言で言うと何ですか。
-A. **de + 何か**。de + 名詞（場所・事柄）、不定冠詞・部分冠詞つきの名詞（du café → 冠詞に de が含まれる）、数量表現つきの名詞、de + 不定詞のすべてが対象。判定は「名詞のままの文に de が現れるか」を見る。
-
-Q. 「コーヒー飲む？」に「うん、飲むよ」と答えるとき、Oui, je bois. ではなぜ不十分ですか。
-A. フランス語は目的語を省略できないため。Oui, je bois. だと「私は（酒を）飲む人間だ」という別の意味になる。正しくは **Oui, j'en bois.** 日本語では言わずに済ませる部分を、フランス語は en で明示する必要がある。
-
-Q. 「本を3冊持っている」を、J'ai trois. と言えないのはなぜですか。
-A. 数詞があっても en は省略できないため。正しくは **J'en ai trois.** en が「何の3つか」を、trois が「いくつか」を示しており、役割が違うので両方必要。英語の I have three. とは異なる。
-
-Q. Des pommes ? J'en ai acheté. で、なぜ achetées にならないのですか。
-A. en は過去分詞の一致の対象外だから。第20章の「直接目的語が前に出れば一致」という規則の例外で、en が不特定の量を表し性数が確定しないためと説明される。
-
-Q. Donne-moi ça. と Donne-m'en. で、なぜ moi と m'en が違うのですか。
-A. 肯定命令では代名詞が動詞の後ろに来るため通常は強形 moi になるが、**en が続く場合は m'en** と弱形に戻る。Va-t'en !（te + en）も同じ。
-
-Q. en と y は、それぞれ何を受けますか。
-A. en は **de** + 名詞、y は **à** + 名詞や場所を表す前置詞 + 名詞。Je viens de Paris → J'en viens / Je vais à Paris → J'y vais のように対になっている。
-
-Q. Tu m'en veux ? はどういう意味ですか。
-A. 「**私のこと怒ってる？（恨んでる？）**」。en vouloir à quelqu'un は「恨む・根に持つ」という慣用で、vouloir の「欲しい」からは予測できない。Ne m'en veux pas.（怒らないで）とセットで成句として覚える。
-
-Q. J'en ai pour cinq minutes. の en は何を受けていますか。この文はどんな場面で使いますか。
-A. 「かかる時間」を漠然と受けている（en avoir pour + 時間／金額 = 〜かかる）。「5分で済みます」と**相手を待たせるときの決まり文句**。J'en ai pour 10 euros.（10ユーロかかる）のように費用にも使う。
-
-Q. 規範文法では、人を de で受けるとき en を使えますか。
-A. 使えない（規範では）。**en は物・事柄、人は de + 強勢形**（Je parle d'elle.）。ただし実際の話し言葉では人にも en が使われる。書くときは規範に従い、聞くときは en が人も指しうると知っておく。
-
-Q. 市場で「1キロください」と言うには？
-A. **J'en voudrais un kilo.** 指させば名詞を言わずに en だけで通じる。en は数量表現（un kilo, une livre, trois …）と組んで買い物の中心になる代名詞。
-
-Q. 綴りが同じ en が3つあります。どう見分けますか。
-A. **位置**で見分ける。動詞の直前なら**代名詞**（J'en veux）、無冠詞の名詞の前なら**前置詞**（en France, en voiture）、現在分詞の前なら**ジェロンディフ**（en chantant, 第29章）。
-:::
 
 :::ai-gen 代名詞 en、de を受ける代名詞、数量表現との併用
 

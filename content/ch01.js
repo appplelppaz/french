@@ -272,39 +272,6 @@ Je cherche une maison. | ジュ・シェルシュ・ユヌ・メゾン | 私は�
 これらはいずれも「その名詞を個別のモノとして数えていない」場合です。分類・性質・材質を述べているとき、限定詞は落ちます。
 :::
 
-## 練習問題
-
-:::quiz
-Q. なぜ名詞は「table」ではなく「une table」の形で覚えるべきなのですか。
-A. 名詞の性は意味から推測できず、しかも冠詞・形容詞・過去分詞・代名詞の形をすべて決めてしまうから。性を知らないと、その名詞を含む文が一つも正しく作れない。冠詞ごと覚えれば、性の情報が自動的に付いてくる。
-
-Q. 話し言葉で le livre と les livres はどうやって区別しますか。
-A. 名詞では区別できない（複数の -s は発音されない）。区別しているのは冠詞のほう（ル / レ）。フランス語の複数は名詞ではなく限定詞が担っている。
-
-Q. 次の名詞の性を、語尾から推測してください。（1）la/le nation （2）la/le fromage （3）la/le liberté
-A. （1）la nation — -tion は女性。（2）le fromage — -age は原則男性。（3）la liberté — -té は女性。
-
-Q. [[un musicien\|アン・ミュズィスィアン\|音楽家]] と [[une musicienne\|ユヌ・ミュズィスィエンヌ\|音楽家（女性）]] は、なぜ母音の響きが変わるのですか。
-A. 男性形では n の後ろに何もないので鼻母音 [ɛ̃] になる。女性形では n が重なるため鼻母音の条件を満たさず、[ɛn] と発音される。第0章の「鼻母音になる条件」がそのまま効いている。
-
-Q. travail の複数形は travails ではなく travaux です。-ail で終わる語のうち、-aux になるのは何語ありますか。
-A. 7語（travail, vitrail, corail, émail, bail, soupirail, vantail）。それ以外の -ail は規則どおり -s を足す（détail → détails）。
-
-Q. le livre と la livre は、それぞれ何を意味しますか。
-A. le livre は「本」、la livre は「ポンド（重さ・通貨の単位）」。性が意味を区別している例で、他に le tour（一周）/ la tour（塔）、le poste（職）/ la poste（郵便局）などがある。
-
-Q. acteur / vendeur の女性形はどう作りますか。
-A. **-teur → -trice**（acteur → actrice）、**-eur → -euse**(vendeur → vendeuse）。-er → -ère（boulanger → boulangère）、-ien → -ienne（musicien → musicienne）も合わせて、型で覚える。
-
-Q. 「教員」「作家」の女性形は現在どうなっていますか。
-A. **une professeure / une écrivaine（auteure, autrice）**が一般化し、2019年にアカデミー・フランセーズも職業名の女性化を正式に容認した。現代のフランス語では女性形を使うのが標準。
-
-Q. une personne は男性を指すときも女性名詞ですか。
-A. そう。**personne は常に女性名詞**で、指す相手の性別に関わらず une personne gentille と女性形で一致する。un bébé（常に男性）も同じ。文法の性は語に付いた属性で、指示対象の性別と常に一致するわけではない。
-
-Q. 冠詞でしか男女が区別できない名詞の例を挙げてください。
-A. **un / une artiste、un / une élève、un / une collègue、un / une enfant** など -e で終わる人物名詞。名詞自体は同形なので、冠詞・形容詞の一致だけが性を示す。
-:::
 
 :::ai-gen 名詞の性と数、複数形の作り方
 

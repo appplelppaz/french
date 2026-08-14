@@ -611,39 +611,6 @@ Il travaille pour sa femme et ses enfants. | イル・トラヴァイユ・プ�
 
 :::drill penser,parler,répondre,attendre,chercher present,passeCompose
 
-## 練習問題
-
-:::quiz
-Q. à と de の中核的な意味を一言で述べ、そこから派生する用法を2つずつ挙げてください。
-A. **à は「点への到達・接触」**、**de は「起点・分離」**。à の派生は場所（à Paris）・時刻（à midi）・間接目的語（parler à qn）・所属（C'est à moi）・用途（une tasse à café）など。de の派生は起点（venir de）・所有（le livre de Marie）・材料（une table de bois）・内容（une tasse de café）・原因（mourir de faim）など。
-
-Q. une tasse à café と une tasse de café はどう違いますか。
-A. **à は用途**「コーヒーを飲むためのカップ」（空でもよい）、**de は内容**「コーヒー一杯」（中身がある）。同じ対立が un verre à vin / un verre de vin、une boîte à lettres / une boîte de chocolats にもある。machine à laver、salle à manger のように、用途を表す名詞句は広く à を使う。
-
-Q. 国名に付ける前置詞の規則を述べてください。
-A. **女性国名（-e で終わる）と母音で始まる男性国名は en**（en France、en Iran）、**子音で始まる男性国名は au**（au Japon）、**複数の国名は aux**（aux États-Unis）、**都市名は à**（à Paris）。「〜から」はそれぞれ de / d' / du / des / de。le Mexique、le Cambodge は -e で終わるが男性なので au Mexique。
-
-Q. depuis を使うとき、動詞はどの時制になりますか。なぜですか。
-A. **現在形**。J'étudie le français depuis trois ans.（3年前から勉強している）。いまも続いているから。フランス語の複合過去は「終わったこと」を表すので継続中の事柄には使えない。英語は現在完了進行形を使うのでずれる。ただし否定なら複合過去も可（Je ne l'ai pas vu depuis trois ans）。
-
-Q. en trois jours と dans trois jours はどう違いますか。
-A. **en は所要時間**「3日かけて」（J'ai fini en trois jours）、**dans は今からの隔たり**「3日後に」（Je pars dans trois jours）。英語の in が両方の意味を持つので類推が効かない。「かかった時間」なら en、「先の時点」なら dans。
-
-Q. depuis / pendant / pour の3つを、期間の捉え方の違いで区別してください。
-A. **depuis** は「〜から今も続く」（現在形と組む）、**pendant** は「〜の間」で**終わった期間**（過去・未来）、**pour** は「〜の予定で」という**これからの予定期間**。J'habite ici depuis 5 ans.（今も住んでいる）／ J'ai habité ici pendant 5 ans.（もう住んでいない）／ Je pars pour 3 jours.（3日の予定で出かける）。
-
-Q. attendre, chercher, regarder, écouter に共通する語法上の注意は何ですか。
-A. **すべて前置詞を取らず、直接目的語をとる**。英語では wait **for**、look **for**、look **at**、listen **to** と前置詞が要るため、英語からの類推で × J'attends pour le bus のような誤りが生じる。J'attends le bus. が正しい。
-
-Q. penser à と penser de、jouer à と jouer de の違いを述べてください。
-A. **penser à** は「〜のことを頭に浮かべて考える」（Je pense à toi.）、**penser de** は「〜をどう評価するか」（Que penses-tu de ce film ?）。**jouer à** は競技・ゲーム（jouer au tennis）、**jouer de** は楽器（jouer du piano）。同じ動詞でも前置詞が意味を決める例。
-
-Q. 不定詞の前に à を取る動詞と de を取る動詞に、ゆるい傾向はありますか。
-A. ある。**à は開始・継続・到達**（commencer à、apprendre à、réussir à、continuer à、se mettre à）、**de は完了・停止・決断**（finir de、arrêter de、décider de、refuser de）。à の「そこへ」、de の「そこから」という中核の意味が不定詞の前でも生きている。ただし hésiter à のような例外もあり、最終的には辞書で確認する必要がある。
-
-Q. 等位接続で名詞を並べるとき、前置詞をくり返すのはどの前置詞ですか。理由も述べてください。
-A. **à と de** は原則としてくり返す（Je pense à Marie **et à** Paul.）。この2語は軽くて意味が広いため、1回だけだと後続の名詞にかかっているかどうかが曖昧になるから。avec や pour は意味が具体的なので反復しない（Je pars avec Marie et Paul.）。
-:::
 
 :::ai-gen à と de の使い分け、場所と時の前置詞、動詞が要求する前置詞
 

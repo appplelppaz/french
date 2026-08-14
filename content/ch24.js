@@ -311,39 +311,6 @@ Le projet sera fini d'ici la fin du mois. | ル・プロジェ・スラ・フィ
 誤答したときの「なぜこの形になるの？」では、AI が語幹と語尾の分解を示します。
 :::
 
-## 練習問題
-
-:::quiz
-Q. 単純未来の語尾に例外はありますか。
-A. 一つもない。すべての動詞で -ai, -as, -a, -ons, -ez, -ont。しかもこれは avoir の現在形と一致する（俗ラテン語の「不定詞 + habere」に由来）。不規則があるのは語幹のほうだけ。
-
-Q. attendre の未来形が attendreai ではなく attendrai なのはなぜですか。
-A. -re 動詞は未来語幹を作るときに語末の e を落とすため。落とさないと -rai の r の前で e が重なって発音しにくくなる。
-
-Q. Si tu viendras, je serai content. はなぜ誤りですか。
-A. 条件を表す si 節の中では未来形を使わず、現在形にする。正しくは Si tu **viens**, je serai content. 英語の If you come, I will be happy. と同じ規則。ただし「〜かどうか」の si（間接疑問）では未来形が使える。
-
-Q. 「君が来るとき、私はそこにいる」を、quand を使って言ってください。英語との違いは何ですか。
-A. **Quand tu viendras, je serai là.** 英語は when 節で現在形（When you come）を使うが、**フランス語は未来形**を使う。lorsque, dès que, aussitôt que, tant que も同じ。「si は現在、quand は未来」とセットで覚える。
-
-Q. Il aura oublié. はどういう意味ですか。
-A. 「彼は忘れたのだろう」。形は前未来だが、**過去の出来事についての推量**を表す。単純未来が現在の推量に使われる（Ce sera lui.）のと対になる用法。
-
-Q. 単純未来を学び終えると、条件法現在について何が分かったことになりますか。
-A. ほぼすべて。条件法現在は「**未来語幹 ＋ 半過去の語尾**」でできているので、この章で覚えた未来語幹（ser-, aur-, ir-, fer-, verr- …）がそのまま使える。第30章で新しく学ぶのは用法だけになる。
-
-Q. 「明日出発します」は未来形を使わないと言えませんか。
-A. 言える。**Je pars demain.**（現在形 + 時の副詞）が完全に自然で、会話ではむしろ普通。確定した予定は現在形、会話の未来は近接未来（Je vais partir）、予測・約束・書き言葉は単純未来——3つの手段を場面で使い分ける。
-
-Q. Tu feras tes devoirs avant de sortir. の未来形はどういう働きですか。
-A. **命令的用法**。「〜しなさい」という指示を未来形で言う形で、親が子に、規則が人に向ける口調。聖書の十戒 Tu ne tueras point.（汝殺すなかれ）もこの用法。
-
-Q. Quand il arrivera, on mangera. を英語の感覚で Quand il arrive … とするのはなぜ誤りですか。
-A. 英語には「時の副詞節では未来形を使わない」規則があるが、**フランス語にはない**。時間関係を素直に時制で表すので、quand 節も主節も未来形にする。dès que / aussitôt que / tant que も同じ（第31.5章）。
-
-Q. 天気予報でよく聞く未来形の文を1つ挙げてください。
-A. **Demain, il fera beau.**（明日は晴れるでしょう）。il fera / il pleuvra / il y aura … と、予報は単純未来の独壇場。faire の未来語幹 fer- はここで毎日使われる。
-:::
 
 :::ai-gen 単純未来、未来語幹、前未来、si と quand の使い分け
 

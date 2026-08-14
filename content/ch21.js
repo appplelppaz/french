@@ -284,39 +284,6 @@ Voilà la maison. J'y suis né. → Voilà la maison où je suis né. | ヴォ�
 C'est le film. Je t'en ai parlé. → C'est le film dont je t'ai parlé. | セ・ル・フィルム・ドン・ジュ・テ・パルレ | それが君に話した映画です。
 :::
 
-## 練習問題
-
-:::quiz
-Q. フランス語の関係代名詞は、何を基準に選びますか。英語との違いは何ですか。
-A. **関係節の中での役割**（主語か、直接目的語か、場所・時か、de を受けるか）だけで選ぶ。英語のように先行詞が人か物かは一切問わない。l'homme qui parle も le livre qui est là も、どちらも qui。
-
-Q. qui と que を素早く見分ける方法は何ですか。
-A. **後ろに主語があるかどうか**。qui は自分が主語なので後ろにいきなり動詞が来る（le livre qui est là）。que は別の主語が続く（le livre que je lis）。またエリジオンするのは que だけなので、qu' があればそれは que。
-
-Q. La femme que j'ai vue. で、なぜ vue に e が付くのですか。
-A. que は直接目的語であり、しかも動詞より前にあるため、第20章の規則③により過去分詞が先行詞（la femme、女性単数）に一致する。qui の場合は主語なので一致は起きない。
-
-Q. 「私が君に出会った日」を le jour quand je t'ai rencontré と言えますか。
-A. 言えない。時を表す先行詞にも **où** を使う（le jour **où** je t'ai rencontré）。quand は疑問副詞・接続詞であって関係代名詞ではない。フランス語は「時」も一種の場所として où で受ける。
-
-Q. dont はどんなときに使いますか。判定方法は何ですか。
-A. **de + 名詞**を受けるとき。所有（whose）、de を取る動詞（parler de, avoir besoin de）、de を取る形容詞（content de）、数量の「そのうち」がすべて含まれる。判定は元の文を復元して de が現れるかを見る。
-
-Q. l'homme dont le fils je connais はなぜ誤りですか。
-A. 語順が違う。フランス語では **dont + 主語 + 動詞 + 定冠詞 + 名詞** の順になるため、正しくは l'homme **dont je connais le fils**。また所有形容詞（son fils）は使わず定冠詞（le fils）を使う。
-
-Q. Je cherche un appartement qui ait trois pièces. の接続法は何を表しますか。
-A. **先行詞の実在が不確定**であること。qui a（直説法）なら「3部屋の物件がある」と確信して探している。qui ait（接続法）なら「あれば欲しい」。関係節の法が話し手の想定を示す（第29½章）。
-
-Q. C'est le meilleur film que j'aie jamais vu. で接続法になるのはなぜですか。
-A. **最上級（および seul / premier / dernier / unique）の後の関係節**は、主観的な評価を和らげるため接続法に傾く。「私の知る限りでは」という留保の含み。直説法も可能だが、書き言葉では接続法が上品とされる。
-
-Q. 「一緒に働いている人」は avec lequel と avec qui のどちらですか。
-A. 人なら **avec qui** が普通（la personne avec qui je travaille）。lequel 系は物に使う（la table sur laquelle …）。人にも laquelle は可能だが、qui のほうが自然。
-
-Q. 話し言葉で le livre que je t'ai parlé と聞こえたら、どう理解しますか。
-A. 規範では le livre **dont** je t'ai parlé（parler **de**）だが、くだけた話し言葉では dont の代わりに万能の que が使われることがある。**聞いて理解できればよく、自分では dont を使う**。規範と実態の乖離の代表例。
-:::
 
 :::ai-gen 関係代名詞 qui, que, où, dont、ce qui / ce que
 

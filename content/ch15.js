@@ -314,39 +314,6 @@ Il a fait très chaud hier. | イラ・フェ・トレ・ショー・イエー�
 
 **Il va pleuvoir.** は第11章の近接未来です。非人称動詞でも近接未来が作れます。
 
-## 練習問題
-
-:::quiz
-Q. Il pleut. の il が非人称であることを、どう証明しますか。
-A. 他の主語に置き換えられないことで証明する。× Le ciel pleut. とは言えない。一方、Il est grand. の il は Pierre est grand. に置き換えられるので人称の il。置き換え可能かどうかが判定基準。
-
-Q. Il fait chaud. と Il fait du vent. で、なぜ後ろの形が違うのですか。
-A. 前者は **il fait + 形容詞**（状態を述べる）、後者は **il fait du + 名詞**（部分冠詞。あるモノの量を述べる）。フランス語では風・太陽・霧といった天候の要素を、数えられない物質のように扱う。
-
-Q. Il faut partir. と Il faut que tu partes. の違いは何ですか。
-A. 前者は不定詞で、誰にでも当てはまる一般的な必要性。後者は que 節で、特定の主語（tu）に対する要求。que 節では接続法が必要になる（第31章）。
-
-Q. 80 と 81 で、quatre-vingt の綴りはどう変わりますか。
-A. 80 ちょうどは quatre-vingt**s**（s が付く）、81 以降は quatre-vingt-un（s が落ちる）。「後ろに数が続くと s が落ちる」という規則で、cent にも同じ規則が適用される（deux cents / deux cent un）。
-
-Q. 「4時半です」を Il est quatre heures et demi. と書くのはなぜ誤りですか。
-A. heure が女性名詞なので、demi も女性形 demi**e** で一致させる必要がある。正しくは Il est quatre heures et **demie**. ただし midi / minuit は男性名詞なので midi et demi となる。
-
-Q. 「7月14日」をフランス語で書いてください。また、「1月1日」はどうなりますか。
-A. le 14 juillet（le + 基数 + 月）。1日だけは序数を使い le 1er janvier（le premier janvier）。2日以降はすべて基数。月名は小文字で書く。
-
-Q. Il fallait le dire ! はどういう意味ですか。
-A. 「**言ってくれればよかったのに！**」。il faut の半過去が「（過去に）必要だった＝してくれなかった」という軽い非難を作る。Il aurait fallu partir plus tôt.（もっと早く出るべきだった）は条件法過去版の後悔。
-
-Q. Il faut partir. と Il faut que je parte. の違いは何ですか。
-A. **不定詞版は一般論・主語ぼかし**（出発しないと）、**que + 接続法版は主語を特定**（**私は**出発しないと）。誰の必要かを言いたいときだけ que 節にする（第31章）。
-
-Q. 「予約したほうがいいのでは」と控えめに提案するには？
-A. **Il faudrait réserver.** il faut の条件法。断定の Il faut réserver.（予約が必要だ）より柔らかい。天気・時刻・il faut は非人称 il の3本柱で、時制を変えるだけで表現の幅が大きく広がる。
-
-Q. 非人称の il と人称の il は、どう見分けますか。
-A. **il が何かを指しているか**を見る。Il pleut. / Il faut … / Il est trois heures. の il は何も指さない形式主語（非人称）。Il est médecin. の il は特定の人を指す（人称）。非人称の il は常に単数で、複数形が存在しない。
-:::
 
 :::ai-gen 非人称構文、天候表現、il faut、時刻と日付
 

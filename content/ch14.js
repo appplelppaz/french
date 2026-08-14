@@ -306,39 +306,6 @@ Il fait doux pour la saison. | イル・フェ・ドゥ・プール・ラ・セ�
 - 範囲は **de**（× dans）
 :::
 
-## 練習問題
-
-:::quiz
-Q. Ce vin est mieux que l'autre. はなぜ誤りですか。
-A. être の後ろに来て主語を説明しているので、必要なのは形容詞。bien（副詞）の比較級 mieux ではなく、bon（形容詞）の比較級 **meilleur** を使う。正しくは Ce vin est **meilleur** que l'autre.
-
-Q. 「彼は私と同じくらい本を持っている」を言ってください。
-A. Il a **autant de** livres que moi. 名詞を比べるので aussi ではなく autant、さらに数量表現なので de が入り、後ろは無冠詞になる。
-
-Q. Elle chante le mieux. の le は、なぜ la にならないのですか。
-A. mieux は副詞であり、副詞には性がないため定冠詞は常に le。主語が女性でも複数でも変わらない。形容詞の最上級（Elle est la meilleure.）と混同しないこと。
-
-Q. la fille la plus intelligente で、なぜ la が2回出るのですか。
-A. intelligente は後置形容詞なので、名詞の限定詞としての la と、最上級の標識としての la が別々に必要になるため。前置形容詞なら1つで済む（la plus belle fille）。
-
-Q. le plus grand dans le monde はなぜ誤りですか。
-A. 最上級の範囲を表すのは常に前置詞 **de**。「世界で」だから dans と考えたくなるが、正しくは le plus grand **du** monde。
-
-Q. Je n'en veux plus. と Moi, j'en veux plus. は、どう聞き分けますか。
-A. plus の s を発音するかどうか。否定の ne … plus では s を読まず「プリュ」、数量の plus（もっと）は文末で s を読み「プリュス」。話し言葉では ne が落ちるため、**s の有無だけが「もう要らない」と「もっと欲しい」を区別する**ことになる。
-
-Q. C'est plus difficile que je ne pensais. の ne は否定ですか。
-A. 否定ではない。**虚辞の ne**（第31.5章）で、比較の que の後ろに文が来るとき書き言葉で入る。「思っていたほどではない」という含みの名残。話し言葉では落ちて que je pensais となる。
-
-Q. 「彼は私より3歳年上だ」の「3歳」はどう導きますか。
-A. **de** で導く：Il est plus âgé que moi **de trois ans.** 差の大きさは de + 数量。C'est 10 euros **de plus**.（10ユーロ高い）の de plus / de moins も同じ仕組み。
-
-Q. 「ずっと高い」と比較を強めるには？ très は使えますか。
-A. **beaucoup plus cher / bien plus cher**。比較級を強めるのは beaucoup / bien / encore で、**très は使えない**（× très plus cher）。mieux を強めるなら bien mieux / beaucoup mieux。
-
-Q. de plus en plus はどういう意味ですか。反対は？
-A. 「**ますます〜**」（Il fait de plus en plus chaud. ますます暑い）。反対は **de moins en moins**。「〜すればするほど」は Plus je le connais, plus je l'apprécie. のように plus …, plus … を文頭に並べる（冠詞・que は不要）。
-:::
 
 :::ai-gen 比較級と最上級、meilleur と mieux の使い分け
 

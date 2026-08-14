@@ -570,39 +570,6 @@ Il a dit qu'il viendrait. | イ・ラ・ディ・キル・ヴィヤンドレ | �
 
 :::drill être,avoir,faire,aller,venir,pouvoir,savoir,vouloir,prendre subjonctif
 
-## 練習問題
-
-:::quiz
-Q. 従属節が直説法になるか接続法になるかを決める原理を、一言で述べてください。
-A. **話し手がその内容を「事実」として提示するなら直説法、「まだ事実でないもの・頭の中のもの」として提示するなら接続法**。原因（parce que）は事実だから直説法、目的（pour que）はこれから実現させたいことだから接続法、譲歩（bien que）は事実を一度括弧に入れるから接続法。ただし「事実かどうか」ではなく「その節が主節に対してどう働くか」が決め手になる。
-
-Q. フランス語の等位接続詞を7つ挙げ、記憶術も述べてください。
-A. **mais, ou, et, donc, or, ni, car**。頭文字を並べた **Mais où est donc Ornicar ?** が有名な記憶術。等位接続詞は語・句・節を対等に並べ、従位接続詞のように節を前に出すことはできない。
-
-Q. car と parce que の違いを述べてください。
-A. **car は等位接続詞**で文頭に置けず、「なぜそう言えるのか」という**話し手の判断の根拠**を示す。**parce que は従位接続詞**で文頭に置け、「なぜそうなったのか」という**出来事の原因**を示し、Pourquoi ? への答えになる。Il est malade, car il n'est pas venu.（来なかったから病気なのだろう）／ Il n'est pas venu parce qu'il est malade.（病気だから来なかった）。
-
-Q. parce que と puisque はどう使い分けますか。
-A. **parce que** は聞き手が知らない原因を**新情報として**伝え、「なぜ？」への答えになる。**puisque** は聞き手も知っている事柄を**前提として**持ち出し、そこから結論を導くので、答えにはならない。Pourquoi tu ne viens pas ? — Parce que je suis fatigué.（○）／ — Puisque je suis fatigué.（×）。
-
-Q. de sorte que の後の法が変わると、意味はどう変わりますか。
-A. **接続法なら目的、直説法なら結果**。Il a parlé fort de sorte que tout le monde **entende**.（みんなに聞こえる**ように**話した＝目的）／ de sorte que tout le monde **a entendu**.（大声で話した**ので**みんなに聞こえた＝結果）。目的はまだ実現していないので接続法、結果は実現したので直説法——原理がそのまま現れている。
-
-Q. bien que が接続法、même si が直説法を取るのはなぜですか。事実性との関係で説明してください。
-A. 事実性と法が**逆転して見える**組。bien que の節の内容は**事実**だが、「認めたうえで括弧に入れる」働きをするので接続法になる。même si の節の内容は**未確定の仮定**だが、si の仲間として歴史的に直説法を取り続けている。したがって法は「事実かどうか」ではなく「その節が主節に対してどう働くか」で決まる。
-
-Q. si の後に置けない時制は何ですか。また例外的に置ける場合はありますか。
-A. **条件の si の後には未来形も条件法も置けない**（× Si tu viendras、× Si j'aurais）。ただし**間接疑問の si**（〜かどうか）なら未来形も条件法も置ける（Je ne sais pas s'il viendra.）。「〜かどうか」と訳せるなら間接疑問なので制約はかからない。なお si は il / ils の前でだけエリジオンする（s'il、ただし si elle）。
-
-Q. quand の後の時制は、英語とどう違いますか。
-A. 英語は「時・条件の副詞節では未来形を使わない」が、**フランス語にはその規則がない**。Quand il **arrivera**, nous partirons.（英 When he **arrives**, we will leave.）。従属節の出来事が主節より前に完了しているなら**前未来**を使う（Quand il **sera arrivé**, nous partirons.）。dès que、aussitôt que、tant que、une fois que も同じ。
-
-Q. 虚辞の ne とは何ですか。本当の否定とどう見分けますか。
-A. **否定の意味を持たない ne**。avant que、à moins que、de peur que、craindre que、empêcher que、比較級の後に現れる。Je crains qu'il **ne** vienne. は「彼が**来る**のが心配だ」であって「来ない」ではない。**pas があるかどうかが否定の唯一の目印**（Je crains qu'il ne vienne **pas**. なら「来ないのが心配」）。現代の話し言葉ではほぼ省略される。
-
-Q. 主節と従属節の主語が同じとき、pour que はどうなりますか。この規則が及ばない接続詞もありますか。
-A. **pour + 不定詞に縮約しなければならない**（義務。× Je travaille pour que je réussisse → ○ Je travaille pour réussir）。同じ縮約は afin que → afin de、avant que → avant de、à moins que → à moins de、sans que → sans、à condition que → à condition de にも及ぶ。ただし **parce que や bien que には対応する前置詞がない**ので、主語が同じでも接続詞節のまま使う。
-:::
 
 :::ai-gen 接続詞と法の選択、従属節の体系、si の3つの型
 
