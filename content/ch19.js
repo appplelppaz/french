@@ -2,7 +2,7 @@ FR.chapter({
   id: 'ch19',
   no: '19',
   title: '人称代名詞 強勢形',
-  sub: 'あなたと一緒に♥と言いたくて',
+  sub: '「あなたと一緒に」と言いたくて',
   body: `
 [[avec toi\|アヴェック・トワ\|君と一緒に]] ——この **toi** が強勢形（le pronom tonique / la forme accentuée）です。
 

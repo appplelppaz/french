@@ -2,7 +2,7 @@ FR.chapter({
   id: 'ch17',
   no: '17',
   title: '人称代名詞 直接目的語',
-  sub: 'ジュテーム♥と言いたくて',
+  sub: '「ジュテーム」と言いたくて',
   body: `
 [[Je t'aime.\|ジュ・テーム\|愛してる。]] ——フランス語で最も知られた一文です。この **t'** が、この章で扱う**直接目的補語人称代名詞（le pronom personnel complément d'objet direct、略して COD）**です。
 

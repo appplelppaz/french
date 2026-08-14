@@ -283,7 +283,7 @@
     );
 
     var tip = el('div', 'callout tip');
-    tip.appendChild(el('div', 'callout-title', '💡 ここが要点'));
+    tip.appendChild(el('div', 'callout-title', 'ここが要点'));
     var tp = el('p', null,
       '条件法現在は「未来語幹 ＋ 半過去の語尾」でできている。つまり新しく覚えることは何もない。' +
       '同じように、複合時制は5つあるが、変わるのは助動詞の時制だけで、過去分詞は常に同じ。' +

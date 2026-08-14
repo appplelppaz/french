@@ -24,7 +24,7 @@
     h1.appendChild(doc.createTextNode('フランス語文法テキスト'));
     hero.appendChild(h1);
     hero.appendChild(el('p', null,
-      '入門から接続法まで、全32章。文法は大学レベルの詳しさで書いてあります。' +
+      '入門から接続法まで、全32項目・41章。文法は大学レベルの詳しさで書いてあります。' +
       'フランス語はどこをクリックしても発音が鳴り、動詞の活用は表を見るだけでなくドリルで練習できます。' +
       '分からないところは AI にその場で質問できます。'));
     wrap.appendChild(hero);
@@ -330,7 +330,7 @@
     var themeField = el('label', 'field');
     themeField.appendChild(el('span', null, 'テーマ'));
     var themeSel = doc.createElement('select');
-    [['dark', 'ダーク（既定）'], ['light', 'ライト'], ['auto', '端末の設定に合わせる']].forEach(function (t) {
+    [['auto', '端末の設定に合わせる（既定）'], ['light', 'ライト（紙）'], ['dark', 'ダーク']].forEach(function (t) {
       var o = doc.createElement('option');
       o.value = t[0]; o.textContent = t[1];
       if (FR.store.settings.get('theme') === t[0]) o.selected = true;
@@ -342,6 +342,23 @@
     });
     themeField.appendChild(themeSel);
     themeCard.appendChild(themeField);
+
+    /* 文字サイズ。長時間読む教科書なので、目と距離に合わせて選べるようにする */
+    var sizeField = el('label', 'field');
+    sizeField.appendChild(el('span', null, '文字サイズ'));
+    var sizeSel = doc.createElement('select');
+    [['s', '小'], ['m', '標準（既定）'], ['l', '大'], ['xl', '特大']].forEach(function (t) {
+      var o = doc.createElement('option');
+      o.value = t[0]; o.textContent = t[1];
+      if (FR.store.settings.get('fontScale') === t[0]) o.selected = true;
+      sizeSel.appendChild(o);
+    });
+    sizeSel.addEventListener('change', function () {
+      FR.store.settings.set('fontScale', sizeSel.value);
+      FR.app.applyFontScale();
+    });
+    sizeField.appendChild(sizeSel);
+    themeCard.appendChild(sizeField);
     wrap.appendChild(themeCard);
 
     /* --- AI --- */
@@ -380,7 +397,7 @@
     var status = el('p', 'hint');
     function refreshStatus() {
       status.textContent = FR.gemini.hasKey()
-        ? '✅ キーが登録されています（' + FR.gemini.maskedKey() + '）'
+        ? 'キーが登録されています（' + FR.gemini.maskedKey() + '）'
         : '未登録です。AI 機能は使えませんが、教材の他の機能はすべて動きます。';
     }
     refreshStatus();

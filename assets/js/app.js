@@ -284,25 +284,32 @@
 
   /* ==================== テーマ ==================== */
 
-  /* テーマは3択（dark / light / auto）で、既定はダーク。
-     CSS 側は :root がダークなので、auto を選んだときだけ
-     data-theme="auto" を立てて端末の設定に従わせる。 */
+  /* テーマは3択（auto / light / dark）で、既定は auto（端末に合わせる）。
+     CSS 側は :root が紙（ライト）で、ダークは [data-theme=dark] と
+     「auto かつ端末がダーク」のときに効く。 */
   function applyTheme() {
     var t = FR.store.settings.get('theme');
-    if (t !== 'light' && t !== 'auto') t = 'dark';
+    if (t !== 'light' && t !== 'dark') t = 'auto';
     doc.documentElement.setAttribute('data-theme', t);
   }
 
   function cycleTheme() {
-    var order = ['dark', 'light', 'auto'];
+    var order = ['auto', 'light', 'dark'];
     var cur = FR.store.settings.get('theme');
     var i = order.indexOf(cur);
     var next = order[(i < 0 ? 0 : i + 1) % order.length];
     FR.store.settings.set('theme', next);
     applyTheme();
-    var label = { dark: 'ダーク', light: 'ライト', auto: '端末に合わせる' }[next];
+    var label = { auto: '端末に合わせる', light: 'ライト', dark: 'ダーク' }[next];
     byId('btn-theme').setAttribute('title', 'テーマ：' + label);
     byId('btn-theme').setAttribute('aria-label', 'テーマを切り替える（現在：' + label + '）');
+  }
+
+  /* 設定の「文字サイズ」。--font-scale を書き換え、読み物の列だけを拡縮する */
+  var FONT_SCALES = { s: 0.92, m: 1, l: 1.12, xl: 1.28 };
+  function applyFontScale() {
+    var k = FR.store.settings.get('fontScale');
+    doc.documentElement.style.setProperty('--font-scale', String(FONT_SCALES[k] || 1));
   }
 
   /* ==================== 検索 ==================== */
@@ -509,6 +516,7 @@
 
   function init() {
     applyTheme();
+    applyFontScale();
     installIcons();
     buildToc();
     setupSearch();
@@ -547,6 +555,7 @@
 
   FR.app = {
     applyTheme: applyTheme,
+    applyFontScale: applyFontScale,
     route: route,
     loadChapter: loadChapter,
     chapters: chapters,

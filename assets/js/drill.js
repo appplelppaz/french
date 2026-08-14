@@ -210,7 +210,7 @@
       }
 
       if (current.review) {
-        var badge = el('div', 'drill-prompt', '🔁 前に間違えた問題');
+        var badge = el('div', 'drill-prompt', '前に間違えた問題');
         badge.style.color = 'var(--amber)';
         body.appendChild(badge);
       }
@@ -325,9 +325,9 @@
       updateStats();
 
       var fb = el('div', 'drill-feedback ' + (correct ? 'ok' : 'ng'));
-      if (res === 'right') fb.appendChild(el('div', null, '⭕️ 正解'));
+      if (res === 'right') fb.appendChild(el('div', null, '正解'));
       else if (res === 'accent') fb.appendChild(el('div', null, '△ 惜しい — アクセント記号が抜けています'));
-      else fb.appendChild(el('div', null, '✗ 正解は'));
+      else fb.appendChild(el('div', null, '正解は'));
 
       var line = FR.conj.line(current.verb, current.tense, current.person) || current.answer;
       var ans = el('div', 'answer');
@@ -536,7 +536,7 @@
           if (tenses.indexOf(p[1]) === -1) tenses.push(p[1]);
         });
         host.textContent = '';
-        host.appendChild(create({ verbs: verbs, tenses: tenses, title: '🔁 苦手な項目の復習' }));
+        host.appendChild(create({ verbs: verbs, tenses: tenses, title: '苦手な項目の復習' }));
         host.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
       });
       weakCard.appendChild(again);

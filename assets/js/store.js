@@ -127,7 +127,8 @@
   /* ---- 設定 ---- */
 
   var DEFAULT_SETTINGS = {
-    theme: 'dark',            // dark（既定）| light | auto（端末に合わせる）
+    theme: 'auto',            // auto（既定。端末に合わせる）| light | dark
+    fontScale: 'm',           // s | m | l | xl（設定画面の「文字サイズ」）
     voiceURI: '',
     rate: 0.9,
     model: 'gemini-3.6-flash',
