@@ -159,7 +159,7 @@
 
     /* --- ヘッダ --- */
     var head = el('div', 'drill-head');
-    head.appendChild(el('span', 'ttl', opts.title || '🎯 活用ドリル'));
+    head.appendChild(el('span', 'ttl', opts.title || '活用ドリル'));
 
     var modeBtn = el('button', 'btn-mini', mode === 'input' ? '4択にする' : '入力式にする');
     modeBtn.type = 'button';
@@ -210,7 +210,7 @@
       }
 
       if (current.review) {
-        var badge = el('div', 'drill-prompt', '🔁 前に間違えた問題');
+        var badge = el('div', 'drill-prompt', '前に間違えた問題');
         badge.style.color = 'var(--amber)';
         body.appendChild(badge);
       }
@@ -246,6 +246,9 @@
       input.autocapitalize = 'off';
       input.autocomplete = 'off';
       input.spellcheck = false;
+      /* iPadOS の Scribble（Apple Pencil の手書き入力）でそのまま書き込める。
+         自動修正が働くと手書きした活用形が英単語に置き換えられるので切る */
+      input.setAttribute('autocorrect', 'off');
       input.setAttribute('aria-label', '活用形を入力');
       row.appendChild(input);
 
@@ -268,6 +271,27 @@
         acc.appendChild(b);
       });
       body.appendChild(acc);
+
+      /* 手書き練習パッド（Apple Pencil / 指）。開いたときだけ作る */
+      if (FR.scribble) {
+        var padWrap = el('div', 'scribble-wrap');
+        var padBtn = el('button', 'btn-mini scribble-toggle', '手書きで練習');
+        padBtn.type = 'button';
+        var pad = null;
+        padBtn.addEventListener('click', function () {
+          if (!pad) {
+            pad = FR.scribble.create(function () { return current ? current.answer : ''; });
+            padWrap.appendChild(pad);
+            padBtn.textContent = '手書きを閉じる';
+          } else {
+            pad.remove();
+            pad = null;
+            padBtn.textContent = '手書きで練習';
+          }
+        });
+        padWrap.appendChild(padBtn);
+        body.appendChild(padWrap);
+      }
 
       function submit() {
         if (answered) return;
@@ -325,9 +349,9 @@
       updateStats();
 
       var fb = el('div', 'drill-feedback ' + (correct ? 'ok' : 'ng'));
-      if (res === 'right') fb.appendChild(el('div', null, '⭕️ 正解'));
+      if (res === 'right') fb.appendChild(el('div', null, '正解'));
       else if (res === 'accent') fb.appendChild(el('div', null, '△ 惜しい — アクセント記号が抜けています'));
-      else fb.appendChild(el('div', null, '✗ 正解は'));
+      else fb.appendChild(el('div', null, '正解は'));
 
       var line = FR.conj.line(current.verb, current.tense, current.person) || current.answer;
       var ans = el('div', 'answer');
@@ -367,7 +391,7 @@
       foot.appendChild(table);
 
       if (!correct && FR.aiPanel) {
-        var ai = el('button', 'aitool', '✨ なぜこの形になるの？');
+        var ai = el('button', 'aitool', 'なぜこの形になるの？');
         ai.type = 'button';
         ai.addEventListener('click', function () {
           FR.aiPanel.explainDrill(current);
@@ -536,7 +560,7 @@
           if (tenses.indexOf(p[1]) === -1) tenses.push(p[1]);
         });
         host.textContent = '';
-        host.appendChild(create({ verbs: verbs, tenses: tenses, title: '🔁 苦手な項目の復習' }));
+        host.appendChild(create({ verbs: verbs, tenses: tenses, title: '苦手な項目の復習' }));
         host.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
       });
       weakCard.appendChild(again);

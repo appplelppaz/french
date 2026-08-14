@@ -124,6 +124,39 @@ Si j'avais eu le temps, je serais venu. | スィ・ジャヴェ・ウ・ル・�
 
 si 節は大過去（過去の反実）、主節は条件法現在（現在の帰結）です。
 :::
+
+### ①のバリエーション — 主節は未来形とは限らない
+
+パターン①（si + 現在）の主節には、未来形のほかに**現在形・命令形**も置けます。
+
+:::ex si + 現在の主節いろいろ
+Si tu veux, on part maintenant. | スィ・チュ・ヴ・オン・パール・マントゥナン | よければ、今出発しよう。（主節＝現在）
+Si tu as faim, mange quelque chose. | スィ・チュ・ア・ファン・マンジュ・ケルク・ショーズ | お腹が空いてるなら、何か食べなさい。（主節＝命令）
+S'il pleut, on reste à la maison. | スィル・プルー・オン・レスト・ア・ラ・メゾン | 雨なら家にいるよ。（主節＝現在）
+:::
+
+**Si tu veux**（よければ）と **si possible**（可能なら）は、そのまま会話の潤滑油として使える定型です。
+
+### si を使わない条件の言い方
+
+ネイティブは si 節ばかり使うわけではありません。**句や副詞で条件を圧縮する**言い方が同じくらい使われます。
+
+| 手段 | 例 | 意味 |
+|---|---|---|
+| **sinon** | Dépêche-toi, **sinon** tu vas rater le train. | さもないと |
+| **avec + 名詞** | **Avec** un peu de chance, ça marchera. | 〜があれば |
+| **sans + 名詞** | **Sans** toi, je n'y serais pas arrivé. | 〜がなければ |
+| **ジェロンディフ** | **En travaillant** plus, tu réussirais. | 〜すれば（第29章） |
+| **au cas où + 条件法** | Prends un parapluie, **au cas où** il pleuvrait. | 〜の場合に備えて |
+| **à ta place** | **À ta place**, je refuserais. | 君の立場なら |
+
+:::warn au cas où は条件法を取る
+si は直説法しか取りませんが、**au cas où（〜の場合に備えて）の後ろは条件法**です。
+
+[[Prends tes clés, au cas où je ne serais pas là.|プラン・テ・クレ・オ・カ・ウ・ジュ・ヌ・スレ・パ・ラ|私がいない場合に備えて、鍵を持って行きなさい。]]
+
+会話では **au cas où** だけで文を終える言い方も頻繁に聞かれます：Prends un parapluie, au cas où.（念のため傘持って行きなよ）。「念のため」という日本語にちょうど対応します。
+:::
 :::
 
 ## 4. 条件法の3つの用法
@@ -166,7 +199,31 @@ L'accident aurait fait trois morts. | ラクスィダン・オレ・フェ・ト
 
 **裏が取れていない情報**であることを、条件法で示します。フランスの新聞・ニュースを読むときに必ず出会う用法です。日本語の「〜という」「〜もよう」にあたります。
 
-### （3）過去における未来（第27.6章）
+### （3）後悔と非難 — 条件法過去の独壇場
+
+**devoir / pouvoir / vouloir の条件法過去**は、後悔・非難の決まった言い方を作ります。日常会話での使用頻度が非常に高い形です。
+
+| 形 | 意味 | 響き |
+|---|---|---|
+| **j'aurais dû** + 不定詞 | 〜すべきだった | 後悔 |
+| **tu aurais dû** + 不定詞 | 〜すべきだったのに | 非難 |
+| **j'aurais pu** + 不定詞 | 〜できたのに | 後悔・悔しさ |
+| **tu aurais pu** + 不定詞 | 〜してくれてもよかったのに | 軽い非難 |
+| **j'aurais aimé / voulu** + 不定詞 | 〜したかった（が叶わなかった） | 残念 |
+
+:::ex 後悔と非難
+J'aurais dû t'écouter. | ジョレ・デュ・テクテ | 君の言うことを聞くべきだった。
+Tu aurais dû me le dire ! | チュ・オレ・デュ・ム・ル・ディール | 言ってくれればよかったのに！
+Tu aurais pu me prévenir. | チュ・オレ・ピュ・ム・プレヴニール | 前もって知らせてくれてもよかったのに。
+J'aurais aimé être là. | ジョレ・ゼメ・エートル・ラ | その場にいたかったな。
+On aurait dit un rêve. | オ・ノレ・ディ・アン・レーヴ | まるで夢のようだった。
+:::
+
+現在形の **devrais**（〜したほうがいい：助言）と過去形の **aurais dû**（〜すべきだった：後悔）を対にして覚えると、devoir の条件法が一気に使えるようになります。
+
+最後の **on aurait dit …**（まるで〜のようだった）は、比喩の決まり文句です（現在なら on dirait … まるで〜みたいだ）。
+
+### （4）過去における未来（第27.6章）
 
 [[Il a dit qu'il viendrait.\|イラ・ディ・キル・ヴィアンドレ\|彼は来ると言った。]]
 
@@ -196,29 +253,80 @@ Si tu étais là, je serais heureux. | スィ・テュ・エテ・ラ・ジュ�
 :::drill être,avoir,aller,faire,pouvoir,vouloir futur,conditionnel
 :::
 
-## 練習問題
+## 7. 相談に乗る — 条件法の総合演習
 
-:::quiz
-Q. 条件法現在はどう作りますか。
-A. **未来語幹 ＋ 半過去の語尾**。第24章で覚えた未来語幹（ser-, aur-, ir-, fer-, pourr-, voudr- …）がそのまま使えるので、新しく覚える活用はない。
+友人の相談に乗る場面は、条件法のオンパレードです。
 
-Q. si 構文の3つのパターンを挙げてください。
-A. ①si + **直説法現在** / 主節 **単純未来**（実現しうる）、②si + **半過去** / 主節 **条件法現在**（現在の反実）、③si + **大過去** / 主節 **条件法過去**（過去の反実）。
-
-Q. Si j'aurais le temps, je viendrais. はなぜ誤りですか。
-A. **si 節には条件法・未来形を置かない**ため。正しくは Si j'**avais** le temps, je viendrais. 条件法が現れるのは主節のほう。フランスでは「si は rais を好まない」という語呂で教えられる。
-
-Q. Je veux un café. と Je voudrais un café. の違いは何ですか。
-A. 前者は直説法で「コーヒーが欲しい」とぶっきらぼう。後者は条件法で「コーヒーをお願いします」と丁寧。条件法は「もし可能でしたら」という仮定を含ませることで断定を避け、相手に断る余地を残す。店や窓口では Je voudrais が標準。
-
-Q. Il y aurait dix blessés. はどういう意味ですか。
-A. 「負傷者は10人とみられる」。**伝聞・未確認情報**を表す条件法で、報道で多用される。裏が取れていないことを条件法で示す、日本語の「〜もよう」にあたる用法。
-
-Q. je chanterai と je chanterais は、どう見分けますか。
-A. 綴りは s 1文字差、発音も現代ではほぼ同音。判断は文脈による——si 節があるか、丁寧な依頼か（→条件法）、単なる予定・予測か（→単純未来）。書き取りで最も間違えやすい対立。
+:::ex 相談の会話
+J'ai un problème avec mon travail. Qu'est-ce que tu ferais, toi ? | ケス・ク・チュ・フレ・トワ | 仕事で悩んでてさ。君ならどうする？
+À ta place, je parlerais directement au chef. | ア・タ・プラス・ジュ・パルルレ | 僕なら上司に直接話すな。
+Tu devrais d'abord réfléchir calmement. | チュ・ドゥヴレ・ダボール・レフレシール | まず落ち着いて考えたほうがいいよ。
+Ce serait dommage de démissionner maintenant. | ス・スレ・ドマージュ・ドゥ・デミスィヨネ | 今辞めるのはもったいないと思うな。
+Moi, j'aurais peur de le regretter. | モワ・ジョレ・プール・ドゥ・ル・ルグレテ | 私なら後悔しそうで怖いな。
+On pourrait en reparler demain ? | オン・プレ・アン・ルパルレ・ドゥマン | 明日また話さない？
 :::
 
+型を抜き出すと：
+
+- **Qu'est-ce que tu ferais (à ma place) ?** — 助言を求める
+- **À ta place, je + 条件法** — 「私なら〜する」
+- **Tu devrais + 不定詞** — 「〜したほうがいい」
+- **Ce serait + 形容詞 + de + 不定詞** — 「〜するのは…だろう」
+- **On pourrait + 不定詞 ?** — 「〜しない？」という柔らかい提案
+
+この5つの型で、**助言のやり取りは一通り回せます**。直説法でも文は作れますが、条件法にすることで「あくまで仮の話」という距離が生まれ、押しつけにならない——それがフランス語の相談の作法です。
+
+## 8. 丁寧さの階段
+
+依頼の言い方を、直接的なものから丁寧なものへ並べます。**下に行くほど条件法が深く関わります。**
+
+| 段階 | 例 | 場面 |
+|---|---|---|
+| 命令形 | Aide-moi. | 家族・親しい友人 |
+| 直説法の疑問 | Tu peux m'aider ? | 友人・同僚 |
+| 条件法の疑問 | Tu **pourrais** m'aider ? | 少し改まる |
+| vous + 条件法 | **Pourriez**-vous m'aider ? | 店・職場・初対面 |
+| 前置きつき | **Auriez**-vous la gentillesse de m'aider ? | 非常に丁寧・書簡 |
+
+フランス語の丁寧さは、日本語の敬語のような専用の語彙体系ではなく、**法と人称の選び方**で作られます。条件法はその中心的な道具です。
+
+
 :::ai-gen 条件法現在・過去、si 構文の3パターン、語調緩和
+
+## 10. 条件法過去の作り方と用法の全体
+
+条件法過去は **条件法現在の助動詞 + 過去分詞**——第13章の枠組みどおりです。
+
+| 助動詞 | 例 |
+|---|---|
+| avoir 系 | j'**aurais** chanté、tu **aurais** fini |
+| être 系 | je **serais** allé(e)、elle **serait** partie |
+| 代名動詞 | je me **serais** levé(e) |
+
+用法は3つ、いずれも「**現実には起きなかったこと**」を扱います。
+
+| 用法 | 例 |
+|---|---|
+| **過去の反実仮想の帰結** | Si j'avais su, je **serais** venu.（知っていたら来たのに） |
+| **後悔・非難**（§4） | Tu **aurais dû** me le dire.（言ってくれればよかったのに） |
+| **未確認の過去情報** | L'accident **aurait fait** trois morts.（事故で3人死亡した模様） |
+
+:::ex 条件法過去
+Sans toi, je n'y serais jamais arrivé. | サン・トワ・ジュ・ニ・スレ・ジャメ・アリヴェ | 君がいなかったら、絶対にやり遂げられなかった。
+Elle serait partie avant l'aube. | エル・スレ・パルティ・アヴァン・ローブ | 彼女は夜明け前に発ったらしい。
+J'aurais préféré que tu me préviennes. | ジョレ・プレフェレ・ク・チュ・ム・プレヴィエンヌ | 前もって知らせてほしかった。
+On aurait pu éviter ça. | オ・ノレ・ピュ・エヴィテ・サ | あれは避けられたはずだ。
+:::
+
+**J'aurais préféré que + 接続法**（〜してほしかった）は、丁寧な不満の表明として使える大人の言い方です。**On aurait pu …**（〜できたはずなのに）は反省会の定型。
+
+:::adv 条件法過去第2形 — 文学の中の形
+古典文学では、条件法過去の代わりに**接続法大過去**が使われることがあります（条件法過去第2形）。
+
+- Si j'avais su, je **fusse venu**.（= je serais venu）
+
+形は接続法大過去ですが意味は条件法過去です。17〜19世紀の文章に現れる形で、現代語では完全に消えています。**読解で出会ったら条件法過去に読み替えれば足ります**。
+:::
 
 ## この章の語彙
 
@@ -237,6 +345,16 @@ accident | n.m. | 事故
 président / présidente | n. | 大統領、社長
 heureux / heureuse | adj. | 幸せな
 place | n.f. | 場所、立場、席
+sinon | conj. | さもないと
+au cas où | loc.conj. | 〜の場合に備えて
+j'aurais dû | 表現 | 〜すべきだった
+tu aurais pu | 表現 | 〜してくれてもよかったのに
+on dirait | 表現 | まるで〜のようだ
+prévenir | v. | 前もって知らせる
+rater | v. | 逃す、しくじる
+parapluie | n.m. | 傘
+rêve | n.m. | 夢
+gentillesse | n.f. | 親切
 :::
 `
 });

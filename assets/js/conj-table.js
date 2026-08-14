@@ -69,7 +69,7 @@
       }
       li.appendChild(formCell);
 
-      var play = el('span', 'conj-kana', '🔊');
+      var play = el('span', 'conj-play');
       li.appendChild(play);
 
       ul.appendChild(li);
@@ -90,7 +90,7 @@
     var info = FR.conj.info(verb);
     if (!info) {
       var miss = el('div', 'callout warn');
-      miss.appendChild(el('div', 'callout-title', '⚠️ 未登録の動詞'));
+      miss.appendChild(el('div', 'callout-title', '未登録の動詞'));
       miss.appendChild(el('p', null, verb + ' は活用データに登録されていません。'));
       return miss;
     }
@@ -134,7 +134,7 @@
     });
     tools.appendChild(bParts);
 
-    var bHomo = el('button', 'btn-mini', '同じ音 ♪');
+    var bHomo = el('button', 'btn-mini', '同じ音');
     bHomo.type = 'button';
     bHomo.setAttribute('aria-pressed', String(!!settings.showHomophones));
     bHomo.addEventListener('click', function () {
@@ -144,7 +144,7 @@
     });
     tools.appendChild(bHomo);
 
-    var bPlay = el('button', 'btn-mini', '▶ 通して聞く');
+    var bPlay = FR.iconize(el('button', 'btn-mini', '通して聞く'), 'play', 11);
     bPlay.type = 'button';
     bPlay.dataset.playAll = '1';
     tools.appendChild(bPlay);
@@ -171,7 +171,7 @@
     allHomo.forEach(function (h) {
       h.groups.forEach(function (g) {
         var words = g.map(function (i) { return h.forms[i]; });
-        notes.push('♪ ' + h.tense.ja + ' の ' + words.join(' / ') + ' は、綴りが違っても音は同じ。');
+        notes.push('同じ音：' + h.tense.ja + ' の ' + words.join(' / ') + ' は、綴りが違っても音は同じ。');
       });
     });
 
@@ -283,7 +283,7 @@
     );
 
     var tip = el('div', 'callout tip');
-    tip.appendChild(el('div', 'callout-title', '💡 ここが要点'));
+    tip.appendChild(el('div', 'callout-title', 'ここが要点'));
     var tp = el('p', null,
       '条件法現在は「未来語幹 ＋ 半過去の語尾」でできている。つまり新しく覚えることは何もない。' +
       '同じように、複合時制は5つあるが、変わるのは助動詞の時制だけで、過去分詞は常に同じ。' +

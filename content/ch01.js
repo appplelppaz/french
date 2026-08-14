@@ -227,7 +227,28 @@ monsieur の複数形が messieurs なのは、元が **mon sieur**（私の主�
 原則は「**変化しうる品詞（名詞・形容詞）だけが複数になる**」。動詞・前置詞・副詞は変化しません。
 :::
 
-## 4. 名詞は単独では文に置けない
+## 4. 人を表す名詞の男女 — 現代の動き
+
+:::deep 職業名詞の女性形
+人を表す名詞は、性が実際の性別に対応します。女性形の作り方は形容詞（第6章）とほぼ同じです。
+
+| 型 | 男性 | 女性 |
+|---|---|---|
+| + e | un étudiant | une étudiant**e** |
+| -er → -ère | un boulanger | une boulang**ère** |
+| -eur → -euse | un vendeur | une vend**euse** |
+| -teur → -trice | un acteur | une ac**trice** |
+| -ien → -ienne | un musicien | une music**ienne** |
+| 同形（冠詞で区別） | un / une artiste, un / une élève, un / une collègue | |
+
+長く「男性形しかない」とされてきた職業名も、現在は女性形が一般化しています：**une professeure**（教員）、**une écrivaine**（作家）、**une auteure / autrice**（著者）、**une ministre**（大臣）。アカデミー・フランセーズも2019年に職業名の女性化を正式に容認しました。**現代のフランス語では女性形を使うのが標準**です。
+
+一方、**性が固定の名詞**もあります：une personne（人）は男性を指しても常に女性名詞、un bébé（赤ちゃん）は女児でも男性名詞。**文法の性は最終的には語に付いた属性**であって、指す相手の性別と常に一致するわけではない——この距離感も含めて掴んでください。
+
+- [[C'est une personne très gentille.|セ・チュヌ・ペルソンヌ・トレ・ジャンティーユ|（男女問わず）とても親切な人です。]]
+:::
+
+## 5. 名詞は単独では文に置けない
 
 英語では I like books. と冠詞なしで言えますが、フランス語ではこれができません。**名詞には必ず限定詞（déterminant）が必要**です。
 
@@ -251,29 +272,38 @@ Je cherche une maison. | ジュ・シェルシュ・ユヌ・メゾン | 私は�
 これらはいずれも「その名詞を個別のモノとして数えていない」場合です。分類・性質・材質を述べているとき、限定詞は落ちます。
 :::
 
-## 練習問題
-
-:::quiz
-Q. なぜ名詞は「table」ではなく「une table」の形で覚えるべきなのですか。
-A. 名詞の性は意味から推測できず、しかも冠詞・形容詞・過去分詞・代名詞の形をすべて決めてしまうから。性を知らないと、その名詞を含む文が一つも正しく作れない。冠詞ごと覚えれば、性の情報が自動的に付いてくる。
-
-Q. 話し言葉で le livre と les livres はどうやって区別しますか。
-A. 名詞では区別できない（複数の -s は発音されない）。区別しているのは冠詞のほう（ル / レ）。フランス語の複数は名詞ではなく限定詞が担っている。
-
-Q. 次の名詞の性を、語尾から推測してください。（1）la/le nation （2）la/le fromage （3）la/le liberté
-A. （1）la nation — -tion は女性。（2）le fromage — -age は原則男性。（3）la liberté — -té は女性。
-
-Q. [[un musicien\|アン・ミュズィスィアン\|音楽家]] と [[une musicienne\|ユヌ・ミュズィスィエンヌ\|音楽家（女性）]] は、なぜ母音の響きが変わるのですか。
-A. 男性形では n の後ろに何もないので鼻母音 [ɛ̃] になる。女性形では n が重なるため鼻母音の条件を満たさず、[ɛn] と発音される。第0章の「鼻母音になる条件」がそのまま効いている。
-
-Q. travail の複数形は travails ではなく travaux です。-ail で終わる語のうち、-aux になるのは何語ありますか。
-A. 7語（travail, vitrail, corail, émail, bail, soupirail, vantail）。それ以外の -ail は規則どおり -s を足す（détail → détails）。
-
-Q. le livre と la livre は、それぞれ何を意味しますか。
-A. le livre は「本」、la livre は「ポンド（重さ・通貨の単位）」。性が意味を区別している例で、他に le tour（一周）/ la tour（塔）、le poste（職）/ la poste（郵便局）などがある。
-:::
 
 :::ai-gen 名詞の性と数、複数形の作り方
+
+## 6. 複数形の例外を音で整理する
+
+複数形は「原則 -s、音は変わらない」でしたが、**音が変わる例外**があります。まとめて確認します。
+
+| 型 | 単数 → 複数 | 音の変化 |
+|---|---|---|
+| **-al → -aux** | un journal → des journ**aux** | 「ジュルナル」→「ジュルノ」**変わる** |
+| **-ail → -aux**（一部） | un travail → des trav**aux** | 「トラヴァイユ」→「トラヴォ」**変わる** |
+| **-eau / -eu → -x** | un bateau → des bateau**x** | 変わらない |
+| **-s / -x / -z** | un fils → des fils | 変わらない |
+| 通常の -s | un livre → des livres | 変わらない |
+
+**音が変わるのは -al と -ail の2型だけ**です。これらは複数形を別語のように覚える必要があります。
+
+:::ex 音が変わる複数形
+un journal → des journaux | アン・ジュルナル・デ・ジュルノ | 新聞
+un animal → des animaux | アン・ナニマル・デ・ザニモ | 動物
+un cheval → des chevaux | アン・シュヴァル・デ・シュヴォ | 馬
+le travail → les travaux | ル・トラヴァイユ・レ・トラヴォ | 工事（複数で「工事」の意味） |
+un œil → des yeux | アン・ヌイユ・デ・ズィユ | 目（完全に不規則）
+:::
+
+**œil → yeux** は最も不規則な複数形です。単数と複数で語形がまったく違い、英語の person → people に近い関係です。
+
+:::warn -al の例外：festival, bal, carnaval
+-al で終わっても **-als** になる語があります：des **festivals**、des **bals**（舞踏会）、des **carnavals**、des **récitals**。比較的新しい借用語や固有の語に多く、伝統的な -aux 型に入らなかったものです。
+
+また **travaux** は「工事」、**vacances** は「休暇」のように、**複数形で意味が特化する**名詞もあります。単数の travail は「仕事」、vacance は「空席」——複数形を別の語として辞書に引く価値があります。
+:::
 
 ## この章の語彙
 

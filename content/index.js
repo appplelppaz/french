@@ -17,10 +17,13 @@
     { id: 'ch04', no: '4',    title: '提示の表現',           sub: 'voici / voilà 〜、c\'est / ce sont 〜、il y a 〜' },
     { id: 'ch05', no: '5',    title: '否定の表現',           sub: '《ne 動詞 pas》のワンパターン、そしてその先' },
     { id: 'ch06', no: '6',    title: '形容詞',               sub: '「かわいい」靴、欲しい？' },
+    { id: 'ch06h', no: '6.5', title: '副詞',                 sub: '形容詞の隣にある、もう一つの修飾語', branch: true },
     { id: 'ch07', no: '7',    title: '前置詞と定冠詞の縮約', sub: 'café au lait の au です' },
+    { id: 'ch07h', no: '7.5', title: '前置詞の詳細',         sub: 'à と de を中心に、体系として押さえる', branch: true },
     { id: 'ch08', no: '8',    title: '—er 動詞',             sub: '「歌い」、「踊り」、「愛する」ために' },
     { id: 'ch09', no: '9',    title: '疑問形',               sub: '「愛してる?」を3通りの言い方で' },
     { id: 'ch10', no: '10',   title: '指示・疑問・所有形容詞', sub: '名詞にあわせて変身' },
+    { id: 'ch10h', no: '10.5', title: '不定形容詞・不定代名詞', sub: 'tout, chaque, quelque, autre, même, aucun', branch: true },
     { id: 'ch11', no: '11',   title: 'aller / venir',        sub: '近い未来・近い過去' },
     { id: 'ch12', no: '12',   title: '疑問副詞、疑問代名詞', sub: '「いつ」「どこで」「誰が」「なにを」' },
     { id: 'ch13', no: '13',   title: '動詞活用の全体図 & finir', sub: 'お役に立つ課です！' },
@@ -46,7 +49,8 @@
     { id: 'ch29', no: '29',   title: '現在分詞・ジェロンディフ', sub: '「歌っている」女性歌手を「泣きながら」見つめる' },
     { id: 'ch29h', no: '29½', title: '「法」× 3',            sub: '直説法、条件法、接続法', branch: true },
     { id: 'ch30', no: '30',   title: '条件法',               sub: 'もしぼくが鳥だったら（条件法過去まで）' },
-    { id: 'ch31', no: '31',   title: '接続法',               sub: 'あなたが幸せであることを、願っています' }
+    { id: 'ch31', no: '31',   title: '接続法',               sub: 'あなたが幸せであることを、願っています' },
+    { id: 'ch31h', no: '31.5', title: '接続詞と従属節の体系', sub: 'どの接続詞が直説法を取り、どれが接続法を取るか', branch: true }
   ];
 
   /* 目次の見出し（サイドバーの区切り） */

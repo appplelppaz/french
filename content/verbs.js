@@ -329,6 +329,8 @@
     'écouter':    { ja: '聞く', group: 1 },
     'travailler': { ja: '働く、勉強する', group: 1 },
     'donner':     { ja: '与える', group: 1 },
+    'montrer':    { ja: '見せる', group: 1 },
+    'prêter':     { ja: '貸す', group: 1 },
     'trouver':    { ja: '見つける、〜と思う', group: 1 },
     'penser':     { ja: '考える', group: 1 },
     'chercher':   { ja: '探す', group: 1 },

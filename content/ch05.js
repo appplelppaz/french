@@ -237,33 +237,107 @@ Je n'ai qu'un frère. | ジュ・ネ・カン・フレール | 兄弟は一人�
 **話し言葉ではまず使われません**。読解のために知っておく項目で、自分で書くときに必要になることはほとんどありません。ただし「なぜここに ne があるのに否定でないのか」を説明できる必要はあります。
 :::
 
-## 練習問題
+## 7. 不定詞の否定と、否定の組み合わせ
 
-:::quiz
-Q. Je ne veux pas partir. で、pas はなぜ partir の前に来るのですか。
-A. ne … pas が挟むのは**活用した動詞**だから。ここで活用しているのは veux（vouloir）であり、partir は不定詞なので挟む対象ではない。この原則は複合過去でも同じで、助動詞を挟み過去分詞は挟まない（Je n'ai pas mangé）。
+:::deep ne pas + 不定詞 — まとめて前に置く
+不定詞を否定するときは、**ne pas をまとめて不定詞の前**に置きます。活用した動詞を挟むのとは配置が違います。
 
-Q. 「私は10ユーロしか持っていない」は Je n'ai que dix euros. です。なぜ dix euros の冠詞が de になっていないのですか。
-A. ne … que は否定ではなく「制限（〜しかない）」を表し、実質的には肯定だから。否定の de が起きるのは、量を表す不定冠詞・部分冠詞が否定で量ゼロになる場合に限られる。
-
-Q. Personne ne comprend. で、なぜ ne が残っているのですか。
-A. ne は否定語とセットで動くのではなく、**動詞と結びついた要素**だから。personne が主語の位置に移っても、ne は動詞の前にとどまる。
-
-Q. 話し言葉で ne が落ちるのに、pas が残るのはなぜですか。
-A. 歴史的に否定を担っていたのは ne だったが、強調のために添えられた pas（もとは「一歩」の意味の名詞）が一般化し、否定の中心が pas に移った。その結果、音の弱い ne のほうが脱落した。
-
-Q. Je crains qu'il ne vienne. は「彼が来るのが心配だ」ですか、「彼が来ないのが心配だ」ですか。
-A. 「彼が**来る**のが心配だ」。この ne は虚辞の ne（le ne explétif）で、否定の意味を持たない。craindre, avoir peur que, avant que, à moins que, 比較の que の後で現れる、書き言葉特有の現象。
-
-Q. J'aime le thé et le café. を否定文にしてください。
-A. Je n'aime **ni** le thé **ni** le café. 肯定文の et は、否定文では ni … ni になる。なお ni の後では不定冠詞・部分冠詞は落ちるが、定冠詞は残る。
+:::ex 不定詞の否定
+Je te demande de ne pas crier. | ジュ・トゥ・ドゥマンド・ドゥ・ヌ・パ・クリエ | 叫ばないでと頼んでいるんだ。
+Il vaut mieux ne rien dire. | イル・ヴォ・ミュー・ヌ・リヤン・ディール | 何も言わないほうがいい。
+Elle est partie sans rien dire. | エ・レ・パルティ・サン・リヤン・ディール | 彼女は何も言わずに去った。
+Merci de ne pas fumer. | メルスィ・ドゥ・ヌ・パ・フュメ | 禁煙にご協力ください。（掲示）
 :::
 
+**Merci de ne pas + 不定詞**は掲示の定型です（Merci de ne pas toucher. お手を触れないでください）。
+
+**否定語の組み合わせ**も整理しておきます。pas とは併用できませんが、pas 以外どうしは重ねられます。
+
+| 組み合わせ | 意味 | 例 |
+|---|---|---|
+| ne … **plus rien** | もう何も〜ない | Je ne vois plus rien. |
+| ne … **plus jamais** | もう二度と〜ない | Je n'y retournerai plus jamais. |
+| ne … **jamais rien** | 決して何も〜ない | Il ne dit jamais rien. |
+| ne … **plus personne** | もう誰も〜ない | Il n'y a plus personne. |
+| ne … **jamais personne** | 決して誰も〜ない | Elle n'invite jamais personne. |
+
+順序は **plus → jamais → rien / personne** の並びで固定です。「もう二度と何も言わない」なら Je ne dirai **plus jamais rien**. と3つ重なることもあります。
+:::
+
+## 8. 否定の返事と応酬 — 会話の道具
+
+:::deep 否定をめぐる会話の定型
+**（1）Pas + 語 — 動詞なしの否定**
+
+- [[Pas encore.|パ・ザンコール|まだだよ。]]
+- [[Pas du tout.|パ・デュ・トゥ|全然。]]
+- [[Pas de problème.|パ・ドゥ・プロブレム|問題ないよ。]]
+- [[Pas mal !|パ・マル|悪くないね！]]
+- [[Pourquoi pas ?|プルコワ・パ|いいんじゃない？]]
+
+pas は動詞なしでも否定を作れます。返事はこの形で十分です。
+
+**（2）ne … ni … ni（〜も〜もない）**
+
+[[Je ne bois ni café ni thé.|ジュ・ヌ・ボワ・ニ・カフェ・ニ・テ|コーヒーも紅茶も飲みません。]]
+
+ni の後は無冠詞になる点に注意（第31.5章で詳述）。
+
+**（3）non plus と moi non plus**
+
+否定文の「〜も」は aussi ではなく **non plus**：[[Je ne sais pas. — Moi non plus.|モワ・ノン・プリュ|知らない。— 私も。]]
+
+**（4）二重否定は肯定になる**
+
+[[Ce n'est pas impossible.|ス・ネ・パ・アンポスィブル|不可能ではない（＝できるかもしれない）。]]
+[[Il n'est pas sans savoir que …|イル・ネ・パ・サン・サヴォワール|彼は〜を知らないわけではない。]]
+
+pas + 否定的な語で、控えめな肯定（緩叙法）になります。フランス語らしい持って回った言い方で、書き言葉・改まった話し言葉で好まれます。
+
+**（5）否定疑問への返事は si**（第9章の復習）
+
+Tu ne viens pas ? — **Si**, je viens !（来ないの？ — いや、行くよ！）
+:::
+
+
 :::ai-gen 否定表現、ne...pas 以外の否定語、否定の de、ne...que
+
+## 9. 否定の作用域 — どこまでを否定しているか
+
+同じ ne … pas でも、**文のどこにかかるか**で意味が変わります。読解で誤読しやすい箇所です。
+
+:::ex 作用域の違い
+Je ne pense pas qu'il vienne. | ジュ・ヌ・パンス・パ・キル・ヴィエンヌ | 彼が来るとは思わない。（否定が que 節にかかる）
+Il ne travaille pas beaucoup. | イル・ヌ・トラヴァイユ・パ・ボクー | 彼はあまり働かない。（beaucoup を否定）
+Il ne travaille pas pour l'argent. | イル・ヌ・トラヴァイユ・パ・プー・ラルジャン | 彼が働くのは金のためではない。（pour l'argent を否定）
+Tous les étudiants ne sont pas venus. | トゥ・レ・ゼテュディヤン・ヌ・ソン・パ・ヴニュ | 学生全員が来たわけではない。（部分否定）
+Aucun étudiant n'est venu. | オキュン・ネテュディヤン・ネ・ヴニュ | どの学生も来なかった。（全否定）
+:::
+
+**（1）主節否定の繰り上げ**
+
+Je ne pense pas qu'il vienne. は、論理的には「彼が来ない、と思う」ではなく「彼が来る、とは思わない」です。**否定が主節に付いていても、意味は従属節にかかる**——英語の I don't think he'll come. と同じ現象で、これを「否定の繰り上げ」と呼びます。penser / croire / trouver で起きます。
+
+**（2）tous … ne … pas は部分否定**
+
+**Tous les étudiants ne sont pas venus.** は「全員が来たわけではない」（一部は来た）。全否定にしたいなら **aucun** か **personne** を使います。日本語の「全員来なかった」と読むと逆になるので要注意です。
+
+**（3）否定の位置が変わると焦点が動く**
+
+- Il **n'**a **pas** acheté ce livre **pour lui**.（彼のために買ったのではない——他の誰かのため）
+- Il **n'**a **pas** acheté **ce livre** pour lui.（この本を買ったのではない——別の本）
+
+強勢の置き方で決まる英語と違い、フランス語は**否定の直後に来る要素**が焦点になりやすい傾向があります。第22章の強調構文（Ce n'est pas ce livre qu'il a acheté.）を使えば、焦点を明示できます。
 
 ## この章の語彙
 
 :::vocab 第5章の語彙
+Pas encore. | 表現 | まだだよ
+Pas du tout. | 表現 | 全然
+Pas de problème. | 表現 | 問題ない
+Pas mal ! | 表現 | 悪くないね
+ne … ni … ni | 構文 | 〜も〜もない
+impossible | adj. | 不可能な
 ne … pas | 否定 | 〜ない
 ne … jamais | 否定 | 決して〜ない
 ne … plus | 否定 | もう〜ない

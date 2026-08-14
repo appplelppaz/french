@@ -40,7 +40,7 @@ FR.chapter({
 :::conj chanter présent
 
 :::warn 4つの形が同じ音になる
-上の表で「同じ音 ♪」を押してください。**je / tu / il / ils の4つに印が付きます。**
+上の表で「同じ音」を押してください。**je / tu / il / ils の4つに印が付きます。**
 
 chante、chantes、chante、chantent —— 綴りは違いますが、**発音はすべて「シャント」で同一**です。
 
@@ -182,7 +182,27 @@ c は a, o, u の前では [k] になってしまいます。nous の語尾 -ons
 第1群でこのような不規則を持つのは envoyer / renvoyer だけです。aller とあわせて、-er 動詞の例外は3語だけと覚えられます。
 :::
 
-## 5. 否定・疑問との組み合わせ
+## 5. 音で覚える -er 活用 — 6つのうち4つは同じ音
+
+:::warn -er 動詞の現在形は「4つが同音」
+chante / chantes / chante / chantent は、綴りこそ違え**すべて「シャント」と同音**です。音が変わるのは nous（シャントン）と vous（シャンテ）だけ。
+
+| 綴り | 音 |
+|---|---|
+| je chant**e** / tu chant**es** / il chant**e** / ils chant**ent** | 「シャント」（同音） |
+| nous chant**ons** | 「シャントン」 |
+| vous chant**ez** | 「シャンテ」 |
+
+この事実は2つの実務につながります。
+
+**（1）話すときの負担が軽い**——主語さえ言えば動詞の形はほぼ1つ。だからフランス語は主語代名詞を省略できない（第3章）とも言えます。動詞の音が人称を区別しないので、主語が人称を担っているのです。
+
+**（2）書くときの事故が増える**——「シャント」と聞こえても綴りは4通り。とくに **tu の -es** と **ils の -ent** の書き落としは、フランス語圏の子どもにも大人にも最も多い綴りの誤りです。ディクテ（書き取り）で鍛える箇所です。
+
+さらに、**不定詞 chanter・過去分詞 chanté・vous 形 chantez はすべて「シャンテ」で同音**です。「シャンテ」と聞いたら3つの可能性を文法で絞る——これが -er 動詞の聞き取りの実際です（第20章で過去分詞を学ぶと重要になります）。
+:::
+
+## 6. 否定・疑問との組み合わせ
 
 第5章の否定を、-er 動詞に当てはめます。
 
@@ -199,7 +219,7 @@ Tu chantes ? | テュ・シャント | 君、歌うの？
 Vous parlez français ? | ヴー・パルレ・フランセ | フランス語を話しますか？
 :::
 
-## 6. 動詞 + 不定詞 — à と de の使い分け
+## 7. 動詞 + 不定詞 — à と de の使い分け
 
 :::deep 2つ目の動詞をつなぐとき、何を挟むか
 「〜したい」「〜し始める」のように動詞を2つ重ねるとき、**間に何も入れない／à を入れる／de を入れる** の3通りがあり、**最初の動詞ごとに決まっています**。辞書に載っている情報で、規則からは導けません。
@@ -235,7 +255,34 @@ Vous parlez français ? | ヴー・パルレ・フランセ | フランス語を
 - [[commencer par parler\|コマンセ・パール・パルレ\|まず話すことから始める]]（順序）
 :::
 
-## 7. 活用ドリル
+## 8. -er 動詞の語彙力 — 最初に覚える30語
+
+:::note 第1群は「動詞の在庫」の9割
+フランス語の動詞の約9割が第1群です。**活用パターンは1つ**なので、覚えた瞬間から30語すべてを全人称で使えます。使用頻度順に整理します。
+
+| 生活 | 交流 | 心 |
+|---|---|---|
+| habiter（住む） | parler（話す） | aimer（愛する・好む） |
+| travailler（働く） | écouter（聞く） | adorer（大好きだ） |
+| manger（食べる） | regarder（見る） | détester（大嫌いだ） |
+| acheter（買う） | demander（尋ねる） | préférer（〜のほうが好き） |
+| payer（払う） | donner（与える） | espérer（望む） |
+| porter（着る・運ぶ） | montrer（見せる） | penser（考える） |
+| laver（洗う） | appeler（呼ぶ） | trouver（見つける・思う） |
+| préparer（準備する） | inviter（招く） | oublier（忘れる） |
+| fermer（閉める） | aider（助ける） | rêver（夢見る） |
+| commencer（始める） | rencontrer（出会う） | chercher（探す） |
+
+**aimer / adorer / détester / préférer** の4語は好みの表現の基本セットで、後ろに**定冠詞つきの名詞**（J'aime **le** café. 第2章）か**不定詞**（J'aime danser.）を取ります。
+
+- [[J'adore ça !|ジャドール・サ|これ大好き！]]
+- [[Je déteste attendre.|ジュ・デテスト・アタンドル|待つのは大嫌いだ。]]
+- [[Je préfère le thé au café.|ジュ・プレフェール・ル・テ・オ・カフェ|コーヒーより紅茶が好きだ。]]
+
+préférer A **à** B（B より A が好き）の à も、第7.5章で見た「方向の à」です。
+:::
+
+## 9. 活用ドリル
 
 規則が分かったら、実際に出力できるか試してください。**表を見て「分かった」ことと、白紙から書けることは別です。**
 
@@ -248,29 +295,33 @@ Vous parlez français ? | ヴー・パルレ・フランセ | フランス語を
 - 誤答時に「なぜこの形になるの？」を押すと、AI が個別に説明します（API キーが必要）
 :::
 
-## 練習問題
-
-:::quiz
-Q. je chante, tu chantes, il chante, ils chantent は、なぜ4つとも同じ発音になるのですか。
-A. 語末の e は無音、語末の s も無音、3人称複数の -ent は丸ごと無音だから。結果として6つの形のうち音で区別されるのは3つ（シャント／シャントン／シャンテ）だけになる。この事実が、フランス語で主語代名詞を省略できない理由でもある。
-
-Q. nous mangeons の e は何のためにありますか。
-A. g は a, o の前では [g] と発音されてしまうため。語尾 -ons を付けると g の後ろが o になるので、[ʒ] の音を保つために e を挟む。同じ理由で commencer は nous commençons と ç になる。これは例外ではなく発音規則を守るための調整。
-
-Q. appeler と acheter は、どちらも「[ə] を [ɛ] に変える」目的を持っています。手段はどう違いますか。
-A. appeler は子音を重ねる（j'appelle）。acheter はアクサン・グラーヴを付ける（j'achète）。目的は同じだが綴りの手段が違うので、動詞ごとに覚える必要がある。
-
-Q. j'achèterai と je préférerai で、é / è の扱いが違うのはなぜですか。
-A. 伝統的な綴りでは、é + 子音 + er 型（préférer）は未来・条件法では é のまま戻る。一方 acheter 型・appeler 型は未来形でも変化を保つ（j'achèterai, j'appellerai）。実用上は「é 型だけ未来で戻る」と覚える。
-
-Q. J'aime chanter. と Je commence à chanter. で、前置詞の有無が違うのはなぜですか。
-A. 2つ目の動詞を不定詞でつなぐとき、何を挟むかは**最初の動詞ごとに決まっている**規則からは導けない語法。aimer は直接つなぐ型、commencer は à を取る型。傾向としては à が「開始・傾向」、de が「終了・停止・依頼」だが、最終的には辞書で確認する。
-
-Q. aller は -er で終わるのに第1群ではありません。第1群の例外は他に何がありますか。
-A. envoyer と renvoyer。現在形は規則どおりだが、未来語幹だけが enverr- / renverr- という不規則な形になる。aller と合わせて、-er 動詞の例外は実質3語だけ。
-:::
 
 :::ai-gen -er動詞の現在形、綴りが変わる動詞、動詞+不定詞のà/de
+
+## 10. -er 動詞から派生語彙を広げる
+
+第1群動詞は**名詞・形容詞と語根を共有**しているものが多く、1語覚えると語彙が芋づる式に増えます。
+
+| 動詞 | 派生名詞 | 派生形容詞 |
+|---|---|---|
+| travailler（働く） | le travail（仕事）、un travailleur（労働者） | travaillé（凝った） |
+| chanter（歌う） | une chanson（歌）、un chanteur（歌手） | chantant（歌うような） |
+| danser（踊る） | une danse、un danseur | dansant |
+| aimer（愛する） | l'amour（愛）、un amateur（愛好家） | aimable（親切な） |
+| habiter（住む） | un habitant（住民）、une habitation（住居） | habitable |
+| commencer（始める） | un commencement（始まり） | commençant |
+| penser（考える） | une pensée（考え） | pensif（物思わしげな） |
+| chercher（探す） | une recherche（研究・探索）、un chercheur（研究者） | recherché（凝った） |
+
+**-eur / -euse（〜する人）、-ment（〜すること）、-tion（〜すること）、-able（〜できる）**という4つの接尾辞を知っているだけで、動詞から名詞・形容詞を推測できます。
+
+:::ex 派生語の関係
+Il travaille dur ; c'est un bon travailleur. | イル・トラヴァイユ・デュール | 彼はよく働く。いい働き手だ。
+Elle chante bien. Sa chanson préférée est ancienne. | エル・シャント・ビヤン | 彼女は歌がうまい。好きな歌は古い曲だ。
+Ce quartier compte mille habitants. | ス・カルティエ・コント・ミル・ザビタン | この地区の住民は千人だ。
+:::
+
+逆方向も成り立ちます。名詞 **un téléphone** → 動詞 **téléphoner**、**un dessin**（絵）→ **dessiner**（描く）、**un voyage** → **voyager**。**新しい動詞はほぼすべて -er 型で作られる**ので（第8章冒頭）、名詞を知っていれば動詞を作れる場面が多くあります。
 
 ## この章の語彙
 

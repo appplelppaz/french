@@ -2,7 +2,7 @@ FR.chapter({
   id: 'ch24',
   no: '24',
   title: '単純未来',
-  sub: 'でんわしてね♥と彼女は言う（前未来まで）',
+  sub: '「でんわしてね」と彼女は言う（前未来まで）',
   body: `
 第11章で、未来は **aller + 不定詞**（近接未来）でも表せると学びました。この章で扱う**単純未来（le futur simple）**は、その改まった対応物です。
 
@@ -249,7 +249,59 @@ Dès que j'aurai terminé, je t'appellerai. | デ・ク・ジョレ・テルミ�
 これはフランス語の書き取りで最も難しい対立の1つです。
 :::
 
-## 7. 活用ドリル
+## 7. 未来の言い方を選ぶ — 3つの手段の実際
+
+:::deep 近接未来・単純未来・現在形 — 使い分けの実態
+フランス語には未来を言う手段が3つあります。
+
+| 手段 | 例 | 使いどころ |
+|---|---|---|
+| **現在形** | Je pars **demain**. | 予定が確定していて、時の副詞がある |
+| **近接未来**（第11章） | Je **vais partir** demain. | 会話の既定。現在との地続き |
+| **単純未来** | Je **partirai** demain. | 予測・約束・宣言。書き言葉 |
+
+**時の副詞があれば現在形で足りる**——これが会話の実態です。Je pars demain.（明日発つよ）は完全に自然で、日本語の「明日出発する」と同じ発想です。
+
+単純未来が選ばれるのは：
+
+- **天気予報・予測**：[[Demain, il fera beau.|ドゥマン・イル・フラ・ボー|明日は晴れるでしょう。]]
+- **約束・誓い**：[[Je t'aimerai toujours.|ジュ・テムレ・トゥジュール|ずっと君を愛するよ。]]
+- **指示・規則**（未来形の命令的用法）：[[Tu feras tes devoirs avant de sortir.|チュ・フラ・テ・ドゥヴォワール|出かける前に宿題をやりなさい。]]
+- **丁寧な言い回し**：[[Je vous demanderai un peu de patience.|ジュ・ヴ・ドゥマンドレ|少々ご辛抱をお願いします。]]
+
+聖書の十戒（Tu ne tueras point. 汝殺すなかれ）が未来形なのは、この命令的用法です。
+
+**quand + 未来形**（第31.5章で詳述）も忘れずに：英語と違い、[[Quand il arrivera, on mangera.|カン・ティ・ラリヴラ・オン・マンジュラ|彼が着いたら食べよう。]] と**両方を未来形**にします。
+:::
+
+## 8. 未来を指す時の表現 — カレンダーの語彙
+
+未来形と組む時の表現をまとめます。**dans / en の対立**（第7.5章）もここで復習できます。
+
+| 表現 | 意味 |
+|---|---|
+| **demain** / après-demain | 明日／あさって |
+| demain **matin / soir** | 明日の朝／晩 |
+| **la semaine prochaine** | 来週 |
+| **le mois prochain** / l'année prochaine | 来月／来年 |
+| **dans** trois jours | 3日後に |
+| **d'ici** samedi / d'ici là | 土曜までに／それまでに |
+| **jusqu'à** dimanche | 日曜まで（継続の終点） |
+| **à partir de** lundi | 月曜から |
+| **dès** demain | 明日からすぐ |
+| **bientôt** / tout à l'heure | まもなく／のちほど（今日中） |
+
+:::ex 未来の時の表現
+On se voit la semaine prochaine ? | オン・ス・ヴォワ・ラ・スメーヌ・プロシェーヌ | 来週会う？
+Je te rappelle tout à l'heure. | ジュ・トゥ・ラペル・トゥ・タ・ルール | あとでかけ直すね。
+D'ici là, repose-toi bien. | ディスィ・ラ・ルポーズ・トワ・ビヤン | それまでゆっくり休んで。
+Le projet sera fini d'ici la fin du mois. | ル・プロジェ・スラ・フィニ・ディスィ・ラ・ファン・デュ・モワ | 企画は月末までに終わるでしょう。
+À partir de demain, je me lève tôt ! | ア・パルティール・ドゥ・ドゥマン・ジュ・ム・レーヴ・ト | 明日から早起きするぞ！
+:::
+
+**tout à l'heure** は「さっき」（過去）と「のちほど」（未来）の両方に使える語で、**同じ日の中の近い時点**を指します。別れ際の **À tout à l'heure !**（またあとでね）も頻出です。**d'ici + 時点**（〜までに）は締め切りの言い方で、ビジネスでも日常でも活躍します。
+
+## 9. 活用ドリル
 
 :::drill chanter,finir,attendre,être,avoir,aller,faire,venir,voir,pouvoir,vouloir,savoir futur
 
@@ -259,33 +311,44 @@ Dès que j'aurai terminé, je t'appellerai. | デ・ク・ジョレ・テルミ�
 誤答したときの「なぜこの形になるの？」では、AI が語幹と語尾の分解を示します。
 :::
 
-## 練習問題
-
-:::quiz
-Q. 単純未来の語尾に例外はありますか。
-A. 一つもない。すべての動詞で -ai, -as, -a, -ons, -ez, -ont。しかもこれは avoir の現在形と一致する（俗ラテン語の「不定詞 + habere」に由来）。不規則があるのは語幹のほうだけ。
-
-Q. attendre の未来形が attendreai ではなく attendrai なのはなぜですか。
-A. -re 動詞は未来語幹を作るときに語末の e を落とすため。落とさないと -rai の r の前で e が重なって発音しにくくなる。
-
-Q. Si tu viendras, je serai content. はなぜ誤りですか。
-A. 条件を表す si 節の中では未来形を使わず、現在形にする。正しくは Si tu **viens**, je serai content. 英語の If you come, I will be happy. と同じ規則。ただし「〜かどうか」の si（間接疑問）では未来形が使える。
-
-Q. 「君が来るとき、私はそこにいる」を、quand を使って言ってください。英語との違いは何ですか。
-A. **Quand tu viendras, je serai là.** 英語は when 節で現在形（When you come）を使うが、**フランス語は未来形**を使う。lorsque, dès que, aussitôt que, tant que も同じ。「si は現在、quand は未来」とセットで覚える。
-
-Q. Il aura oublié. はどういう意味ですか。
-A. 「彼は忘れたのだろう」。形は前未来だが、**過去の出来事についての推量**を表す。単純未来が現在の推量に使われる（Ce sera lui.）のと対になる用法。
-
-Q. 単純未来を学び終えると、条件法現在について何が分かったことになりますか。
-A. ほぼすべて。条件法現在は「**未来語幹 ＋ 半過去の語尾**」でできているので、この章で覚えた未来語幹（ser-, aur-, ir-, fer-, verr- …）がそのまま使える。第30章で新しく学ぶのは用法だけになる。
-:::
 
 :::ai-gen 単純未来、未来語幹、前未来、si と quand の使い分け
+
+## 10. 未来形が要る従属節 — quand と si の対立
+
+第31.5章で体系的に扱う内容ですが、**未来形の運用で最も重要な規則**なのでここで確定させます。
+
+| 接続詞 | 中の時制 | 例 |
+|---|---|---|
+| **quand / lorsque**（〜のとき） | **未来形** | Quand il **arrivera**, on partira. |
+| **dès que / aussitôt que**（〜したらすぐ） | **未来形** | Dès que je **saurai**, je te dirai. |
+| **tant que**（〜する限り） | **未来形** | Tant qu'il **fera** beau, on restera. |
+| **une fois que**（いったん〜すれば） | **未来形** | Une fois qu'il **sera** parti, on dînera. |
+| **si**（もし〜なら） | **現在形**（未来形は不可） | **Si** il **fait** beau, on sortira. |
+
+**時を表す接続詞は未来形、条件の si だけが現在形**——この一点だけ覚えれば足ります。
+
+:::ex 未来形が2つ並ぶ
+Quand tu seras grand, tu comprendras. | カン・チュ・スラ・グラン・チュ・コンプランドラ | 大きくなったら分かるよ。
+Dès que j'aurai fini, je t'appellerai. | デ・ク・ジョレ・フィニ・ジュ・タプレレ | 終わり次第、電話するね。
+Tant que tu seras là, tout ira bien. | タン・ク・チュ・スラ・ラ | 君がいてくれる限り、大丈夫だ。
+:::
+
+2つ目の **Dès que j'aurai fini**（前未来）に注目してください。**従属節の出来事が主節より先に完了している**なら、単純未来ではなく**前未来**を使います。「終わってしまったらすぐ」という完了の含みが要るからです。
+
+- Quand il **arrivera**, on partira.（着いたら出発する——同時）
+- Quand il **sera arrivé**, on partira.（着いてしまったら出発する——完了が先）
+
+英語には「時・条件の副詞節で未来形を使わない」という規則がありますが、**フランス語にはありません**。素直に時間関係を時制で表す——それだけです。
 
 ## この章の語彙
 
 :::vocab 第24章の語彙
+devoirs | n.m.pl. | 宿題
+patience | n.f. | 忍耐
+prévision | n.f. | 予報、予測
+promettre | v. | 約束する
+tuer | v. | 殺す
 demain | adv. | 明日
 bientôt | adv. | まもなく
 plus tard | 表現 | あとで

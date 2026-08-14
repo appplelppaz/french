@@ -130,6 +130,24 @@ ma amie では母音がぶつかって言いにくいためです。cet と同�
 [[Ses longs cheveux noirs\|セ・ロン・シュヴー・ノワール\|彼女の長い黒髪]]
 :::
 
+:::deep 所有形容詞の語法あれこれ
+**（1）vous が敬称単数のときは votre / vos**
+
+相手が一人でも、vous で話しているなら所有形容詞は votre / vos です（× ton / ta）。呼び方と所有形容詞の人称は必ず揃えます。tu と vous を混ぜるのは失礼にあたります。
+
+**（2）on の所有形容詞は son / sa / ses**
+
+on（人は・私たちは）を受けるのは規範では son 系です：**On a ses habitudes.**（人にはそれぞれ習慣がある）。「私たち」の意味の on では notre / nos も使われます：On a pris notre voiture.（うちらの車で行った——話し言葉）。
+
+**（3）配分の chacun … son**
+
+[[Chacun a ses défauts.\|シャカン・ア・セ・デフォ\|誰にでも欠点はある。]]——chacun（それぞれ）は単数扱いなので son / sa / ses で受けます（第10.5章）。
+
+**（4）親愛の mon**
+
+軍隊・改まった呼びかけの **mon** colonel（大佐殿）、また **mon chéri / ma chérie**（愛しい人）、**mon vieux**（おまえ・相棒——くだけた呼びかけ）のように、所有形容詞は呼びかけにも使われます。意味は「私の」から離れて、親しさ・敬意の印になっています。
+:::
+
 ## 3. 疑問形容詞 — quel / quelle / quels / quelles
 
 「どの〜」「なんという〜」を表します。**4つの形はすべて同音**（「ケル」）です。
@@ -167,7 +185,60 @@ Quels beaux yeux ! | ケル・ボー・ズィユ | なんて美しい目だろ�
 :::
 
 英語の What a beautiful day! では a が入りますが、**フランス語では冠詞不要**です（× Quel un beau temps !）。
+
+感嘆の quel は日常会話の定型を多く作ります。**そのまま使える形**で覚えてください。
+
+| 表現 | 意味 |
+|---|---|
+| [[Quel dommage !\|ケル・ドマージュ]] | なんて残念！ |
+| [[Quelle chance !\|ケル・シャンス]] | なんて運がいい！ |
+| [[Quelle horreur !\|ケ・ロルール]] | ひどい！ |
+| [[Quelle bonne idée !\|ケル・ボンヌ・イデ]] | いい考えだね！ |
+| [[Quel monde !\|ケル・モンド]] | すごい人出だ！ |
 :::
+
+:::note quel のその他の顔
+**（1）間接疑問の中の quel**
+
+[[Je ne sais pas quelle heure il est.\|ジュ・ヌ・セ・パ・ケ・ルー・リ・レ\|何時か分かりません。]]
+
+疑問文がそのまま従属節に入る形です（第27.6章）。quel の一致は変わりません。
+
+**（2）n'importe quel — どんな〜でも**
+
+[[Tu peux venir à n'importe quelle heure.\|チュ・プ・ヴニール・ア・ナンポルト・ケ・ルール\|何時に来てもいいよ。]]
+
+n'importe（どれでも構わない）+ quel で「任意の」を表します。第10.5章の n'importe qui / quoi と同じ仲間です。
+
+**（3）quel que + être の接続法 — 〜がどうであれ**
+
+[[Quel que soit le prix, j'achète.\|ケル・ク・ソワ・ル・プリ・ジャシェット\|値段がどうであれ、買います。]]
+
+書き言葉寄りの譲歩表現で、quel は主語（le prix）に性数一致します。第31.5章で扱います。
+:::
+
+### 会話の中の ce — 時間表現と決まり文句
+
+指示形容詞は時間表現で独特の働きをします。
+
+| 表現 | 意味 |
+|---|---|
+| **ce matin / ce soir** | 今朝／今晩 |
+| **cet après-midi** | 今日の午後 |
+| **cette semaine / cette année** | 今週／今年 |
+| **ces jours-ci** | ここのところ、近ごろ |
+| **ce jour-là** | その日（物語の中で） |
+| **à cette époque-là** | あの当時 |
+| **un de ces jours** | そのうちに |
+
+:::ex 時間の ce
+Tu fais quoi ce soir ? | チュ・フェ・コワ・ス・ソワール | 今晩なにするの？
+Il fait froid ces jours-ci. | イル・フェ・フロワ・セ・ジュール・スィ | 近ごろ寒いね。
+Ce jour-là, tout a changé. | ス・ジュール・ラ・トゥ・タ・シャンジェ | その日、すべてが変わった。
+On se voit un de ces jours ! | オン・ス・ヴォワ・アン・ドゥ・セ・ジュール | そのうち会おうね！
+:::
+
+**-ci は「現在に近い」、-là は「現在から遠い」**という対立が時間にも生きています。ces jours-**ci**（ここ数日＝今に近い）、ce jour-**là**（その日＝過去の一点）。物語で「その日」「その晩」と言うときは必ず -là が付きます。
 
 ## 4. 限定詞は重ねられない
 
@@ -185,7 +256,38 @@ Quels beaux yeux ! | ケル・ボー・ズィユ | なんて美しい目だろ�
 [[tous mes amis\|トゥ・メ・ザミ\|私の友人全員]]、[[toute la journée\|トゥット・ラ・ジュルネ\|一日中]]
 :::
 
-## 5. 3系列を並べて確認する
+## 5. 「誰の？」に答える3つの言い方
+
+所有形容詞の周辺には、「誰のものか」を言う表現がそろっています。
+
+| 言い方 | 例 | 場面 |
+|---|---|---|
+| **C'est à + 強勢形** | C'est à moi. | 会話の既定（第19章） |
+| **être à + 名詞** | Ce vélo est à Paul. | 〜のものだ |
+| **celui / celle de + 名詞** | C'est celui de Marie. | 「マリの（それ）」 |
+| **appartenir à** | Ce château appartient à l'État. | 改まった「所属」 |
+
+:::ex 「誰の？」のやり取り
+C'est à qui, ce parapluie ? | セ・タ・キ・ス・パラプリュイ | この傘、誰の？
+C'est à moi. / C'est le mien. | セ・タ・モワ・セ・ル・ミヤン | 私の。／私のです。
+Ce n'est pas le mien, c'est celui de Paul. | ス・ネ・パ・ル・ミヤン・セ・スリュイ・ドゥ・ポール | 私のじゃなくて、ポールのだよ。
+À qui sont ces clés ? | ア・キ・ソン・セ・クレ | この鍵は誰の？
+:::
+
+**le mien / la mienne / les miens / les miennes**（私のもの）は所有代名詞と呼ばれ、「所有形容詞 + 名詞」のかたまりを1語で受けます。
+
+| 所有者 | 男性単数 | 女性単数 | 男性複数 | 女性複数 |
+|---|---|---|---|---|
+| 私の | le mien | la mienne | les miens | les miennes |
+| 君の | le tien | la tienne | les tiens | les tiennes |
+| 彼・彼女の | le sien | la sienne | les siens | les siennes |
+| 私たちの | le nôtre | la nôtre | les nôtres | les nôtres |
+| あなたの | le vôtre | la vôtre | les vôtres | les vôtres |
+| 彼らの | le leur | la leur | les leurs | les leurs |
+
+notre / votre と le nôtre / le vôtre で **ô の有無（と発音）が変わる**点に注意してください（notre「ノトル」→ le nôtre「ル・ノートル」）。会話では C'est à moi. で足りることが多いのですが、**「私のはこっち、君のはそっち」と対比するとき**は所有代名詞が必要になります：Le mien est bleu, le tien est rouge.（私のは青、君のは赤）。
+
+## 6. 3系列を並べて確認する
 
 同じ名詞に、4種類の限定詞を付け替えてみます。
 
@@ -203,33 +305,47 @@ J'aime mon livre. | ジェーム・モン・リーヴル | 私は自分の本が
 Quel livre aimes-tu ? | ケル・リーヴル・エム・テュ | 君はどの本が好き？
 :::
 
-## 練習問題
-
-:::quiz
-Q. son livre は「彼の本」ですか、「彼女の本」ですか。
-A. どちらとも決まらない。son / sa / ses は**所有される名詞の性・数**に一致するのであって、所有者の性別とは無関係。livre が男性名詞だから son になっているだけ。所有者を明示したいときは son livre à elle のように強勢形を添える。
-
-Q. 「私の女友だち」は ma amie ですか、mon amie ですか。
-A. **mon amie**。女性名詞でも母音・無音の h で始まる場合は男性形（mon/ton/son）を使う。母音の衝突を避けるためで、cet homme や bel homme と同じ原理。ただし名詞は女性のままなので、形容詞は女性形で一致する（mon amie japonaise）。
-
-Q. cet と cette は、どうやって聞き分けますか。
-A. 聞き分けられない。どちらも「セット」で完全に同音。書くときに名詞の性で選ぶしかない（cet homme / cette femme）。
-
-Q. Il a mal à sa tête. はなぜ不自然ですか。
-A. 所有者が主語から明らかな身体部位には、フランス語は所有形容詞ではなく**定冠詞**を使うため。正しくは Il a mal à **la** tête. 所有者を明示する必要があるときは間接目的語や代名動詞で表す（Je me lave les mains.）。
-
-Q. 「なんていい天気だ！」を Quel un beau temps ! と書くのはなぜ誤りですか。
-A. 感嘆の quel の後ろには冠詞を付けないため。正しくは Quel beau temps ! 英語の What **a** beautiful day! とは違う点。
-
-Q. 「私の友人の一人」を un mon ami と言えないのはなぜですか。
-A. 冠詞と所有形容詞はどちらも限定詞であり、名詞ひとつにつき1個しか置けないため。正しくは un ami à moi または un de mes amis。なお tout は限定詞ではないので前に置ける（tous mes amis）。
-:::
 
 :::ai-gen 指示形容詞、所有形容詞、疑問形容詞 quel
+
+## 8. 指示代名詞 celui — 「〜のほう」を言う
+
+指示形容詞 ce に対応する**代名詞**が celui です。「そちらの／〜のもの」を1語で表します。
+
+| | 男性単数 | 女性単数 | 男性複数 | 女性複数 |
+|---|---|---|---|---|
+| 基本形 | **celui** | **celle** | **ceux** | **celles** |
+| -ci（こちら） | celui-ci | celle-ci | ceux-ci | celles-ci |
+| -là（あちら） | celui-là | celle-là | ceux-là | celles-là |
+
+**基本形は単独では使えず**、必ず次の3つのどれかが続きます。
+
+| 続くもの | 例 |
+|---|---|
+| **-ci / -là** | Je préfère **celui-là**.（あっちのほうが好き） |
+| **de + 名詞** | C'est **celle de** Marie.（それはマリのだ） |
+| **関係代名詞** | **Ceux qui** veulent partir, levez la main.（帰りたい人は挙手を） |
+
+:::ex celui の実戦
+Quel manteau ? — Celui-ci ou celui-là ? | セリュイ・スィ・ウ・セリュイ・ラ | どのコート？ — こっち、それともあっち？
+Ma voiture est en panne, je prends celle de ma sœur. | ジュ・プラン・セル・ドゥ・マ・スール | 車が故障したので姉のを借りる。
+Ceux qui sont d'accord, levez la main. | ス・キ・ソン・ダコール | 賛成の人は手を挙げて。
+Ce livre est plus intéressant que celui que j'ai lu hier. | ク・セリュイ・ク・ジェ・リュ・イエール | この本は昨日読んだものより面白い。
+:::
+
+**Ceux qui …**（〜する人々）は演説・説明文の頻出表現です。また比較文（第14章）では、**que celui / celle** で「〜より、あの…より」と受け直すのが標準の言い方になります。
+
+なお中性の指示代名詞 **ce / ceci / cela / ça** は名詞を受けず、**事柄**を指します（第4章）。celui は必ず名詞を受ける——ここが決定的な違いです。
 
 ## この章の語彙
 
 :::vocab 第10章の語彙
+Quel dommage ! | 表現 | なんて残念！
+Quelle chance ! | 表現 | なんて運がいい！
+n'importe quel / quelle | adj. | どんな〜でも
+chacun / chacune | pron. | それぞれ
+habitude | n.f. | 習慣
+mon chéri / ma chérie | 表現 | 愛しい人（呼びかけ）
 ce / cet / cette / ces | adj. | この、その、あの
 mon / ma / mes | adj. | 私の
 ton / ta / tes | adj. | 君の

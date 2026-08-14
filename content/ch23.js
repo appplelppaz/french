@@ -243,7 +243,31 @@ se souvenir, s'en aller のように分解できない動詞は、**主語に一
 これらはすべて**過去分詞が一致しません**（直接目的語が別にあるため）。
 :::
 
-## 6. 一日の行動を言ってみる
+## 6. 代名動詞でしか言えないこと — 頻出動詞の使い分け
+
+:::deep 代名動詞と普通の形で意味が変わる動詞
+多くの動詞は、代名動詞になると**意味がずれます**。「再帰」からは予測できないものを列挙します。
+
+| 普通の形 | 代名動詞 |
+|---|---|
+| attendre（待つ） | **s'attendre à**（予期する）：Je m'attendais à ça. そうなると思ってた |
+| douter（疑う） | **se douter de**（うすうす気づく）：Je m'en doutais. やっぱりね |
+| mettre（置く） | **se mettre à**（〜し始める）：Il s'est mis à pleurer. 泣き出した |
+| passer（通る） | **se passer**（起こる）：Qu'est-ce qui se passe ? どうしたの？ |
+| | **se passer de**（〜なしで済ます）：Je peux m'en passer. |
+| trouver（見つける） | **se trouver**（位置する）：Où se trouve la gare ? 駅はどこですか |
+| entendre（聞こえる） | **s'entendre**（仲がいい）：On s'entend bien. 気が合う |
+| servir（仕える・出す） | **se servir de**（使う）：Je me sers de ce dico. この辞書を使っている |
+| rendre（返す） | **se rendre compte de**（気づく）：Je me suis rendu compte de mon erreur. |
+| tromper（だます） | **se tromper**（間違える）：Je me suis trompé. 間違えました |
+| plaindre（哀れむ） | **se plaindre de**（不平を言う）：Il se plaint tout le temps. |
+
+**Qu'est-ce qui se passe ?**（どうしたの？）、**Je me suis trompé.**（間違えました）、**On s'entend bien.**（気が合う）は日常の最頻出文です。**代名動詞は「再帰」の文法である以上に、これら頻出表現の置き場**だと考えて、1つずつ成句として覚えてください。
+
+なお **se rendre compte** の過去分詞は一致させません（Elle s'est rendu compte …）——compte が直接目的語なので、se は間接目的語になるためです（§4の規則どおり）。
+:::
+
+## 7. 一日の行動を言ってみる
 
 代名動詞は日常の行動を表すものが多いので、まとめて練習できます。
 
@@ -256,39 +280,80 @@ Le soir, je me repose. | ル・ソワール・ジュ・ム・ルポーズ | 夜�
 Je me couche vers minuit. | ジュ・ム・クシュ・ヴェール・ミニュイ | 真夜中ごろに寝る。
 :::
 
-## 7. 活用ドリル
+## 8. 活用ドリル
 
 代名動詞の活用は、再帰代名詞を付ける以外は通常の動詞と同じです。まず基になる動詞で練習します。
 
 :::drill coucher,lever,laver,appeler,promener,dépêcher présent,passeCompose
 
-## 練習問題
-
-:::quiz
-Q. 代名動詞の4つの用法を挙げてください。
-A. ①再帰的（自分を／自分に：Je me lave.）②相互的（お互いに：Ils se regardent.）③受動的（〜される：Ce livre se vend bien.）④本質的（代名動詞としてしか存在しない：se souvenir, s'en aller）。
-
-Q. Elle s'est lavée. と Elle s'est lavé les mains. で、なぜ一致が違うのですか。
-A. 前者では se が直接目的語（自分を洗う）なので一致する。後者では直接目的語が les mains であり、se は「自分に」＝間接目的語に格下げされるので一致しない。第20章の「直接目的語が前にあれば一致」という規則がそのまま適用されている。
-
-Q. Ils se sont téléphoné. で、なぜ téléphonés にならないのですか。
-A. téléphoner は **à** を取る動詞なので、se は間接目的語。間接目的語は前にあっても一致の対象にならない。同じ理由で Elles se sont parlé.（parler à）も一致しない。
-
-Q. 代名動詞の助動詞は何ですか。例外はありますか。
-A. **すべて être**。avoir を取る代名動詞は1つもない。第20章の「être を取るのは移動・状態変化の自動詞と代名動詞」の2つ目にあたる。
-
-Q. Je lave mes mains. はなぜ不自然ですか。
-A. 身体部位には所有形容詞ではなく定冠詞を使い、所有者は再帰代名詞で示すため。正しくは **Je me lave les mains.** me が「自分の」を担うので、mes は不要。
-
-Q. Ce livre se vend bien. は受動の意味ですが、第28章の受動態（être + 過去分詞）とどちらがよく使われますか。
-A. 代名動詞の受動的用法のほうが日常的によく使われる。行為者を言う必要がないとき、フランス語は受動態より se + 動詞、あるいは on を使う構文を好む。
-:::
 
 :::ai-gen 代名動詞、4つの用法、過去分詞の一致
+
+## 9. 不定詞の中の再帰代名詞 — 主語に合わせて変わる
+
+代名動詞を不定詞のまま使うとき（aller / vouloir / devoir の後など）、**再帰代名詞は不定詞の前に置き、主語に合わせて変化させます**。
+
+:::ex 不定詞でも se は主語に一致
+Je vais me coucher. | ジュ・ヴェ・ム・クシェ | もう寝るね。（× Je vais se coucher）
+Tu dois te reposer. | チュ・ドワ・トゥ・ルポゼ | 君は休まないと。
+Nous allons nous promener. | ヌー・ザロン・ヌー・プロムネ | 散歩に行ってきます。
+Vous devez vous dépêcher. | ヴ・ドゥヴェ・ヴ・デペシェ | 急がないといけませんよ。
+Ils veulent se marier. | イル・ヴール・ス・マリエ | 彼らは結婚したがっている。
+:::
+
+辞書の見出しは se coucher ですが、**se のまま使えるのは3人称だけ**です。je なら me、tu なら te——「se は主語の分身」なので、不定詞の中でも主語を追いかけます。
+
+× Je vais **se** coucher. は日本語話者の頻出誤りです。「寝に行く」と1つの動詞のように感じられるため se を固定してしまうのですが、**Je vais me coucher. / On va se coucher.** と、必ず主語とセットで口に出して覚えてください。
+
+**命令の Va te coucher !**（寝なさい！）も同じ仕組みです（va + te coucher——不定詞ではなく命令＋不定詞句ですが、te が主語 tu に一致している点は同じ）。親が子に毎晩言う定型文です。
+
+## 10. 代名動詞と受動・非人称の境界
+
+代名動詞の4つの意味（§2）のうち、**受動的用法**は他の構文と競合します。境界を整理しておきます。
+
+| 言い方 | 例 | ニュアンス |
+|---|---|---|
+| **代名動詞** | Ce livre **se vend** bien. | 性質・一般的傾向（よく売れる本だ） |
+| **受動態** | Ce livre **est vendu** en France. | 個別の事実（フランスで売られている） |
+| **on** | **On vend** ce livre partout. | 動作主をぼかす（どこでも売っている） |
+
+**代名動詞の受動的用法は「そういう性質のものだ」**という一般論を述べます。だから主語は必ず**モノ**で、3人称です。
+
+:::ex 受動的用法の代名動詞
+Ça ne se dit pas. | サ・ヌ・ス・ディ・パ | そういう言い方はしない。
+Ce vin se boit frais. | ス・ヴァン・ス・ボワ・フレ | このワインは冷やして飲むものだ。
+Comment ça s'écrit ? | コマン・サ・セクリ | それはどう綴るのですか？
+Le fromage se mange après le plat. | ル・フロマージュ・ス・マンジュ | チーズはメインのあとに食べます。
+Ça se voit ! | サ・ス・ヴォワ | 見れば分かるよ！
+:::
+
+**Ça ne se dit pas.**（そうは言わない）は語法を説明するときの定型で、辞書や語学教室で頻繁に使われます。**Comment ça s'écrit ?**（どう綴るの？）は綴りを尋ねる標準の言い方です。
+
+:::note 非人称の代名動詞
+主語が il の代名動詞もあります。
+
+- **il s'agit de**（〜が問題である、〜のことだ）——第15章
+- **il se peut que** + 接続法（〜かもしれない）
+- **il se trouve que**（たまたま〜である）
+
+[[Il se peut qu'il pleuve.|イル・ス・プ・キル・プルーヴ|雨が降るかもしれない。]]
+
+いずれも主語の il は何も指さず、代名動詞の形だけを借りた非人称構文です。**代名動詞＝再帰**という理解だけでは説明がつかない用法で、se が「主語と目的語の一致」から離れて**構文の標識**になっている例と言えます。
+:::
 
 ## この章の語彙
 
 :::vocab 第23章の語彙
+se passer | v.pr. | 起こる
+se passer de | v.pr. | 〜なしで済ます
+s'attendre à | v.pr. | 予期する
+se douter de | v.pr. | うすうす気づく
+se mettre à | v.pr. | 〜し始める
+se trouver | v.pr. | 位置する、ある
+s'entendre | v.pr. | 仲がいい
+se servir de | v.pr. | 使う
+se rendre compte de | v.pr. | 気づく
+se plaindre de | v.pr. | 不平を言う
 se lever | v.pr. | 起きる
 se coucher | v.pr. | 寝る
 se réveiller | v.pr. | 目が覚める

@@ -24,17 +24,19 @@
     h1.appendChild(doc.createTextNode('フランス語文法テキスト'));
     hero.appendChild(h1);
     hero.appendChild(el('p', null,
-      '入門から接続法まで、全32章。文法は大学レベルの詳しさで書いてあります。' +
+      '入門から接続法・従属節の体系まで、全32項目・41章。文法は大学レベルの詳しさで書いてあります。' +
       'フランス語はどこをクリックしても発音が鳴り、動詞の活用は表を見るだけでなくドリルで練習できます。' +
       '分からないところは AI にその場で質問できます。'));
     wrap.appendChild(hero);
 
     var grid = el('div', 'home-grid');
 
-    function card(href, icon, title, desc) {
+    function card(href, iconName, title, desc) {
       var a = el('a', 'home-card');
       a.href = href;
-      a.appendChild(el('div', 'ic', icon));
+      var ic = el('div', 'ic');
+      if (FR.icon) ic.appendChild(FR.icon(iconName, 22));
+      a.appendChild(ic);
       a.appendChild(el('div', 't', title));
       a.appendChild(el('div', 'd', desc));
       return a;
@@ -52,15 +54,15 @@
 
     grid.appendChild(card(
       next ? '#/' + next.id : (first ? '#/' + first.id : '#/'),
-      '📗',
+      'book',
       done ? '続きから読む' : '第0章から始める',
       next ? ('第' + next.no + '章 ' + next.title) : 'すべての章を読み終えています'
     ));
-    grid.appendChild(card('#/drill', '🎯', '活用ドリル',
+    grid.appendChild(card('#/drill', 'target', '活用ドリル',
       '動詞と時制を選んで反復練習。間違えた項目は記録され、優先的に出題されます。'));
-    grid.appendChild(card('#/verbs', '📖', '動詞活用表',
+    grid.appendChild(card('#/verbs', 'grid', '動詞活用表',
       '全時制の活用表。どのセルもクリックで発音が鳴ります。'));
-    grid.appendChild(card('#/settings', '⚙️', '設定',
+    grid.appendChild(card('#/settings', 'gear', '設定',
       '読み上げの声と速さ、AI 機能の API キーを設定します。'));
     wrap.appendChild(grid);
 
@@ -89,9 +91,8 @@
     var ul = el('ul');
     [
       '本文中の赤いフランス語は、クリックすると発音が鳴ります。例文ブロックは「通して聞く」でまとめて再生できます。',
-      '活用表では「語幹と語尾」を押すと色分けされ、「同じ音 ♪」を押すと、綴りが違うのに発音が同じセルに印が付きます。',
-      '章の終わりにある練習問題は、答えが隠れています。自分で考えてから開いてください。',
-      '右上の ✨ を押すと AI パネルが開きます。今読んでいる章の内容を踏まえて答えてくれます。'
+      '活用表では「語幹と語尾」を押すと色分けされ、「同じ音」を押すと、綴りが違うのに発音が同じ行に印が付きます。',
+      '右上の星印を押すと AI パネルが開きます。今読んでいる章の内容を踏まえて答えてくれます。'
     ].forEach(function (t) { ul.appendChild(el('li', null, t)); });
     how.appendChild(ul);
     wrap.appendChild(how);
@@ -164,7 +165,7 @@
         summary.appendChild(dl);
         if (info.note) {
           var n = el('div', 'callout note');
-          n.appendChild(el('div', 'callout-title', '📌 ポイント'));
+          n.appendChild(el('div', 'callout-title', 'ポイント'));
           n.appendChild(el('p', null, info.note));
           summary.appendChild(n);
         }
@@ -188,14 +189,14 @@
     var list = FR.store.phrases.all();
     if (!list.length) {
       wrap.appendChild(el('p', 'empty',
-        'まだ保存された例文はありません。章の中の「例文を作ってもらう」で作った例文に、⭐︎ 保存 が付きます。'));
+        'まだ保存された例文はありません。章の中の「例文を作ってもらう」で作った例文に、保存ボタンが付きます。'));
       return wrap;
     }
 
     var box = el('div', 'exblock');
     var head = el('div', 'exblock-head');
     head.appendChild(el('span', 'ttl', list.length + '件'));
-    var all = el('button', 'btn-mini', '▶ 通して聞く');
+    var all = FR.iconize(el('button', 'btn-mini', '通して聞く'), 'play', 11);
     all.type = 'button';
     all.dataset.playAll = '1';
     head.appendChild(all);
@@ -206,7 +207,7 @@
       var li = el('li');
       li.dataset.fr = p.fr;
 
-      var play = el('button', 'playbtn', '▶');
+      var play = el('button', 'playbtn');
       play.type = 'button';
       play.setAttribute('aria-label', p.fr + ' を発音');
       li.appendChild(play);
@@ -246,13 +247,13 @@
 
     /* --- 音声 --- */
     var voiceCard = el('div', 'card');
-    voiceCard.appendChild(el('h2', null, '🔊 読み上げ'));
+    voiceCard.appendChild(el('h2', null, '読み上げ'));
 
     if (!FR.speech.supported) {
       voiceCard.appendChild(el('p', 'hint', 'このブラウザは読み上げに対応していません。Chrome、Safari、Edge をお試しください。'));
     } else if (!FR.speech.isReady()) {
       var warn = el('div', 'callout warn');
-      warn.appendChild(el('div', 'callout-title', '⚠️ フランス語の音声が見つかりません'));
+      warn.appendChild(el('div', 'callout-title', 'フランス語の音声が見つかりません'));
       warn.appendChild(el('p', null, 'お使いの端末にフランス語の読み上げ音声が入っていないようです。次の手順で追加できます。'));
       var ul = el('ul');
       [
@@ -314,7 +315,7 @@
     rateField.appendChild(rate);
     voiceCard.appendChild(rateField);
 
-    var test = el('button', 'btn', '▶ 試聴');
+    var test = el('button', 'btn', '試聴');
     test.type = 'button';
     test.addEventListener('click', function () {
       FR.speech.speak("Bonjour, je m'appelle Marie. J'apprends le français depuis deux ans.");
@@ -324,11 +325,11 @@
 
     /* --- テーマ --- */
     var themeCard = el('div', 'card');
-    themeCard.appendChild(el('h2', null, '◐ 表示'));
+    themeCard.appendChild(el('h2', null, '表示'));
     var themeField = el('label', 'field');
     themeField.appendChild(el('span', null, 'テーマ'));
     var themeSel = doc.createElement('select');
-    [['auto', '端末の設定に合わせる'], ['light', 'ライト'], ['dark', 'ダーク']].forEach(function (t) {
+    [['auto', '端末の設定に合わせる（既定）'], ['light', 'ライト（紙）'], ['dark', 'ダーク']].forEach(function (t) {
       var o = doc.createElement('option');
       o.value = t[0]; o.textContent = t[1];
       if (FR.store.settings.get('theme') === t[0]) o.selected = true;
@@ -340,11 +341,28 @@
     });
     themeField.appendChild(themeSel);
     themeCard.appendChild(themeField);
+
+    /* 文字サイズ。長時間読む教科書なので、目と距離に合わせて選べるようにする */
+    var sizeField = el('label', 'field');
+    sizeField.appendChild(el('span', null, '文字サイズ'));
+    var sizeSel = doc.createElement('select');
+    [['s', '小'], ['m', '標準（既定）'], ['l', '大'], ['xl', '特大']].forEach(function (t) {
+      var o = doc.createElement('option');
+      o.value = t[0]; o.textContent = t[1];
+      if (FR.store.settings.get('fontScale') === t[0]) o.selected = true;
+      sizeSel.appendChild(o);
+    });
+    sizeSel.addEventListener('change', function () {
+      FR.store.settings.set('fontScale', sizeSel.value);
+      FR.app.applyFontScale();
+    });
+    sizeField.appendChild(sizeSel);
+    themeCard.appendChild(sizeField);
     wrap.appendChild(themeCard);
 
     /* --- AI --- */
     var aiCard = el('div', 'card');
-    aiCard.appendChild(el('h2', null, '✨ AI 機能（Gemini）'));
+    aiCard.appendChild(el('h2', null, 'AI 機能（Gemini）'));
     aiCard.appendChild(el('p', 'hint',
       '文法の質問、例文の生成、作文の添削、活用ドリルの解説に Gemini を使います。' +
       'ご自身の API キーが必要です。'));
@@ -378,7 +396,7 @@
     var status = el('p', 'hint');
     function refreshStatus() {
       status.textContent = FR.gemini.hasKey()
-        ? '✅ キーが登録されています（' + FR.gemini.maskedKey() + '）'
+        ? 'キーが登録されています（' + FR.gemini.maskedKey() + '）'
         : '未登録です。AI 機能は使えませんが、教材の他の機能はすべて動きます。';
     }
     refreshStatus();
@@ -425,7 +443,7 @@
     aiCard.appendChild(modelField);
 
     var sec = el('div', 'callout note');
-    sec.appendChild(el('div', 'callout-title', '🔒 キーの扱いについて'));
+    sec.appendChild(el('div', 'callout-title', 'キーの扱いについて'));
     var sl = el('ul');
     [
       'キーはこのブラウザの localStorage にのみ保存されます。共有のパソコンで使う場合は、終わったら「キーを削除」を押してください。',
@@ -439,7 +457,7 @@
 
     /* --- 学習データ --- */
     var dataCard = el('div', 'card');
-    dataCard.appendChild(el('h2', null, '📊 学習データ'));
+    dataCard.appendChild(el('h2', null, '学習データ'));
     var doneCount = FR.store.progress.count();
     var stats = FR.store.drill.stats();
     var drillCount = Object.keys(stats).reduce(function (s, k) { return s + stats[k].right + stats[k].wrong; }, 0);
@@ -450,7 +468,7 @@
     dataCard.appendChild(dl);
     if (!FR.store.isPersistent()) {
       dataCard.appendChild(el('p', 'hint',
-        '⚠️ このブラウザでは保存機能が使えないため、進捗はページを閉じると消えます（プライベートブラウズなど）。'));
+        'このブラウザでは保存機能が使えないため、進捗はページを閉じると消えます（プライベートブラウズなど）。'));
     }
     wrap.appendChild(dataCard);
 

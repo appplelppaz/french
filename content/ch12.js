@@ -212,7 +212,90 @@ que が3回出てくる不格好な形ですが、哲学的な問いや驚きの
 - **comme** + 文：Comme le temps est beau !
 :::
 
-## 6. まとめの表
+## 6. 話し言葉の疑問 — 実際にどう聞くか
+
+:::deep 疑問詞の位置は3段階
+第9章の3つの疑問形は、疑問詞があっても同じように働きます。**同じ質問が文体で3つの形**を持ちます。
+
+| 文体 | 「どこに住んでるの？」 | 場面 |
+|---|---|---|
+| くだけた | Tu habites **où** ? | 友人・家族 |
+| 中立 | **Où** est-ce que tu habites ? | どこでも |
+| 改まった | **Où** habites-tu ? | 書き言葉・丁寧 |
+
+**話し言葉では「疑問詞を文末に残す」形が最も多い**——これが実態です。
+
+- [[Tu t'appelles comment ?|チュ・タペル・コマン|名前は何ていうの？]]
+- [[Ça coûte combien ?|サ・クート・コンビアン|いくらするの？]]
+- [[Tu pars quand ?|チュ・パール・カン|いつ出発するの？]]
+- [[C'est qui ?|セ・キ|誰？]]
+
+さらにくだけると、**疑問詞 + 主語 + 動詞**（Où tu vas ?）や、パリの口語で **c'est quoi … ?**（C'est quoi, ça ? 何それ？）も聞かれます。これらは書き言葉では使いませんが、聞き取りには必須です。
+
+**pourquoi だけは文末に置けません**（× Tu pleures pourquoi ?）。Pourquoi tu pleures ? と文頭に置きます。理由を問う語は文全体にかかるため、と覚えてください。
+
+**返しの定型**も一緒に：
+
+- [[Pourquoi pas ?|プルコワ・パ|いいんじゃない？（なぜだめ？）]]
+- [[Comment ça ?|コマン・サ|どういうこと？]]
+- [[Et alors ?|エ・アロール|それで？／だから何？]]
+- [[Ça dépend de quoi ?|サ・デパン・ドゥ・コワ|何によるの？]]
+:::
+
+## 7. 間接疑問 — 疑問詞はどう埋め込まれるか
+
+:::deep 疑問文を文の中に入れる
+「彼が**何を**欲しいか分からない」のように、疑問文を別の文に埋め込むときは、**疑問詞ごとに決まった変換**があります。
+
+| 直接疑問 | 間接疑問 | 例 |
+|---|---|---|
+| est-ce que …（〜か？） | **si** | Je ne sais pas **si** tu viens. |
+| **qu'est-ce qui**（何が） | **ce qui** | Dis-moi **ce qui** se passe. |
+| **qu'est-ce que / que**（何を） | **ce que** | Je ne sais pas **ce que** tu veux. |
+| qui（誰） | **qui**（そのまま） | Je sais **qui** a téléphoné. |
+| où / quand / comment / pourquoi / combien | そのまま | Dis-moi **où** tu habites. |
+| quel + 名詞 | そのまま | Je ne sais pas **quelle heure** il est. |
+
+**変わるのは「何」だけ**です。qu'est-ce qui → ce qui、qu'est-ce que → ce que。est-ce que の部分が消えて ce に化ける、と覚えると整理できます（第21章の ce qui / ce que と同じ形です）。
+
+:::ex 間接疑問
+Je ne sais pas ce que tu veux dire. | ジュ・ヌ・セ・パ・ス・ク・チュ・ヴ・ディール | 君が何を言いたいのか分からない。
+Dis-moi ce qui ne va pas. | ディ・モワ・ス・キ・ヌ・ヴァ・パ | どうしたのか言ってごらん。
+Je me demande s'il viendra. | ジュ・ム・ドゥマンド・スィル・ヴィアンドラ | 彼は来るだろうかと思う。
+Tu sais où il est ? | チュ・セ・ウ・イ・レ | 彼がどこにいるか知ってる？
+Je ne comprends pas pourquoi elle est partie. | ジュ・ヌ・コンプラン・パ・プルコワ・エ・レ・パルティ | なぜ彼女が去ったのか分からない。
+:::
+
+**間接疑問の中では est-ce que も倒置も使わない**——語順は平叙文です（× Je ne sais pas où est-ce qu'il habite）。**Je me demande si …**（〜だろうか）、**Je ne sais pas ce que …**（何を〜か分からない）は独り言・つなぎ表現としても頻出します。
+:::
+
+## 8. combien を使いこなす — 数・量・値段・頻度
+
+combien は生活で最も働く疑問詞です。**何を尋ねるかで形が変わります**。
+
+| 聞きたいこと | 形 | 例 |
+|---|---|---|
+| 値段 | **C'est combien ?** / Ça coûte combien ? | いくらですか |
+| 物の数 | **Combien de + 名詞** | Combien de personnes ?（何人？） |
+| 時間の長さ | **Combien de temps** | Combien de temps ça prend ? |
+| 頻度 | **Combien de fois** | Combien de fois par semaine ?（週何回？） |
+| 距離 | **À combien** | C'est à combien d'ici ?（ここからどのくらい？） |
+| 年齢 | ※ combien を使わない | **Quel âge** as-tu ? |
+
+:::ex combien の実戦
+Ça fait combien ? | サ・フェ・コンビアン | （会計で）おいくらですか？
+On est combien ce soir ? | オ・ネ・コンビアン・ス・ソワール | 今夜は何人？
+Combien de temps faut-il pour y aller ? | コンビアン・ドゥ・タン・フォ・ティル | 行くのにどのくらいかかりますか？
+Tu mesures combien ? | チュ・ムズュール・コンビアン | 身長どのくらい？
+Vous êtes combien dans votre famille ? | ヴー・ゼット・コンビアン | 何人家族ですか？
+:::
+
+- **Ça fait combien ?** は会計の定番（fait = 合計する）。答えは Ça fait 12 euros.
+- **On est combien ?**（何人いる？）——人数は être + combien で聞ける
+- **combien de + 無冠詞名詞**：de の後は冠詞なし（Combien de sucres ? 砂糖はいくつ？）
+- 年齢だけは **Quel âge … ?**（第10章の quel）で、combien を使わない
+
+## 9. まとめの表
 
 :::note 疑問代名詞・最終整理
 **人を尋ねる**
@@ -229,33 +312,44 @@ que が3回出てくる不格好な形ですが、哲学的な問いや驚きの
 - どの〜 / 〜は何か → **quel**（名詞に性数一致する）
 :::
 
-## 練習問題
-
-:::quiz
-Q. qu'est-ce qui と qu'est-ce que は、どこが違いますか。また、どう覚えればよいですか。
-A. 後半の qui / que が文中の役割を表す。qui なら**主語**（何が）、que なら**目的語**（何を）。前半の qu' は「物」を表す。つまり「前半＝人か物か、後半＝主語か目的語か」の2部品構成として理解すれば、4つを丸暗記しなくてよい。
-
-Q. 「何が起きているの？」を短形で言えますか。
-A. 言えない。**物が主語のときは短形が存在しない**（× Que se passe ?）。必ず長形 Qu'est-ce qui se passe ? を使う。疑問代名詞の体系にある唯一の欠落。
-
-Q. À que penses-tu ? はなぜ誤りですか。
-A. 前置詞の後ろでは que ではなく **quoi** を使うため。正しくは À **quoi** penses-tu ? que は動詞の直前に置く弱形で、単独や前置詞の後には立てない（me / moi の関係と同じ）。
-
-Q. 「お名前は何ですか？」を Qu'est-ce que votre nom ? と言えないのはなぜですか。
-A. 名前・職業・住所・年齢といった「人・物の属性」を尋ねるときは疑問形容詞 quel を使うため。正しくは **Quel est votre nom ?** 目安として、答えが名詞そのものなら quel、答えが説明・定義なら qu'est-ce que。
-
-Q. Pourquoi pleure Marie ? はなぜ誤りですか。
-A. pourquoi だけは単純倒置（名詞主語をそのまま動詞の後ろに置く）ができないため。正しくは **Pourquoi Marie pleure-t-elle ?**（複合倒置）。他の疑問副詞（où, quand, comment）では単純倒置が可能。
-
-Q. 話し言葉で「何してるの？」を最もくだけた形で言うとどうなりますか。
-A. **Tu fais quoi ?** 語順を変えず疑問詞を文末に置く形。このとき que ではなく quoi を使う。中立なら Qu'est-ce que tu fais ?、改まった書き言葉なら Que fais-tu ?
-:::
 
 :::ai-gen 疑問副詞、疑問代名詞 qui/que/quoi、quel との使い分け
+
+## 10. lequel — 選択を問う疑問代名詞
+
+「どれ？」と**選択肢の中から選ばせる**疑問代名詞が lequel です。quel（疑問形容詞、第10章）が名詞に付くのに対し、lequel は**単独で立ちます**。
+
+| | 男性単数 | 女性単数 | 男性複数 | 女性複数 |
+|---|---|---|---|---|
+| 基本 | **lequel** | **laquelle** | **lesquels** | **lesquelles** |
+| à + | **auquel** | à laquelle | **auxquels** | **auxquelles** |
+| de + | **duquel** | de laquelle | **desquels** | **desquelles** |
+
+:::ex lequel の実戦
+J'ai deux robes. Laquelle préfères-tu ? | ラケル・プレフェール・チュ | ドレスが2着あるの。どっちが好き？
+Voici trois livres. Lesquels veux-tu ? | レケル・ヴ・チュ | 本が3冊あります。どれが欲しい？
+Duquel de ces films parles-tu ? | デュケル・ドゥ・セ・フィルム | この映画のうちどれの話をしてるの？
+Il y a plusieurs solutions. À laquelle penses-tu ? | ア・ラケル・パンス・チュ | 解決策はいくつかある。どれのことを考えている？
+:::
+
+**quel と lequel の分業**は明快です。
+
+- **Quel livre** veux-tu ?（どの本が欲しい？）——名詞が続く
+- **Lequel** veux-tu ?（どれが欲しい？）——名詞なし、すでに話題に出ている
+
+会話では **C'est lequel ?**（どれ？）や **Lequel, celui-ci ?**（どっち、こっち？）のように単独で使われます。前置詞と縮約する（auquel / duquel）点も、定冠詞 le を含んでいるからだと分かれば納得できます（第7章）。
+
+なお lequel は**関係代名詞**でもあります（第21章）。疑問文なら「どれ？」、先行詞の後なら「〜であるところの」——位置で判別してください。
 
 ## この章の語彙
 
 :::vocab 第12章の語彙
+Pourquoi pas ? | 表現 | いいんじゃない？
+Comment ça ? | 表現 | どういうこと？
+Et alors ? | 表現 | それで？
+C'est quoi, ça ? | 表現 | 何それ？(口語)
+coûter | v. | 値段が〜である
+pleurer | v. | 泣く
 où | adv. | どこ
 quand | adv. | いつ
 comment | adv. | どのように

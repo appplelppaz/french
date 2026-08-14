@@ -251,7 +251,31 @@ le problème auquel je pense | ル・プロブレーム・オケル・ジュ・�
 **実務的な近道**：qui の後は動詞がいきなり来る、que の後は主語が来る。これで大半が判定できます。
 :::
 
-## 9. 練習してみる
+## 9. 関係節と法・話し言葉の実際
+
+:::deep 3つの発展点
+**（1）先行詞が不確定なら接続法**（第29½章・第31章）
+
+- Je cherche un appartement **qui a** trois pièces.（3部屋の物件を探している——存在を確信）
+- Je cherche un appartement **qui ait** trois pièces.（あれば欲しい——実在は不明）
+
+**最上級・seul / premier / dernier の後の関係節**も接続法に傾きます：C'est le meilleur film **que j'aie** jamais **vu**.（今まで見た中で最高の映画だ）。
+
+**（2）話し言葉の「万能 que」**
+
+くだけた話し言葉では、dont や lequel の代わりに que で済ませる形が聞かれます（le livre **que** je t'ai parlé——規範では **dont**）。**規範的には誤り**ですが、実際の会話には現れます。聞いて理解できればよく、自分では dont を使ってください。
+
+**（3）qui est-ce qui と「前置詞 + qui」**
+
+前置詞の後で**人**を受けるのは qui です（物は lequel）。
+
+- la personne **avec qui** je travaille（一緒に働いている人）
+- l'ami **chez qui** j'habite（居候させてもらっている友人）
+
+**c'est … qui / que の強調構文**（第22章）、**ce qui / ce que の疑似分裂**——関係代名詞は「文をつなぐ」だけでなく、フランス語の情報構造の背骨です。この章の判定力が、そのまま第22章の運用力になります。
+:::
+
+## 10. 練習してみる
 
 :::ex 2文を1文にまとめる
 Voici le livre. Je l'ai acheté hier. → Voici le livre que j'ai acheté hier. | ヴォワスィ・ル・リーヴル・ク・ジェ・アシュテ・イエール | これが昨日買った本です。
@@ -260,29 +284,62 @@ Voilà la maison. J'y suis né. → Voilà la maison où je suis né. | ヴォ�
 C'est le film. Je t'en ai parlé. → C'est le film dont je t'ai parlé. | セ・ル・フィルム・ドン・ジュ・テ・パルレ | それが君に話した映画です。
 :::
 
-## 練習問題
-
-:::quiz
-Q. フランス語の関係代名詞は、何を基準に選びますか。英語との違いは何ですか。
-A. **関係節の中での役割**（主語か、直接目的語か、場所・時か、de を受けるか）だけで選ぶ。英語のように先行詞が人か物かは一切問わない。l'homme qui parle も le livre qui est là も、どちらも qui。
-
-Q. qui と que を素早く見分ける方法は何ですか。
-A. **後ろに主語があるかどうか**。qui は自分が主語なので後ろにいきなり動詞が来る（le livre qui est là）。que は別の主語が続く（le livre que je lis）。またエリジオンするのは que だけなので、qu' があればそれは que。
-
-Q. La femme que j'ai vue. で、なぜ vue に e が付くのですか。
-A. que は直接目的語であり、しかも動詞より前にあるため、第20章の規則③により過去分詞が先行詞（la femme、女性単数）に一致する。qui の場合は主語なので一致は起きない。
-
-Q. 「私が君に出会った日」を le jour quand je t'ai rencontré と言えますか。
-A. 言えない。時を表す先行詞にも **où** を使う（le jour **où** je t'ai rencontré）。quand は疑問副詞・接続詞であって関係代名詞ではない。フランス語は「時」も一種の場所として où で受ける。
-
-Q. dont はどんなときに使いますか。判定方法は何ですか。
-A. **de + 名詞**を受けるとき。所有（whose）、de を取る動詞（parler de, avoir besoin de）、de を取る形容詞（content de）、数量の「そのうち」がすべて含まれる。判定は元の文を復元して de が現れるかを見る。
-
-Q. l'homme dont le fils je connais はなぜ誤りですか。
-A. 語順が違う。フランス語では **dont + 主語 + 動詞 + 定冠詞 + 名詞** の順になるため、正しくは l'homme **dont je connais le fils**。また所有形容詞（son fils）は使わず定冠詞（le fils）を使う。
-:::
 
 :::ai-gen 関係代名詞 qui, que, où, dont、ce qui / ce que
+
+## 11. dont の語順と「〜のうちの」
+
+**（1）dont 節の語順は固定**
+
+dont の後ろは**主語 → 動詞 → 残り**の順で、何も前に出しません。英語の whose と混ざると事故が起きます。
+
+- ○ un ami **dont le père** est médecin（父親が医者である友人）
+- × un ami dont **son** père est médecin（dont がすでに「彼の」を含むので son は重複）
+
+英語 whose father なら所有格が名詞に付きますが、フランス語は **dont + 定冠詞 + 名詞**です。「dont の後に所有形容詞を置かない」——これが最重要の注意点です。
+
+**（2）数量の dont — 「そのうちの〜」**
+
+dont には、節を作らず**数量だけを添える**便利な用法があります。
+
+:::ex 数量の dont
+J'ai trois frères, dont deux habitent à Paris. | ドン・ドゥ | 私には兄弟が3人いて、うち2人はパリに住んでいる。
+Il a écrit dix romans, dont ce chef-d'œuvre. | ドン・ス・シェフ・ドゥーヴル | 彼は小説を10冊書いた。この傑作もその1つだ。
+Cinq personnes, dont trois enfants, ont été blessées. | ドン・トロワ・ザンファン | 3人の子どもを含む5人が負傷した。
+:::
+
+**数詞 + …, dont + 数詞**（〜のうち…）は報道文の頻出パターンです。動詞なしで「dont trois enfants」とだけ添える形も普通で、日本語の「うち3人は子ども」にそのまま対応します。
+
+## 12. 関係節と先行詞の距離 — 曖昧さを避ける
+
+関係節は先行詞のすぐ後ろに置くのが原則ですが、**離れると誰にかかるか分からなくなります**。
+
+- △ J'ai vu la sœur de mon ami **qui habite à Lyon**.（リヨンに住んでいるのは姉か友人か？）
+
+フランス語には英語の that / which のような制限・非制限の区別が形にないため、**語順と文脈で解決する**しかありません。書くときは次の手を使います。
+
+| 手段 | 例 |
+|---|---|
+| **語順を変える** | J'ai vu **la sœur qui habite à Lyon**, celle de mon ami. |
+| **celui / celle で受け直す** | … mon ami, **celui qui** habite à Lyon |
+| **文を分ける** | J'ai vu la sœur de mon ami. **Elle** habite à Lyon. |
+| **コンマで非制限を示す** | mon ami**,** qui habite à Lyon**,** est venu. |
+
+**コンマの有無で意味が変わる**のは英語と同じです。
+
+- Les étudiants **qui** ont réussi sont partis.（合格した学生は帰った——**一部**）
+- Les étudiants**,** qui ont réussi**,** sont partis.（学生たちは、合格したので、帰った——**全員**）
+
+コンマがなければ**先行詞を絞り込む**（制限的）、コンマがあれば**補足説明**（非制限的）。試験でも読解でも問われる区別です。
+
+:::note 関係節が長いときは分ける
+フランス語の書き言葉は関係節を重ねる傾向がありますが、**qui / que が3つ以上連鎖すると読みにくくなります**。
+
+- △ C'est le livre que m'a prêté l'ami qui habite dans la maison qui est au coin.
+- ○ C'est le livre que m'a prêté un ami. **Il** habite dans la maison du coin.
+
+**節を1つ減らして名詞句にする**（la maison qui est au coin → la maison du coin）のも有効です。関係代名詞を使いこなすとは、**使わない選択肢も持つこと**でもあります。
+:::
 
 ## この章の語彙
 

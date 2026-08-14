@@ -201,13 +201,53 @@ souvent（しばしば）、toujours（いつも）、tous les jours（毎日）
 [[Il allait partir.\|イ・ラレ・パルティール\|彼は出発しようとしていた。]]
 :::
 
-## 5. 全時制の中での位置
+## 5. 使い分けの実践 — 短い物語で確認する
+
+理屈を1つの物語に落とし込みます。**どの動詞がなぜその時制なのか**を、1文ずつ確認してください。
+
+:::ex ある朝の話
+Quand j'étais étudiant, j'habitais un petit studio. | カン・ジェテ・ゼテュディヤン・ジャビテ・アン・プティ・ステュディオ | 学生のころ、小さなワンルームに住んでいた。（背景×2）
+Tous les matins, je prenais le métro à sept heures. | トゥ・レ・マタン・ジュ・プルネ・ル・メトロ | 毎朝7時に地下鉄に乗っていた。（習慣）
+Un matin, le métro s'est arrêté entre deux stations. | アン・マタン・ル・メトロ・セ・タレテ | ある朝、地下鉄が駅の間で止まった。（出来事＝物語が動く）
+Il faisait noir, les gens s'inquiétaient. | イル・フゼ・ノワール・レ・ジャン・サンキエテ | 暗くて、乗客は不安がっていた。（その場の描写）
+Alors, quelqu'un a commencé à chanter. | アロール・ケルカン・ア・コマンセ・ア・シャンテ | すると、誰かが歌い出した。（出来事）
+Tout le monde a ri, et moi aussi. | トゥ・ル・モンド・ア・リ・エ・モワ・オスィ | みんな笑った。私も笑った。（出来事）
+:::
+
+型が見えます。**Quand j'étais petit / étudiant（〜だったころ）+ 半過去の背景・習慣 → Un jour / Un matin（ある日）+ 複合過去の出来事**。第20.5章の童話の型（Il était une fois → Un jour）と同じ骨組みが、日常の思い出話にもそのまま現れています。
+
+**Quand j'étais petit(e), …**（小さいころは…）は思い出話の定型の入り口です。この後ろは習慣・状態なので、ほぼ自動的に半過去が続きます。
+
+:::note 迷ったときの判定手順
+1. **「そのとき何が起きた？」への答えになるか** → なる：複合過去
+2. **「そのときどんな様子だった？」への答えになるか** → なる：半過去
+3. **習慣（毎日・いつも・当時は）か** → 半過去
+4. **区切り（〜の間、3回、ある日）が明示されているか** → 複合過去
+
+多くの動詞はどちらにもなれます。**時制の選択は事実の性質ではなく、話し手の捉え方**——これがこの章の結論です。
+:::
+
+## 6. 全時制の中での位置
 
 :::conj chanter present,imparfait,passeCompose
 
 **現在 → 半過去 → 複合過去**を並べると、半過去が「現在形の語幹をそのまま使っている」ことが見えます。第13章で述べた「①直説法現在から3つ」の枝の1本です。
 
-## 6. 活用ドリル
+## 7. よくある誤り
+
+:::warn 日本語話者がやりがちな誤り
+| × | ○ | 理由 |
+|---|---|---|
+| Hier, je **regardais** un film.（1本見た） | Hier, j'**ai regardé** un film. | 完結した出来事は複合過去 |
+| Quand j'**ai été** petit … | Quand j'**étais** petit … | 状態・時期の枠は半過去 |
+| Il **a plu** quand je suis sorti.（降っていた） | Il **pleuvait** quand je suis sorti. | 背景の描写は半過去 |
+| Je **savais** la nouvelle hier soir.（知った） | J'**ai su** la nouvelle hier soir. | 「知るに至った」は複合過去 |
+| Avant, j'**ai fumé**.（昔は吸っていた） | Avant, je **fumais**. | 過去の習慣は半過去 |
+
+**J'étais en train de + 不定詞**（〜している最中だった）も便利な形です：J'étais en train de dormir quand tu as appelé.（電話をくれたとき、ちょうど寝ていたんだ）。半過去の「進行」の意味を明示的に強調したいときに使います。
+:::
+
+## 8. 活用ドリル
 
 :::drill chanter,finir,prendre,être,avoir,aller,faire,venir,voir,boire,manger,commencer imparfait
 
@@ -217,33 +257,62 @@ souvent（しばしば）、toujours（いつも）、tous les jours（毎日）
 être だけは例外（ét-）です。
 :::
 
-## 練習問題
-
-:::quiz
-Q. 半過去の語幹はどう作りますか。例外はいくつありますか。
-A. **nous の現在形から -ons を取る**。例外はフランス語全体で **être ただ1つ**（nous sommes からは作れないので ét- を使う）。不規則動詞であっても現在形さえ言えれば半過去は必ず作れる。
-
-Q. 複合過去と半過去の対立は、本質的に何の違いですか。
-A. **出来事か、状況か**。複合過去は起きて終わった出来事を点として捉え、半過去は続いていた状況を線として捉える。物語では複合過去が話を進め、半過去が背景を作る。同じ事実でも、話し手の捉え方で時制が決まる。
-
-Q. J'ai habité à Paris pendant trois ans. と J'habitais à Paris à cette époque. の違いは何ですか。
-A. 前者は「3年間」という区切りがあるので出来事として複合過去。後者は区切りを問題にせず当時の状況を述べているので半過去。住んでいたという事実は同じでも、捉え方が違う。
-
-Q. je savais と j'ai su は、どう意味が違いますか。
-A. je savais は「知っていた（状態）」、j'ai su は「知った・知るに至った（その状態に入った瞬間）」。状態動詞を複合過去にすると、状態の始まりを出来事として指すようになる。pouvoir, vouloir, connaître, avoir peur も同じ対立を持つ。
-
-Q. nous mangions で、なぜ e が消えるのですか。
-A. e を挟むのは g を [ʒ] に保つため（a や o の前で [g] になるのを防ぐ）だった。半過去の nous / vous の語尾は -ions / -iez と i で始まるので、調整が不要になる。commencer が nous commencions と ç に戻るのも同じ理由。
-
-Q. Si on allait au cinéma ? は過去の話ですか。
-A. 違う。si + 半過去で「〜しない？」という**提案**を表す用法。半過去には他にも、語調を和らげる用法（Je voulais vous demander…）や、間接話法で「その時点の現在」を表す用法があり、必ずしも過去を表すとは限らない。
-:::
 
 :::ai-gen 半過去、複合過去との使い分け、状態動詞の時制対立
+
+## 8. 過去の継続 — depuis + 半過去
+
+「〜し続けていた」という**過去の時点までの継続**は、半過去 + depuis で表します。
+
+:::ex depuis + 半過去
+Il pleuvait depuis deux jours. | イル・プルヴェ・ドゥピュイ・ドゥ・ジュール | 2日前から雨が降り続いていた。
+J'attendais depuis une heure quand il est arrivé. | ジャタンデ・ドゥピュイ・ユヌ・ール | 彼が来たとき、私は1時間前から待っていた。
+On se connaissait depuis dix ans. | オン・ス・コネセ・ドゥピュイ・ディ・ザン | 私たちは10年来の知り合いだった。
+:::
+
+第7.5章で「depuis は現在形と組む」と学びました（J'habite ici depuis 5 ans.）。その過去版がこれです。**現在まで続く継続＝現在形 + depuis、過去のある時点まで続いていた継続＝半過去 + depuis**——時制が1段ずれるだけで、構造は同じです。
+
+英語では過去完了進行形（had been waiting）を使うところですが、フランス語は**ただの半過去**で済ませます。「継続」は半過去自身が含んでいるので、特別な形が要らないのです。
+
+同じ理屈で、**il y avait … que / ça faisait … que + 半過去**も「〜前から〜していた」を表します：Ça faisait une heure que j'attendais.（もう1時間も待っていたんだ）。こちらは「長さ」への苛立ち・強調が乗る、話し言葉の言い方です。
+
+## 9. 半過去が現れる4つの構文 — 過去以外の顔をまとめる
+
+半過去は「過去の状態」だけの時制ではありません。**現実からの距離**を表す形として、いくつもの構文に組み込まれています。
+
+| 構文 | 例 | 表すもの |
+|---|---|---|
+| **si + 半過去（単独）** | Si on allait au cinéma ?（映画行かない？） | 提案 |
+| **si + 半過去（+ 条件法）** | Si j'avais le temps, je viendrais. | 現在の反実仮想 |
+| **語調緩和** | Je voulais vous demander …（お伺いしたいのですが） | 遠慮 |
+| **comme si + 半過去** | Il parle comme s'il savait tout. | 事実に反する比喩 |
+| **時制の一致** | Il a dit qu'il était malade. | 過去から見た現在 |
+| **近接過去・未来の過去版** | Il venait de partir. / Il allait partir. | 過去の直前・直後 |
+
+**共通しているのは「いま・ここの現実から一歩引く」働き**です。時間的な距離（過去）が、心理的な距離（遠慮・仮定・比喩）に転用されている——第30章の条件法とまったく同じ仕組みで、多くの言語に共通する現象です。
+
+:::ex 半過去の非過去用法
+Si on prenait un café ? | スィ・オン・プルネ・アン・カフェ | コーヒーでも飲まない？
+Je venais vous voir pour une question. | ジュ・ヴネ・ヴ・ヴォワール | 少し伺いたいことがあって参りました。
+Si seulement il était là ! | スィ・スルマン・イ・レテ・ラ | 彼がここにいてくれさえすれば！
+On aurait dit qu'il pleuvait. | オ・ノレ・ディ・キル・プルヴェ | 雨が降っているようだった。
+:::
+
+**Si on + 半過去 ?**（〜しない？）は誘いの最も自然な形の1つで、Si on y allait ?（行かない？）、Si on mangeait ?（食べようか？）と、日常で頻繁に使われます。**Si seulement + 半過去 !**（〜さえすれば）は願望の嘆きです。
+
+**Je venais / Je voulais + 不定詞**（〜しに参りました・〜したかったのですが）は、窓口や訪問先で用件を切り出すときの丁寧な決まり文句です。現在形の Je veux … より格段に柔らかく響きます。
 
 ## この章の語彙
 
 :::vocab 第27章の語彙
+Quand j'étais petit(e) | 表現 | 小さいころは
+à cette époque | 表現 | 当時
+d'habitude | adv. | 普段は
+autrefois | adv. | 昔は
+studio | n.m. | ワンルーム
+station | n.f. | 駅（地下鉄）
+s'inquiéter | v.pr. | 心配する
+rire | v. | 笑う
 autrefois | adv. | 昔は
 d'habitude | adv. | 普段は
 souvent | adv. | しばしば

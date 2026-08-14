@@ -2,7 +2,7 @@ FR.chapter({
   id: 'ch28',
   no: '28',
   title: '受動態',
-  sub: '「愛される」という甘美な♥地獄',
+  sub: '「愛される」という甘美な地獄',
   body: `
 受動態（la voix passive）は **être + 過去分詞**で作ります。作り方は英語とほぼ同じで、難しいところはありません。
 
@@ -187,7 +187,88 @@ Cette maison s'est construite en 1900. | セット・メゾン・セ・コンス
 - [[La porte a été fermée.\|ラ・ポル・タ・エテ・フェルメ\|ドアが閉められた。]]（動作と読みやすい）
 :::
 
-## 7. 練習してみる
+## 7. se faire + 不定詞 — もう1つの受け身
+
+:::deep se faire / se laisser + 不定詞
+「〜される」を表すもう1つの重要な手段が **se faire + 不定詞**です。話し言葉では受動態よりよく使われる場面があります。
+
+:::ex se faire + 不定詞
+Il s'est fait voler son vélo. | イル・セ・フェ・ヴォレ・ソン・ヴェロ | 彼は自転車を盗まれた。
+Elle s'est fait couper les cheveux. | エル・セ・フェ・クペ・レ・シュヴー | 彼女は髪を切ってもらった。
+Je me suis fait avoir. | ジュ・ム・スュイ・フェ・アヴォワール | やられた（だまされた）。
+Il s'est fait gronder par sa mère. | イル・セ・フェ・グロンデ・パール・サ・メール | 彼は母親に叱られた。
+:::
+
+ニュアンスは2つあります。
+
+- **被害**：Il s'est fait voler …（盗まれた——迷惑・被害の含み）
+- **依頼**：Elle s'est fait couper les cheveux.（切って**もらった**——自分で手配した）
+
+日本語の「〜される（迷惑）」と「〜してもらう」の両方をこの形がカバーします。**間接目的語の残る受け身**（自転車**を**盗まれた、髪**を**切ってもらった）は普通の受動態では書けないので、se faire が唯一の言い方になります。
+
+- × Son vélo lui a été volé.（文法的には可能だが硬い）
+- ○ Il **s'est fait voler** son vélo.（自然）
+
+なお、この構文の fait は**不変化**です（Elle s'est **fait** couper …。× faite）。faire + 不定詞の使役では過去分詞を一致させないという規則（第23章）がここにも及んでいます。
+
+**se laisser + 不定詞**（〜されるがままになる）も同じ型です：Il s'est laissé convaincre.（彼は説得されてしまった）。
+:::
+
+## 8. よくある誤り
+
+:::warn 日本語話者がやりがちな誤り
+| × | ○ | 理由 |
+|---|---|---|
+| La porte a ouvert**e** par Marie. | La porte a été ouvert**e** par Marie. | été を落とさない（être + 過去分詞） |
+| Il a été volé son vélo. | Il **s'est fait voler** son vélo. | 所有物が残る受け身は se faire（§7） |
+| Cette maison est construite en 1900. | Cette maison **a été** construite en 1900. | 出来事の過去は複合過去の受動態（§6） |
+| Je suis téléphoné par lui. | Il **m'a** téléphoné. | 間接目的語は受動態の主語になれない（§5） |
+| Ce livre est vendu bien. | Ce livre **se vend** bien. | 性質の受け身は代名動詞（§4） |
+:::
+
+## 9. ニュースの受動態 — 報道文の読み方
+
+:::note 受動態が主役になる場所
+「フランス語は受動態を避ける」と述べましたが、**報道・公文書では受動態が標準**です。動作主より出来事を前に出す文体だからです。
+
+:::ex ニュースの受動態
+Le suspect a été arrêté hier soir. | ル・スュスペ・ア・エテ・アレテ | 容疑者は昨夜逮捕された。
+Trois personnes ont été blessées dans l'accident. | トロワ・ペルソンヌ・オン・テテ・ブレセ | 事故で3人が負傷した。
+Le musée sera fermé pour travaux. | ル・ミュゼ・スラ・フェルメ・プール・トラヴォ | 美術館は工事のため閉館されます。
+La décision a été prise à l'unanimité. | ラ・デスィズィヨン・ア・エテ・プリーズ | 決定は全会一致でなされた。
+:::
+
+**a été + 過去分詞**（〜された）は報道の最頻出パターンです。目にする受動態の大半はこの形なので、「a été が来たら受動の複合過去」と反射的に読めるようにしてください。見出しではさらに縮んで、être が落ちた**過去分詞だけ**になります：Trois blessés dans un accident.（事故で3人負傷）。
+
+**会話は on、報道は受動態**——同じ内容の使い分けを並べると：
+
+- 会話：On a arrêté le suspect.（容疑者が捕まったって）
+- 報道：Le suspect a été arrêté.（容疑者は逮捕された）
+:::
+
+## 10. 受動態と再帰・使役の見分けチャート
+
+「être + 過去分詞」「se + 動詞」「faire + 不定詞」——**受け身に見える形**が3系統あります。読解時の判定を1枚にまとめます。
+
+| 形 | 例 | 意味の系統 |
+|---|---|---|
+| être + 過去分詞（+ par） | La porte **a été ouverte** (par Marie). | 受動態：〜される |
+| être + 過去分詞（par なし・状態） | La porte **est ouverte**. | 状態：〜されている・〜している |
+| se + 動詞（3人称・モノ主語） | Ce vin **se boit** frais. | 受動的用法：〜されるものだ |
+| se faire + 不定詞 | Il **s'est fait voler**. | 被害・依頼：〜される・〜してもらう |
+| faire + 不定詞 | Je **fais réparer** ma voiture. | 使役：〜させる・〜してもらう |
+
+**faire réparer**（修理してもらう）は使役構文ですが、日本語では「〜してもらう」なので受け身に感じられます。
+
+:::ex 「してもらう」の3段活用
+Je répare ma voiture. | ジュ・レパール・マ・ヴォワチュール | 自分で車を修理する。
+Je fais réparer ma voiture. | ジュ・フェ・レパレ・マ・ヴォワチュール | 車を修理してもらう（出す）。
+Je me suis fait réparer ma voiture. | ジュ・ム・スュイ・フェ・レパレ | （話し言葉で）車を直してもらった。
+:::
+
+**faire + 不定詞（〜してもらう・させる）は生活の基本構文**です：faire couper les cheveux（髪を切ってもらう）、faire livrer（配達してもらう）、faire suivre（転送してもらう）。「業者・他人にやってもらう」ことはすべて faire で言う、と覚えてください。
+
+## 11. 練習してみる
 
 :::ex 能動・受動・on・代名動詞
 Le professeur corrige les copies. | ル・プロフェスール・コリージュ・レ・コピ | 先生が答案を採点する。（能動）
@@ -196,33 +277,48 @@ On corrige les copies. | オン・コリージュ・レ・コピ | 答案を採�
 Les copies se corrigent facilement. | レ・コピ・ス・コリージュ・ファスィルマン | 答案は簡単に採点できる。（代名動詞）
 :::
 
-## 練習問題
-
-:::quiz
-Q. 受動態はどう作りますか。過去分詞は一致しますか。
-A. **être + 過去分詞**。être を使うので、過去分詞は必ず**主語に性数一致**する（Le livre est écrit / La lettre est écrite）。時制は être を活用させて変える。
-
-Q. Je téléphone à Marie. を受動態にできますか。
-A. できない。**直接目的語を持つ動詞しか受動態にできない**ため。téléphoner à は間接他動詞なので不可。英語では Marie was telephoned. と言えるが、フランス語では言えない。
-
-Q. par と de は、どう使い分けますか。
-A. **par は具体的な行為**（Le livre est écrit **par** Marie.）、**de は状態・感情**（Il est aimé **de** tous. / La ville est entourée **de** montagnes.）。aimer, respecter, entourer, couvrir などは de を取る。
-
-Q. 「この橋は1900年に建てられた」を、フランス語で最も自然に言うとどうなりますか。
-A. **On a construit ce pont en 1900.** 日本語では受動で訳すのが自然だが、フランス語では on を使った能動文が最も一般的。受動態（Ce pont a été construit…）は書き言葉・報道寄りの文体になる。
-
-Q. Ce livre se vend bien. はどんな構文ですか。
-A. **代名動詞の受動的用法**（第23章）。主語がモノのとき、se + 動詞で受動の意味を表す。一般的な性質を述べるときに使われ、受動態より日常的。
-
-Q. La porte est fermée. には何通りの解釈がありますか。
-A. 2通り。「ドアが閉められる」（動作の受動）と「ドアが閉まっている」（状態）。フランス語は être 一語で両方を担うため形では区別できず、文脈で判断する。ドイツ語の werden / sein、スペイン語の ser / estar のような区別がない。
-:::
 
 :::ai-gen 受動態、par と de、on と代名動詞による代用
+
+## 11. 受動態を作れる動詞・作れない動詞
+
+受動態にできるかどうかは、**動詞が直接目的語を取るか**で決まります。境界例を整理しておきます。
+
+| 型 | 受動態 | 例 |
+|---|---|---|
+| 他動詞（直接目的語あり） | **できる** | On construit un pont. → Un pont **est construit**. |
+| 自動詞 | できない | Il dort.（× Il est dormi） |
+| 間接他動詞（à / de を取る） | **できない** | téléphoner à qn、obéir à qn |
+| 代名動詞 | できない | se lever（すでに se が目的語） |
+| avoir | できない | J'ai un livre.（× Un livre est eu） |
+
+:::warn obéir だけは例外的に受動態を作れる
+規則では「間接他動詞は受動態にできない」のですが、**obéir / désobéir / pardonner** は歴史的な事情から受動態が認められています。
+
+[[Il veut être obéi.|イル・ヴ・エートル・ゾベイ|彼は従われたがっている。]]
+[[Vous êtes tout pardonné.|ヴ・ゼット・トゥ・パルドネ|すっかり許されていますよ。]]
+
+古フランス語では obéir が直接目的語を取っていた名残です。**この3語だけの例外**なので、他の à を取る動詞に広げないでください。
+:::
+
+:::note 受動態にしても情報が増えないなら使わない
+フランス語が受動態を避ける理由をもう一段掘り下げると、**動作主を par で明示しないなら受動態にする意味が薄い**からです。
+
+- On a volé ma voiture.（車を盗まれた）——誰がやったか不明。**on が自然**
+- Ma voiture a été volée **par des inconnus**.（見知らぬ者たちに盗まれた）——動作主に焦点。受動態が生きる
+
+つまり受動態は「**動作主を par で述べたい**」か「**主題を目的語側に移したい**」ときの構文です。それ以外は on か代名動詞で足ります。この判断基準を持っておくと、フランス語らしい文が書けるようになります。
+:::
 
 ## この章の語彙
 
 :::vocab 第28章の語彙
+se faire + 不定詞 | 構文 | 〜される（被害）、〜してもらう
+se laisser + 不定詞 | 構文 | 〜されるがままになる
+se faire avoir | 表現 | だまされる
+voler | v. | 盗む
+gronder | v. | 叱る
+convaincre | v. | 説得する
 être + 過去分詞 | 構文 | 〜される（受動態）
 par | prép. | 〜によって（行為）
 de | prép. | 〜によって（感情・状態）

@@ -195,7 +195,54 @@ Il demande : « Qui est là ? » → Il demande qui est là. | イル・ドゥ�
 - [[Il dit de venir.\|イル・ディ・ドゥ・ヴニール\|彼は来るように言っている。]]（命令の伝達）
 :::
 
-## 7. 総合練習
+## 7. 命令の間接話法と、自由間接話法
+
+:::deep 命令文を伝える — de + 不定詞
+命令文を間接話法にするときは、que 節ではなく **de + 不定詞**を使います。
+
+:::ex 命令の間接話法
+« Viens ! » → Il m'a dit de venir. | イル・マ・ディ・ドゥ・ヴニール | 彼は私に来るように言った。
+« Ne partez pas ! » → Elle nous a demandé de ne pas partir. | エル・ヌー・ザ・ドゥマンデ・ドゥ・ヌ・パ・パルティール | 彼女は私たちに出発しないよう頼んだ。
+« Attendez-moi. » → Il leur a dit de l'attendre. | イル・ルール・ア・ディ・ドゥ・ラタンドル | 彼は彼らに自分を待つよう言った。
+:::
+
+**dire à qn de faire / demander à qn de faire / conseiller à qn de faire**——第7.5章で見た「人には à、行為には de」の型がそのまま使われます。否定は **de ne pas + 不定詞**（ne pas がまとまって前）です。
+:::
+
+:::adv 自由間接話法 — 小説の第3の話法
+文学作品には、直接話法とも間接話法とも違う**第3の話法**があります。
+
+- 直接話法：Il pensa : « C'est trop tard. Je ne la reverrai jamais. »
+- 間接話法：Il pensa que c'était trop tard et qu'il ne la reverrait jamais.
+- **自由間接話法**：Il s'arrêta. **C'était trop tard. Il ne la reverrait jamais.**（彼は立ち止まった。もう遅すぎる。二度と彼女に会えないのだ。）
+
+伝達動詞（il pensa que）を消し、**時制と人称だけ間接話法のまま**、地の文に登場人物の思考を流し込む——これが自由間接話法（le discours indirect libre）です。フロベール以降のフランス小説で多用され、**条件法や半過去が地の文に突然現れたら、登場人物の内心**と読むのが読解の鍵になります。
+
+書けるようになる必要はありませんが、小説を原文で読むなら必ず出会う形です。
+:::
+
+## 8. 伝言を伝える — 話法の実地
+
+話法の変換が最も必要になるのは、**伝言**です。電話・メッセージの内容を第三者に伝える場面で練習します。
+
+:::ex 伝言の変換
+« Je serai en retard. » → Paul a dit qu'il serait en retard. | ポール・ア・ディ・キル・スレ・タン・ルタール | ポールは遅れると言ってた。
+« J'ai raté le train. » → Il a expliqué qu'il avait raté le train. | イ・ラ・エクスプリケ・キ・ラヴェ・ラテ | 電車に乗り遅れたんだって。
+« Commencez sans moi. » → Il a dit de commencer sans lui. | イ・ラ・ディ・ドゥ・コマンセ・サン・リュイ | 先に始めててと言ってた。
+« Tu peux me rappeler ? » → Elle demande si tu peux la rappeler. | エル・ドゥマンド・スィ・チュ・プ・ラ・ラプレ | かけ直してもらえるかって。
+« Où êtes-vous ? » → Il veut savoir où on est. | イル・ヴ・サヴォワール・ウ・オ・ネ | どこにいるのか知りたがってる。
+:::
+
+観察ポイント：
+
+- **serai → serait**（単純未来 → 条件法）、**ai raté → avait raté**（複合過去 → 大過去）——時制の一致
+- **Commencez → de commencer**——命令は de + 不定詞
+- **sans moi → sans lui**、**me → la**——人称の付け替え
+- 主節が**現在**（Elle demande …）なら**時制はずれない**——伝言をその場で伝えるときは一致が起きない
+
+最後の点は実務上重要です。**電話を切ってすぐ伝えるなら Elle demande si …（現在）**で足り、時制の一致は不要。**あとから報告するときだけ**（Elle a demandé si …）一致が発動します。
+
+## 9. 総合練習
 
 :::ex 直接話法から間接話法へ
 Il a dit : « Je suis fatigué. » → Il a dit qu'il était fatigué. | イラ・ディ・キ・レテ・ファティゲ | 彼は疲れたと言った。
@@ -214,33 +261,59 @@ Elle a dit : « Ferme la porte ! » → Elle m'a dit de fermer la porte. | エ�
 この5段階を順に適用すれば、機械的に変換できます。
 :::
 
-## 練習問題
-
-:::quiz
-Q. 時制の一致は、どんなときに起きますか。
-A. **主節が過去のとき**だけ。主節が現在・未来なら従属節の時制は変わらない（Il dit qu'il est fatigué. / Il a dit qu'il était fatigué.）。
-
-Q. 直接話法の現在・複合過去・単純未来は、間接話法でそれぞれ何になりますか。
-A. 現在 → **半過去**、複合過去 → **大過去**、単純未来 → **条件法現在**。それぞれ「過去から見た現在／過去／未来」を表す。半過去・大過去・条件法はそれ以上ずらせないので変わらない。
-
-Q. Il a dit qu'il viendrait. の viendrait に仮定の意味はありますか。
-A. ない。「彼が言った時点から見て、これから来る」という**過去における未来**を表す。条件法はもともと「未来語幹＋半過去の語尾」＝過去から見た未来という成り立ちなので、この用法は語源に忠実。英語の He said he would come. と同じ構造。
-
-Q. Je ne sais pas si tu viendras. で、なぜ si の後に未来形が使えるのですか。
-A. これは条件の si ではなく**間接疑問の si**（〜かどうか）だから。条件の si の後では未来形・条件法を使えないが、間接疑問の si では使える。後ろに未来形があれば間接疑問と判断できる。
-
-Q. Il dit qu'il vient. と Il dit de venir. の違いは何ですか。
-A. 前者は情報の伝達（彼は来ると言っている）、後者は命令・依頼の伝達（彼は来るように言っている）。命令・依頼を間接話法にすると必ず **de + 不定詞** になり、que 節にはならない。
-
-Q. Il a dit : « Je pars demain. » を間接話法にしてください。
-A. **Il a dit qu'il partait le lendemain.** 人称（je → il）、時制（現在 → 半過去）、時を表す語（demain → le lendemain）の3つが同時に変化する。
-:::
 
 :::ai-gen 直接話法と間接話法、時制の一致、間接疑問
+
+## 9. 時制の一致が起きない場合
+
+主節が過去でも、**従属節が現在形のままでよい**場合があります。機械的に全部ずらすわけではありません。
+
+| 場合 | 例 |
+|---|---|
+| **普遍の真理・恒常的事実** | Le professeur a dit que la Terre **tourne** autour du Soleil.（地球が太陽の周りを回ると先生は言った） |
+| **今も有効な事実** | Elle m'a dit qu'elle **habite** à Lyon.（彼女はリヨンに住んでいると言った——今も住んでいる含み） |
+| **主節が現在・未来** | Il dit qu'il **viendra**.（来ると言っている） |
+
+2つ目が実用上のポイントです。**habitait（半過去）にすると「当時住んでいた（今は不明）」**、habite（現在）のままなら「今も住んでいる」と、**話し手の判断が時制に出ます**。一致は義務の規則であると同時に、**現在形を残すことで「まだ真」と示せる**表現の道具でもあるのです。
+
+- Il m'a dit qu'il **était** malade.（そのとき病気だった——今は不明）
+- Il m'a dit qu'il **est** malade.（病気だと言っていた——今も病気）
+
+会話ではこの「現在形残し」が非常によく使われます。規則の目的は**時点の混乱を防ぐこと**なので、混乱が起きないなら現在形が残れる、と理解してください。
+
+## 10. 引用の技術 — 部分引用と要約
+
+実際の文章では、直接話法と間接話法をきれいに二分するより、**必要な部分だけ引用する**ことのほうが多くあります。
+
+| 技法 | 例 |
+|---|---|
+| **語句だけを « » で引く** | Il a parlé d'un « malentendu regrettable ». |
+| **selon / d'après で出典を示す** | **Selon lui**, le projet est mort. |
+| **伝聞の条件法**（第30章） | Le projet **serait** abandonné. |
+| **要約して伝える** | Il a exprimé son désaccord.（反対の意を示した） |
+
+:::ex 引用の技法
+Selon le journal, la décision est déjà prise. | スロン・ル・ジュルナル | 新聞によれば、決定はすでに下されている。
+D'après elle, il n'y a aucun problème. | ダプレ・エル | 彼女によれば、何の問題もないそうだ。
+Il a évoqué « des difficultés techniques ». | イ・ラ・エヴォケ | 彼は「技術的な困難」に言及した。
+Le ministre aurait démissionné. | ル・ミニストル・オレ・デミスィヨネ | 大臣は辞任した模様だ。
+:::
+
+**selon / d'après + 人**（〜によれば）は、時制の一致を発動させずに出典を示せる便利な形です。**Selon lui, le projet est mort.** は、間接話法にすれば Il a dit que le projet était mort. となりますが、selon を使えば現在形のまま引用できます。
+
+**伝聞の条件法**（第30章）は、**動詞1つで「未確認情報」を示す**フランス語独自の手段です。日本語の「〜という」「〜もよう」にあたり、報道文では selon とセットで使われます：**Selon des sources proches, il aurait démissionné.**（関係筋によれば辞任した模様だ）。
+
+話法の学習は、最終的に「**誰の言葉として、どこまで責任を持って述べるか**」を選ぶ技術です。時制の一致という規則の背後にあるのは、この責任の所在の問題だと理解しておいてください。
 
 ## この章の語彙
 
 :::vocab 第27.6章の語彙
+dire à qn de + 不定詞 | 構文 | 〜するように言う
+demander à qn de + 不定詞 | 構文 | 〜するように頼む
+conseiller à qn de + 不定詞 | 構文 | 〜するように勧める
+discours indirect libre | n.m. | 自由間接話法
+revoir | v. | 再会する
+s'arrêter | v.pr. | 立ち止まる
 dire que | v. | 〜と言う
 demander si | v. | 〜かどうか尋ねる
 demander de | v. | 〜するよう頼む

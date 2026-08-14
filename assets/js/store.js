@@ -127,12 +127,15 @@
   /* ---- 設定 ---- */
 
   var DEFAULT_SETTINGS = {
-    theme: 'auto',            // auto | light | dark
+    theme: 'auto',            // auto（既定。端末に合わせる）| light | dark
+    fontScale: 'm',           // s | m | l | xl（設定画面の「文字サイズ」）
     voiceURI: '',
     rate: 0.9,
     model: 'gemini-3.6-flash',
     showParts: true,          // 活用表：語幹と語尾を色分け
-    showHomophones: true      // 活用表：同じ音のセルに印
+    /* 同音の印は該当が多く、常時出すと表が波線だらけになる。
+       必要なときに「同じ音」を押して出す（本文の説明もその前提で書いてある）。 */
+    showHomophones: false
   };
 
   store.settings = {

@@ -245,7 +245,32 @@ la plupart は「（あるまとまりの）大部分」なので、そのまと
 最後の2つは形が同じ du ですが、機能が違います。[[Je bois du café.\|ジュ・ボワ・デュ・カフェ\|コーヒーを飲む]]（部分冠詞）と [[Je viens du Japon.\|ジュ・ヴィアン・デュ・ジャポン\|日本から来た]]（前置詞 de + le）は、同じ du でも別物です。第7章でこの縮約を扱います。
 :::
 
-## 6. 冠詞が付かない場合
+## 6. 冠詞の選択を場面で固定する — 食べ物の文法
+
+:::deep 「コーヒー」が3通りに言える理由
+同じ名詞でも、**どう関わるかで冠詞が変わります**。café で3つの冠詞を使い分けてみます。
+
+| 文 | 冠詞 | 何を言っているか |
+|---|---|---|
+| J'aime **le** café. | 定冠詞（総称） | コーヒーというものが好き |
+| Je bois **du** café. | 部分冠詞 | コーヒーをいくらか飲む |
+| Je voudrais **un** café. | 不定冠詞 | コーヒーを1杯ください |
+
+**好み（総称）は le、量を扱うなら du、数えるなら un**。カフェで注文するときは un café（1杯）で、部分冠詞は使いません。「1杯」と数えているからです。
+
+食事の場面はこの3点セットの練習場です。
+
+:::ex 食卓の冠詞
+Tu aimes le fromage ? | チュ・エム・ル・フロマージュ | チーズは好き？（総称）
+Il y a du fromage dans le frigo. | イ・リ・ヤ・デュ・フロマージュ・ダン・ル・フリゴ | 冷蔵庫にチーズがあるよ。（量）
+J'ai acheté un fromage de chèvre. | ジェ・アシュテ・アン・フロマージュ・ドゥ・シェーヴル | ヤギのチーズを1つ買った。（個体）
+Je ne mange pas de fromage. | ジュ・ヌ・マンジュ・パ・ドゥ・フロマージュ | チーズは食べません。（否定の de）
+:::
+
+**否定の de** も合わせると4役です。1つの名詞にこの4つの文が言えるようになれば、冠詞の章は卒業です。
+:::
+
+## 7. 冠詞が付かない場合
 
 第1章でも触れましたが、冠詞体系の一部として整理しておきます。
 
@@ -265,33 +290,78 @@ la plupart は「（あるまとまりの）大部分」なので、そのまと
 無冠詞は「その名詞をモノとして数えていない」しるしだ、という原則がここでも効いています。
 :::
 
-## 練習問題
-
-:::quiz
-Q. J'aime ( ) café. と Je bois ( ) café. に入る冠詞は、それぞれ何ですか。
-A. J'aime **le** café.（定冠詞・総称。「コーヒーというもの」全般が好き）／ Je bois **du** café.（部分冠詞。実際にある量を飲む）。動詞が冠詞を決めている。
-
-Q. Je bois du café. を否定文にしてください。
-A. Je ne bois pas **de** café. 部分冠詞 du は否定文で de になる。不定冠詞・部分冠詞は「ある量」を表すため、否定で量がゼロになると de だけが残る。
-
-Q. Je n'aime pas le café. で、なぜ le が de にならないのですか。
-A. 定冠詞は量ではなく特定性・総称を表すため、否定の影響を受けない。否定の de が起きるのは、不定冠詞と部分冠詞（量を表す冠詞）だけ。
-
-Q. des amis に bons を付けると、なぜ de bons amis になるのですか。
-A. 複数の不定冠詞 des は、形容詞が名詞の前に置かれると de に変わるため（書き言葉の規則）。話し言葉では des bons amis も広く使われる。
-
-Q. 次の2つの du は、それぞれ何ですか。（1）Je bois du café. （2）Je viens du Japon.
-A. （1）は部分冠詞（ある量のコーヒー）。（2）は前置詞 de + 定冠詞 le の縮約（日本から）。形は同じだが機能が違う。
-
-Q. beaucoup de livres で、なぜ livres に冠詞が付かないのですか。
-A. beaucoup がすでに数量の情報を担っているため、冠詞が重ねて量を示す必要がないから。同じ理由で un peu de, trop de, une tasse de などの後ろも無冠詞になる。ただし la plupart des と bien des は定冠詞を保つ。
-:::
 
 :::ai-gen 定冠詞・不定冠詞・部分冠詞の使い分け、否定の de
+
+## 8. 無冠詞になる場所 — 冠詞の「消えるポイント」
+
+冠詞は原則必須ですが、**決まった構文の中では消えます**。消える場所を列挙しておくと、読解で戸惑いません。
+
+| 場所 | 例 |
+|---|---|
+| **職業・身分の属詞** | Il est **médecin**.（彼は医者だ） |
+| **avoir の熟語** | avoir **faim** / **soif** / **peur** / **raison** / **besoin de** |
+| **前置詞 en の後** | en **France**、en **voiture**、en **été** |
+| **手段・様態の par / sans / avec** | par **avion**、sans **sucre**、avec **plaisir** |
+| **同格** | Paris, **capitale** de la France |
+| **列挙** | Hommes, femmes, enfants : tout le monde courait. |
+| **看板・見出し** | Maison à vendre.（売家） |
+
+:::ex 無冠詞の実例
+Elle est professeure. | エ・レ・プロフェスール | 彼女は教員です。
+J'ai sommeil. | ジェ・ソメイユ | 眠い。
+Il voyage en train, sans bagages. | イル・ヴォワヤージュ・アン・トラン・サン・バガージュ | 彼は列車で、荷物なしで旅する。
+Avec plaisir ! | アヴェック・プレズィール | 喜んで！
+:::
+
+とくに **avoir + 無冠詞名詞**（faim / soif / peur / sommeil / raison / tort / envie / besoin）は熟語のかたまりで、「空腹・渇き・恐れ」などの**状態が形容詞のように**働いています。だから très が付けられるのでした（J'ai très faim. 第6.5章）。
+
+逆に、**Il est médecin.** と **C'est un médecin.** の対（属詞は無冠詞、c'est の後は冠詞つき）は第4章で見たとおりです。無冠詞は「名詞が個体でなく資格・状態を表すとき」に起きる——と一般化して覚えてください。
+
+## 9. 冠詞の選択がつまずく5つの場面
+
+冠詞の規則はここまでで揃いました。実際に迷いやすい場面を、判断つきで並べておきます。
+
+**（1）好み・総称 → 定冠詞**
+
+J'aime **le** vin.（ワインが好き）／ **Les** chats sont indépendants.（猫は独立している）
+好みの動詞（aimer / adorer / détester / préférer）と一般論は**必ず定冠詞**です。
+
+**（2）食べる・飲む・買う → 部分冠詞か不定冠詞**
+
+Je bois **du** vin.（ワインを飲む）／ J'achète **une** bouteille.（1本買う）
+量なら du、個数なら un。
+
+**（3）否定文 → de**（ただし定冠詞は残る）
+
+Je ne bois pas **de** vin.（不定・部分冠詞 → de）
+Je n'aime pas **le** vin.（定冠詞はそのまま——総称は否定しても総称）
+
+**（4）être の属詞（職業・国籍）→ 無冠詞**
+
+Il est **professeur**.（× un professeur）
+ただし **C'est un professeur.** は冠詞つき（第4章）。
+
+**（5）数量表現の後 → de のみ**
+
+beaucoup **de** livres、un peu **d'**eau、un kilo **de** pommes
+× beaucoup des livres（des livres が「その本」を指す特定の場合のみ可）
+
+:::warn beaucoup de と beaucoup des
+- **beaucoup de livres**（たくさんの本——不特定）
+- **beaucoup des livres que j'ai lus**（私が読んだ本のうちの多く——特定の集合から）
+
+des が現れるのは、**de + 定冠詞 les**（その本のうちの）という縮約のときだけです。ふつうの「たくさんの〜」は必ず **de + 無冠詞**。日本語話者が最も落としやすい点の1つです。
+:::
+
+**判断の順序**をまとめると：①総称・特定か → 定冠詞、②数えるか量るか → un / du、③否定か → de、④属詞か → 無冠詞、⑤数量表現の後か → de。この5問を順に当てれば、ほとんどの場面で冠詞は決まります。
 
 ## この章の語彙
 
 :::vocab 第2章の語彙
+fromage | n.m. | チーズ
+frigo | n.m. | 冷蔵庫（口語）
+chèvre | n.f. | ヤギ
 café | n.m. | コーヒー
 vin | n.m. | ワイン
 bière | n.f. | ビール

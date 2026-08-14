@@ -242,7 +242,76 @@ Elle marche en chantant. | エル・マルシュ・アン・シャンタン | �
 英語話者が最も間違えるのがこの2点です。
 :::
 
-## 8. 練習してみる
+## 8. tout en + ジェロンディフ、否定、そして使えない場面
+
+:::deep ジェロンディフの細部
+**（1）tout en + ジェロンディフ — 対立・逆説の同時**
+
+[[Il travaille tout en écoutant de la musique.|イル・トラヴァイユ・トゥ・タン・ネクタン・ドゥ・ラ・ミュズィック|彼は音楽を聞きながら働く。]]
+[[Tout en souriant, elle était furieuse.|トゥ・タン・スリヤン・エ・レテ・フュリユーズ|微笑みながらも、彼女は激怒していた。]]
+
+tout を付けると同時性が強調され、しばしば「〜しながら**も**」という**逆説**の含みが出ます。
+
+**（2）ジェロンディフの否定はまれ — sans + 不定詞を使う**
+
+「〜せずに」は、ジェロンディフの否定（en ne faisant pas）ではなく **sans + 不定詞**で言うのが自然です。
+
+- ○ Il est parti **sans dire** au revoir.（さよならも言わずに出て行った）
+- △ Il est parti en ne disant pas au revoir.（不自然）
+
+**（3）主語の一致 — ぶら下がり分詞は誤り**
+
+ジェロンディフの意味上の主語は**主節の主語**です。一致しないと誤文になります。
+
+- × **En sortant** du métro, la pluie s'est mise à tomber.（地下鉄を出たのは雨ではない）
+- ○ **En sortant** du métro, **j'ai** reçu la pluie. → 自然には：Quand je suis sorti du métro, il s'est mis à pleuvoir.
+
+英語の懸垂分詞（dangling participle）と同じ誤りで、フランス語でも規範違反です。
+
+**（4）「〜すれば」の条件用法**
+
+[[En prenant le train de 8 heures, tu arriveras à temps.|アン・プルナン・ル・トラン・ドゥ・ユイ・トゥール|8時の電車に乗れば間に合うよ。]]
+
+si 節の代わりになる圧縮した条件です（第30章）。**C'est en forgeant qu'on devient forgeron.**（鍛冶をすることで鍛冶屋になる＝習うより慣れろ）という諺は、この用法の強調構文（第22章）です。
+:::
+
+## 9. -ant の語彙の広がり
+
+現在分詞は、形容詞・名詞として辞書に定着した語を大量に生んでいます。**見出し語として覚える価値のあるもの**を整理します。
+
+**形容詞化した -ant**（性数一致する）
+
+| 語 | 意味 | 元の動詞 |
+|---|---|---|
+| intéressant(e) | 面白い | intéresser |
+| amusant(e) | 愉快な | amuser |
+| étonnant(e) | 驚くべき | étonner |
+| charmant(e) | 魅力的な | charmer |
+| vivant(e) | 生きている・活気ある | vivre |
+| suivant(e) | 次の | suivre |
+| courant(e) | 日常の・流通している | courir |
+| brillant(e) | 輝かしい | briller |
+
+**名詞化した -ant**
+
+| 語 | 意味 |
+|---|---|
+| un étudiant / une étudiante | 学生（étudier する人） |
+| un débutant / une débutante | 初心者 |
+| un habitant / une habitante | 住民 |
+| un passant / une passante | 通行人 |
+| un gagnant / une gagnante | 勝者 |
+
+:::ex -ant の語彙
+C'est un film très étonnant. | セ・タン・フィルム・トレ・ゼトナン | とても驚くべき映画だ。
+La semaine suivante, il est revenu. | ラ・スメーヌ・スュイヴァント・イ・レ・ルヴニュ | その翌週、彼は戻ってきた。
+C'est de l'eau courante. | セ・ドゥ・ロ・クラント | 水道水です。
+Les habitants du quartier se connaissent. | レ・ザビタン・デュ・カルティエ | この界隈の住民は顔見知りだ。
+:::
+
+**suivant**（次の）と **courant**（日常の）は前置詞・熟語にも進出しています：la page suivante（次のページ）、le mois courant（今月）、C'est courant.（よくあることだ）。動詞1つを覚えると -ant 語彙が芋づるで手に入る——第1群動詞の多さ（第8章）が、ここでも効いています。
+
+## 10. 練習してみる
 
 :::ex 現在分詞とジェロンディフ
 Il travaille en écoutant de la musique. | イル・トラヴァイユ・ア・ネクタン・ドゥ・ラ・ミュズィック | 彼は音楽を聴きながら働く。
@@ -252,33 +321,48 @@ En sortant, ferme la porte. | アン・ソルタン・フェルム・ラ・ポ�
 Tout en souriant, elle a refusé. | トゥ・タン・スリヤン・エラ・ルフュゼ | 微笑みながらも、彼女は断った。
 :::
 
-## 練習問題
-
-:::quiz
-Q. 現在分詞はどう作りますか。例外は何ですか。
-A. **nous の現在形から -ons を取って -ant を付ける**（半過去と同じ語幹）。例外は **être → étant、avoir → ayant、savoir → sachant** の3つだけ。
-
-Q. J'ai vu une femme chantant. と J'ai vu une femme en chantant. は、どう違いますか。
-A. 前者は**女性が歌っている**（現在分詞が直前の名詞を修飾）。後者は**私が歌っている**（ジェロンディフの主語は必ず主節の主語）。en の有無で、歌っている人が入れ替わる。
-
-Q. une histoire intéressante と une femme chantant une chanson で、なぜ一方だけ一致するのですか。
-A. intéressante は**形容詞的分詞**で性質を表すので一致する。chantant は**現在分詞**で動作を表し、動詞としての性質を保っているので一致しない。目的語（une chanson）を取っていることが現在分詞である証拠。
-
-Q. ジェロンディフの主語は誰ですか。
-A. **必ず主節の主語と同じ**。これがジェロンディフの決定的な規則で、現在分詞（直前の名詞を修飾する）との違いを生んでいる。
-
-Q. 「歌うことは楽しい」を Chantant est amusant. と書けますか。
-A. 書けない。フランス語で動名詞にあたるのは**不定詞**なので、正しくは **Chanter est amusant.** 英語の -ing が現在分詞・動名詞・進行形を兼ねるのに対し、フランス語では役割が分かれている。
-
-Q. C'est en forgeant qu'on devient forgeron. には、どの文法項目が使われていますか。
-A. 第22章の**強調構文**（c'est … que）と、この章の**手段のジェロンディフ**（en forgeant）。「鍛冶をすることによってこそ鍛冶屋になる」＝習うより慣れよ、という諺。
-:::
 
 :::ai-gen 現在分詞、ジェロンディフ、形容詞的分詞の区別
+
+## 11. 過去分詞の分詞構文 — 書き言葉のもう一つの圧縮
+
+現在分詞（-ant）が能動の圧縮なら、**過去分詞を単独で使う分詞構文**は受動・完了の圧縮です。書き言葉で頻出します。
+
+:::ex 過去分詞の分詞構文
+Fatiguée, elle s'est couchée tôt. | ファティゲ・エ・ル・セ・クシェ・ト | 疲れていたので、彼女は早く寝た。
+Écrite en 1850, cette lettre est précieuse. | エクリット・アン・ミル・ユイ・サン・サンカント | 1850年に書かれたこの手紙は貴重だ。
+Une fois arrivés, nous avons déjeuné. | ユヌ・フォワ・ザリヴェ・ヌー・ザヴォン・デジュネ | 着いてすぐ、私たちは昼食をとった。
+Assis au premier rang, il voyait tout. | アスィ・オ・プルミエ・ラン | 最前列に座っていたので、彼にはすべて見えた。
+:::
+
+**主語に性数一致します**（Fatigué**e**、arrivé**s**）。意味上の主語は主節の主語と一致しなければならず、この点は現在分詞と同じです（§8の「ぶら下がり分詞」）。
+
+**複合形の分詞構文**もあります。
+
+- **Ayant fini** son travail, il est sorti.（仕事を終えて、彼は出かけた）
+- **Étant arrivé** en retard, il n'a pas pu entrer.（遅れて着いたので、入れなかった）
+
+ayant / étant + 過去分詞で「〜し終えて／〜してしまったので」を表します。**étant はしばしば省略**され、Arrivé en retard, il n'a pas pu entrer. となります——上の Une fois arrivés と同じ形です。
+
+:::note 分詞構文の3段階
+| 形 | 意味 | 文体 |
+|---|---|---|
+| **en + 現在分詞**（ジェロンディフ） | 同時・手段・条件 | 話し言葉でも可 |
+| **現在分詞のみ** | 理由・付帯状況 | 書き言葉 |
+| **過去分詞のみ** | 完了・受動の理由 | 書き言葉 |
+
+**ジェロンディフだけが会話で使われ、残る2つは書き言葉専用**——これが実用上の切り分けです。読解では3つとも頻出するので、-ant が単独で出たら「理由か付帯状況」、過去分詞が単独で出たら「完了か受動の理由」と反応してください。
+:::
 
 ## この章の語彙
 
 :::vocab 第29章の語彙
+tout en + ジェロンディフ | 構文 | 〜しながらも
+sans + 不定詞 | 構文 | 〜せずに
+furieux / furieuse | adj. | 激怒した
+forger | v. | 鍛える
+forgeron | n.m. | 鍛冶屋
+à temps | loc. | 間に合って
 en + 現在分詞 | 構文 | 〜しながら（ジェロンディフ）
 étant | p.prés. | être の現在分詞
 ayant | p.prés. | avoir の現在分詞

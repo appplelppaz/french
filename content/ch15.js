@@ -281,7 +281,27 @@ décembre | デサンブル | 12月
 **Quel jour sommes-nous ?**（今日は何曜日ですか）や **Quelle est la date ?**（今日は何日ですか）で尋ねます。
 :::
 
-## 8. 挨拶と天気 — 実際の会話へ
+## 8. il faut の全時制 — 「必要」の言い分け
+
+:::deep il faut を時制で使いこなす
+il faut は falloir の3人称単数しかない動詞ですが、**時制はすべて揃っています**。日常会話での頻度が非常に高いので、まとめて手に入れてください。
+
+| 形 | 意味 |
+|---|---|
+| Il **faut** partir. | 出発しなければ |
+| Il **fallait** le dire ! | 言ってくれればよかったのに！（半過去） |
+| Il **a fallu** tout refaire. | 全部やり直すはめになった（複合過去） |
+| Il **faudra** réserver. | 予約が必要になるだろう（未来） |
+| Il **faudrait** réserver. | 予約したほうがいいのでは（条件法＝提案） |
+| Il **aurait fallu** partir plus tôt. | もっと早く出るべきだった（条件法過去＝後悔） |
+
+**Il fallait le dire !**（言ってよ！）と **Il faudrait + 不定詞**（〜したほうがいいのでは）は会話の定番です。il faut que + 接続法（第31章）と il faut + 不定詞の使い分け——**主語を特定するなら que + 接続法、一般論なら不定詞**——もここで意識しておくと、第31章が楽になります。
+
+- Il faut **partir**.（（一般に／私たちは）出発しないと）
+- Il faut **que je parte**.（**私は**出発しないと）
+:::
+
+## 9. 挨拶と天気 — 実際の会話へ
 
 天気の話題はフランスでも定番の世間話です。
 
@@ -294,33 +314,50 @@ Il a fait très chaud hier. | イラ・フェ・トレ・ショー・イエー�
 
 **Il va pleuvoir.** は第11章の近接未来です。非人称動詞でも近接未来が作れます。
 
-## 練習問題
-
-:::quiz
-Q. Il pleut. の il が非人称であることを、どう証明しますか。
-A. 他の主語に置き換えられないことで証明する。× Le ciel pleut. とは言えない。一方、Il est grand. の il は Pierre est grand. に置き換えられるので人称の il。置き換え可能かどうかが判定基準。
-
-Q. Il fait chaud. と Il fait du vent. で、なぜ後ろの形が違うのですか。
-A. 前者は **il fait + 形容詞**（状態を述べる）、後者は **il fait du + 名詞**（部分冠詞。あるモノの量を述べる）。フランス語では風・太陽・霧といった天候の要素を、数えられない物質のように扱う。
-
-Q. Il faut partir. と Il faut que tu partes. の違いは何ですか。
-A. 前者は不定詞で、誰にでも当てはまる一般的な必要性。後者は que 節で、特定の主語（tu）に対する要求。que 節では接続法が必要になる（第31章）。
-
-Q. 80 と 81 で、quatre-vingt の綴りはどう変わりますか。
-A. 80 ちょうどは quatre-vingt**s**（s が付く）、81 以降は quatre-vingt-un（s が落ちる）。「後ろに数が続くと s が落ちる」という規則で、cent にも同じ規則が適用される（deux cents / deux cent un）。
-
-Q. 「4時半です」を Il est quatre heures et demi. と書くのはなぜ誤りですか。
-A. heure が女性名詞なので、demi も女性形 demi**e** で一致させる必要がある。正しくは Il est quatre heures et **demie**. ただし midi / minuit は男性名詞なので midi et demi となる。
-
-Q. 「7月14日」をフランス語で書いてください。また、「1月1日」はどうなりますか。
-A. le 14 juillet（le + 基数 + 月）。1日だけは序数を使い le 1er janvier（le premier janvier）。2日以降はすべて基数。月名は小文字で書く。
-:::
 
 :::ai-gen 非人称構文、天候表現、il faut、時刻と日付
+
+## 10. 非人称構文の全体像 — il が指さない7つの型
+
+非人称の il は、天気と il faut だけではありません。**主語の位置を埋めるためだけに置かれる il** の全用法を整理します。
+
+| 型 | 例 | 意味 |
+|---|---|---|
+| **天候** | Il pleut. / Il fait beau. | 雨が降る／いい天気だ |
+| **時刻** | Il est trois heures. | 3時です |
+| **必要** | Il faut partir. | 出発しなければ |
+| **存在** | Il y a du monde. | 人がいる |
+| **評価 + de + 不定詞** | Il est important de dormir. | 眠ることは大切だ |
+| **評価 + que + 接続法** | Il est possible qu'il vienne. | 彼が来るかもしれない |
+| **出来事の提示** | Il est arrivé un accident. | 事故が起きた |
+| **残り・不足** | Il reste dix euros. / Il manque une chaise. | 10ユーロ残っている／椅子が1脚足りない |
+
+:::ex 非人称構文のいろいろ
+Il est difficile de tout comprendre. | イ・レ・ディフィスィル・ドゥ・トゥ・コンプランドル | すべてを理解するのは難しい。
+Il vaut mieux attendre. | イル・ヴォ・ミュー・ザタンドル | 待ったほうがいい。
+Il s'agit d'un malentendu. | イル・サジ・ダン・マランタンデュ | これは誤解の問題です。
+Il paraît qu'il va démissionner. | イル・パレ・キル・ヴァ・デミスィヨネ | 彼は辞任するらしい。
+Il reste encore du temps. | イル・レスト・アンコール・デュ・タン | まだ時間が残っている。
+:::
+
+**il s'agit de**（〜が問題である・〜のことだ）と **il paraît que**（〜らしい）は、書き言葉・話し言葉の両方で頻出します。とくに **il s'agit de** は主語を持てない動詞で、「これは何の話か」を導入する定型です。
+
+:::warn 意味上の主語は後ろに置かれる
+**Il reste dix euros.** の「10ユーロ」は意味の上では主語ですが、**動詞の後ろ**に置かれ、動詞は il に合わせて**常に単数**です。
+
+- ○ Il **reste** dix euros.（× Il restent）
+- ○ Il **est arrivé** trois personnes.（3人が到着した——文語的）
+
+この「後ろに置かれた意味上の主語」を**論理主語**と呼びます。il が文法上の主語、後ろの名詞が論理主語という二重構造で、フランス語が**主語の位置を空にできない**言語であることの現れです（第3章）。
+:::
 
 ## この章の語彙
 
 :::vocab 第15章の語彙
+Il fallait le dire ! | 表現 | 言ってくれればよかったのに
+il faudrait | 表現 | 〜したほうがいいのでは
+réserver | v. | 予約する
+refaire | v. | やり直す
 il faut | v. | 〜しなければならない
 pleuvoir | v. | 雨が降る
 neiger | v. | 雪が降る

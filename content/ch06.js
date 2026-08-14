@@ -226,7 +226,36 @@ un grand homme が「偉人」になるのは、grand が身長という物理�
 （économique が politique と強く結びつき、その全体を française が修飾する）
 :::
 
-## 9. 副詞への転換
+## 9. 色と国籍 — 実務で最初に必要な形容詞群
+
+:::deep 色の形容詞の特殊規則
+色は形容詞の代表ですが、2つの例外規則があります。
+
+**（1）名詞由来の色は不変化**
+
+orange（オレンジ）、marron（栗＝茶色）など、**物の名前をそのまま色に使ったものは一致しません**。
+
+- des chaussures **marron**（茶色い靴——marron のまま）
+- des robes **orange**（オレンジのドレス）
+
+一致する普通の色（bleu / vert / noir / blanc / rouge / jaune / gris）と区別してください。
+
+**（2）複合色も不変化**
+
+- des yeux **bleu clair**（明るい青の目——bleu**s** としない）
+- une jupe **vert foncé**（深緑のスカート）
+
+clair（明るい）/ foncé（濃い）が付くと全体が不変化になります。
+
+**国籍の形容詞**は小文字で書きます（名詞として「〜人」を言うときは大文字）。
+
+- Elle est **japonaise**.（形容詞・小文字）
+- C'est une **Japonaise**.（名詞・大文字）
+
+日本語話者は大文字小文字の区別を落としがちですが、フランス語では**形容詞は常に小文字**です（英語の Japanese と違う点）。
+:::
+
+## 10. 副詞への転換
 
 :::deep 形容詞から副詞を作る
 **女性形に -ment を付ける**のが基本規則です。
@@ -249,33 +278,68 @@ un grand homme が「偉人」になるのは、grand が身長という物理�
 - [[Elle chante bien.\|エル・シャント・ビアン\|彼女は上手に歌う。]]（副詞 → 一致しない）
 :::
 
-## 練習問題
-
-:::quiz
-Q. un vieil homme はなぜ vieux ではなく vieil なのですか。
-A. beau / nouveau / vieux は、母音または無音の h で始まる男性名詞の前でのみ、bel / nouvel / vieil という特別な形を取る。母音の衝突を避けて発音を滑らかにするためで、エリジオン・リエゾンと同じ原理。複数形では通常の形に戻る（de vieux hommes）。
-
-Q. un grand homme と un homme grand は、それぞれどういう意味ですか。
-A. un grand homme は「偉人」（前置＝主観的・比喩的な評価）、un homme grand は「背の高い男」（後置＝客観的な性質）。この対立は ancien, cher, pauvre, propre, seul などにも共通する。
-
-Q. bon の女性形が bonne になると、なぜ発音が「ボン」から「ボンヌ」に変わるのですか。
-A. n が重なることで鼻母音の条件（n の後ろに母音字が来ない、n が重なっていない）を満たさなくなるため。第0章の鼻母音の規則がそのまま効いている。italien → italienne も同じ。
-
-Q. des livres intéressants と de beaux livres で、なぜ冠詞が違うのですか。
-A. 複数の不定冠詞 des は、形容詞が名詞の前に置かれると de に変わる（書き言葉の規則）。intéressant は後置なので des のまま、beau は前置なので de になる。
-
-Q. 「彼女は上手に歌う」を Elle chante bonne. と書くのはなぜ誤りですか。
-A. 動詞を修飾するのは副詞であり、形容詞ではないため。bon の副詞形は不規則で bien。正しくは Elle chante bien. 副詞は性数一致しない。
-
-Q. évidemment はどう発音しますか。また、どの形容詞から作られていますか。
-A. 「エヴィダマン」。-ent で終わる形容詞 évident から、-emment を付けて作られる。-amment（constant → constamment）と -emment（évident → évidemment）は綴りが違うが、どちらも「アマン」と発音される。
-:::
 
 :::ai-gen 形容詞の性数一致、形容詞の位置、位置で意味が変わる形容詞
+
+## 11. 前置形容詞の中身 — BAGS で整理する
+
+名詞の前に置く形容詞（§6）は、英語圏の教室で **BAGS** と呼ばれる4グループで整理されています。
+
+| 頭文字 | グループ | 形容詞 |
+|---|---|---|
+| **B**eauty（美） | 美しさ | beau, joli |
+| **A**ge（年齢） | 新旧・老若 | jeune, vieux, nouveau, ancien |
+| **G**oodness（善悪） | 良し悪し | bon, mauvais, meilleur |
+| **S**ize（大小） | 大きさ | grand, petit, gros, long, haut |
+
+これに **premier / dernier / autre / même**（順序・同一性）を加えれば、前置形容詞はほぼ網羅できます。**短くて頻度が高く、評価的な意味**——という共通点があり、名詞と一体化して1つの概念を作ります（une **petite** maison「小さな家」はほぼ1語の感覚）。
+
+:::warn 前置形容詞の前では des が de になる
+複数の前置形容詞の前では、不定冠詞 **des が de に**変わります（第2章）。
+
+- des idées → **de bonnes** idées（よい考え）
+- des amis → **de vieux** amis（旧友）
+- des fleurs → **de jolies** fleurs（きれいな花）
+
+話し言葉では des bonnes idées も聞かれますが、**書き言葉では de** が規範です。なお「形容詞 + 名詞」が熟語化している場合は des のまま：des **jeunes gens**(若者たち)、des **petits pois**（グリーンピース）。熟語は1つの名詞扱いになるからです。
+:::
+
+## 12. 形容詞の副詞的用法と最上級の位置
+
+**（1）不変化で副詞になる形容詞**（第6.5章§4の予告）
+
+- parler **fort / bas**、coûter **cher**、sentir **bon**、travailler **dur**、chanter **juste / faux**
+
+動詞に直接付くとき、これらは**一致しません**：Elles parlent **fort**.（× fortes）。形容詞の形をした副詞なので、動詞にかかっていることを確認してください。
+
+**（2）最上級の位置は形容詞の定位置に従う**（第14章の先取り）
+
+最上級 le plus / le moins + 形容詞は、**その形容詞が本来置かれる位置**に置かれます。
+
+| 形容詞の位置 | 最上級 | 例 |
+|---|---|---|
+| 後置形容詞 | 名詞の後（定冠詞が2回） | la ville **la plus** belle de France |
+| 前置形容詞 | 名詞の前（定冠詞は1回） | **la plus** belle ville de France |
+
+**beau は前置形容詞**なので la plus belle ville が自然ですが、後置しても文法的には正しく、その場合 la ville la plus belle と定冠詞が2つ現れます。**intéressant のような後置形容詞では必ず2つ**になります：le livre **le plus** intéressant。
+
+:::ex 最上級と位置
+C'est la plus grande ville du pays. | セ・ラ・プリュ・グランド・ヴィル・デュ・ペイ | 国で一番大きな町だ。（前置）
+C'est le film le plus intéressant de l'année. | セ・ル・フィルム・ル・プリュ・ザンテレサン | 今年一番面白い映画だ。（後置・定冠詞2つ）
+Il a acheté la voiture la moins chère. | ラ・ヴォワチュール・ラ・モワン・シェール | 彼は一番安い車を買った。
+:::
+
+**「〜の中で」は de** で表します（× dans）：le plus grand **de** la classe（クラスで一番大きい）。英語の in と違うので注意してください。
 
 ## この章の語彙
 
 :::vocab 第6章の語彙
+marron | adj. | 茶色の（不変化）
+orange | adj. | オレンジ色の（不変化）
+clair / claire | adj. | 明るい
+foncé / foncée | adj. | 濃い
+jupe | n.f. | スカート
+chaussure | n.f. | 靴
 grand / grande | adj. | 大きい、背が高い
 petit / petite | adj. | 小さい
 bon / bonne | adj. | 良い

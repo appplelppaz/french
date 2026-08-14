@@ -219,7 +219,74 @@ Ce sont les moins chers. | ス・ソン・レ・モワン・シェール | そ�
 この ne に否定の意味はありません。**書き言葉・改まった文体でのみ**現れます。話し言葉では省略されます。
 :::
 
-## 6. まとめの表
+## 6. 比較の細部 — 大学レベルの4点
+
+:::deep 押さえておきたい細部
+
+**（1）que の後の代名詞は強勢形**
+
+[[Il est plus grand que moi.|イ・レ・プリュ・グラン・ク・モワ|彼は私より背が高い。]]（× que je）
+
+比較の que の後ろは強い位置なので強勢形です（第19章）。
+
+**（2）比較の従属節では虚辞の ne**
+
+[[C'est plus difficile que je ne pensais.|セ・プリュ・ディフィスィル・ク・ジュ・ヌ・パンセ|思っていたより難しい。]]
+
+que の後ろに**文**が来ると、書き言葉では否定でない **ne**（虚辞の ne、第31.5章）が入ります。「思っていたほどではない」という含みの名残で、話し言葉では落ちます。
+
+**（3）数量の差を示す — de**
+
+[[Il est plus âgé que moi de trois ans.|イ・レ・プリュ・ザジェ・ク・モワ・ドゥ・トロワ・ザン|彼は私より3歳年上だ。]]
+[[C'est 10 euros de plus.|セ・ディ・ズーロ・ドゥ・プリュス|10ユーロ高い。]]
+
+差の大きさは **de** で導きます。**de plus / de moins**（〜多く／少なく）は価格・年齢の会話で頻出です。
+
+**（4）比較級を強める語**
+
+「ずっと〜」「はるかに〜」は **beaucoup / bien / encore + plus** で作ります。
+
+- [[C'est beaucoup plus cher.|セ・ボクー・プリュ・シェール|ずっと高い。]]
+- [[Elle chante bien mieux que moi.|エル・シャント・ビヤン・ミュー・ク・モワ|彼女は私よりずっと歌がうまい。]]
+- [[C'est encore pire.|セ・タンコール・ピール|なおさら悪い。]]
+
+**pire**（plus mauvais の不規則形）は抽象的な「悪さ」に使い、具体的な品質には plus mauvais も使えます。**C'est pire.**（もっとひどい）、**de pire en pire**（ますます悪く）は口語頻出。
+
+**（5）進行の比較 — de plus en plus**
+
+- [[Il fait de plus en plus chaud.|イル・フェ・ドゥ・プリュ・ザン・プリュ・ショ|ますます暑くなってきた。]]
+- [[de moins en moins|ドゥ・モワン・ザン・モワン|ますます〜でなく]]
+
+**plus … plus …**（〜すればするほど）とあわせて、変化を語る道具です：[[Plus je le connais, plus je l'apprécie.|プリュ・ジュ・ル・コネ・プリュ・ジュ・ラプレスィ|知れば知るほど彼が好きになる。]]（文頭の plus に冠詞・que は不要）
+:::
+
+## 7. 「同じ」「違う」「〜みたい」 — 比較の親戚
+
+比較級の周辺には、同一性・類似を言う道具がそろっています。
+
+| 表現 | 意味 | 例 |
+|---|---|---|
+| **le même / la même … que** | 〜と同じ… | J'ai la même veste que toi. |
+| **comme** | 〜のように | Il parle comme un Parisien. |
+| **pareil / pareille** | 同じような | C'est pareil.（同じことだよ） |
+| **différent(e) de** | 〜と違う | C'est différent du Japon. |
+| **ressembler à** | 〜に似ている | Elle ressemble à sa mère. |
+| **on dirait** | まるで〜みたい | On dirait son frère. |
+
+:::ex 同じ・違う・似ている
+J'ai la même veste que toi ! | ジェ・ラ・メーム・ヴェスト・ク・トワ | 君と同じ上着持ってる！
+C'est pareil. / Ce n'est pas pareil. | セ・パレイユ | 同じだよ。／それとこれとは話が別。
+Elle ressemble beaucoup à sa mère. | エル・ルサンブル・ボクー・ア・サ・メール | 彼女は母親によく似ている。
+On dirait un rêve. | オン・ディレ・アン・レーヴ | まるで夢みたいだ。
+Il fait doux pour la saison. | イル・フェ・ドゥ・プール・ラ・セゾン | 季節のわりに暖かい。
+:::
+
+- **le même … que**：même の比較対象も que で導く（第10.5章の même）
+- **Ce n'est pas pareil.**（それは話が別）は反論の定番
+- **on dirait + 名詞**（まるで〜みたい）は dire の条件法（第30章）から来た比喩の定型
+- **pour + 名詞**（〜のわりに）は基準ずらしの比較：grand pour son âge（年のわりに大きい）
+
+## 8. まとめの表
 
 :::note 比較・最上級・一覧
 | 比べる対象 | 優等 | 同等 | 劣等 |
@@ -239,33 +306,47 @@ Ce sont les moins chers. | ス・ソン・レ・モワン・シェール | そ�
 - 範囲は **de**（× dans）
 :::
 
-## 練習問題
-
-:::quiz
-Q. Ce vin est mieux que l'autre. はなぜ誤りですか。
-A. être の後ろに来て主語を説明しているので、必要なのは形容詞。bien（副詞）の比較級 mieux ではなく、bon（形容詞）の比較級 **meilleur** を使う。正しくは Ce vin est **meilleur** que l'autre.
-
-Q. 「彼は私と同じくらい本を持っている」を言ってください。
-A. Il a **autant de** livres que moi. 名詞を比べるので aussi ではなく autant、さらに数量表現なので de が入り、後ろは無冠詞になる。
-
-Q. Elle chante le mieux. の le は、なぜ la にならないのですか。
-A. mieux は副詞であり、副詞には性がないため定冠詞は常に le。主語が女性でも複数でも変わらない。形容詞の最上級（Elle est la meilleure.）と混同しないこと。
-
-Q. la fille la plus intelligente で、なぜ la が2回出るのですか。
-A. intelligente は後置形容詞なので、名詞の限定詞としての la と、最上級の標識としての la が別々に必要になるため。前置形容詞なら1つで済む（la plus belle fille）。
-
-Q. le plus grand dans le monde はなぜ誤りですか。
-A. 最上級の範囲を表すのは常に前置詞 **de**。「世界で」だから dans と考えたくなるが、正しくは le plus grand **du** monde。
-
-Q. Je n'en veux plus. と Moi, j'en veux plus. は、どう聞き分けますか。
-A. plus の s を発音するかどうか。否定の ne … plus では s を読まず「プリュ」、数量の plus（もっと）は文末で s を読み「プリュス」。話し言葉では ne が落ちるため、**s の有無だけが「もう要らない」と「もっと欲しい」を区別する**ことになる。
-:::
 
 :::ai-gen 比較級と最上級、meilleur と mieux の使い分け
+
+## 9. 数量の比較 — plus de と plus que
+
+比較の対象が**数量**になると、que と de の区別が必要になります。
+
+| 形 | 意味 | 例 |
+|---|---|---|
+| **plus de + 数詞** | 〜より多い（数量そのもの） | Il a **plus de** trente ans.（30歳を超えている） |
+| **plus que + 名詞** | 〜より多く（比較の相手） | Il travaille **plus que** moi.（私より働く） |
+| **plus de + 名詞 + que** | 〜より多くの… | J'ai **plus de** livres **que** toi. |
+
+:::ex 数量の比較
+Il y a plus de cent personnes. | イ・リ・ヤ・プリュ・ドゥ・サン・ペルソンヌ | 100人以上いる。
+Ça coûte moins de dix euros. | サ・クート・モワン・ドゥ・ディ・ズーロ | 10ユーロ未満だ。
+J'ai plus de travail que lui. | ジェ・プリュ・ドゥ・トラヴァイユ・ク・リュイ | 私は彼より仕事が多い。
+Elle a autant de patience que sa mère. | エラ・オータン・ドゥ・パスィヤンス・ク・サ・メール | 彼女は母親と同じくらい辛抱強い。
+:::
+
+**数詞の前は必ず de**（plus de trois、moins de dix）です。× plus que trois とは言いません。「〜以上／未満」という数の話だからです。
+
+**同等比較の3つ**も整理します。
+
+| 修飾する相手 | 形 | 例 |
+|---|---|---|
+| 形容詞・副詞 | **aussi … que** | aussi grand que toi |
+| 名詞 | **autant de … que** | autant de livres que toi |
+| 動詞 | **autant que** | Il travaille autant que moi. |
+
+**aussi は形容詞・副詞、autant は名詞・動詞**——第6.5章で見た très / beaucoup の対立とまったく同じ分業です。「とても」の très / beaucoup、「同じくらい」の aussi / autant——フランス語は**修飾する相手で語を変える**言語だ、という原則がここでも働いています。
 
 ## この章の語彙
 
 :::vocab 第14章の語彙
+pire | adj. | より悪い（mauvais の比較級）
+de plus en plus | loc. | ますます
+de moins en moins | loc. | ますます〜でなく
+de pire en pire | loc. | ますます悪く
+âgé / âgée | adj. | 年をとった
+apprécier | v. | 高く評価する、好む
 plus | adv. | より多く
 moins | adv. | より少なく
 aussi | adv. | 同じくらい、〜も
