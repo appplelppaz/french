@@ -849,3 +849,76 @@ body {
   .chapter { max-width: none; }
   .quiz-a[hidden] { display: block !important; }
 }
+
+/* ---------- 手書き練習パッド ---------- */
+
+.scribble-wrap { margin-top: 14px; text-align: center; }
+.scribble {
+  margin: 10px auto 0; max-width: 560px; text-align: left;
+}
+.scribble-stage {
+  position: relative;
+  background: var(--surface);
+  border: 1px dashed var(--border-strong);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+.scribble-ghost {
+  position: absolute; inset: 0;
+  display: flex; align-items: center; justify-content: center;
+  font-family: var(--font-fr); font-size: 52px; font-style: italic;
+  color: var(--text); opacity: .16;
+  pointer-events: none; user-select: none;
+  white-space: nowrap;
+}
+.scribble-canvas {
+  display: block; position: relative;
+  touch-action: none;           /* スクロールに取られず、線として拾う */
+  cursor: crosshair;
+}
+.scribble-bar {
+  display: flex; gap: 8px; align-items: center; margin-top: 8px;
+}
+.scribble-hint { font-size: 11.5px; color: var(--text-dim); margin-left: auto; }
+
+/* ---------- タッチ端末（iPad・スマートフォン） ---------- */
+
+/* hover が使えない端末では、hover でしか出ない印を常時うっすら出す */
+@media (hover: none) {
+  .conj-play { opacity: .35; }
+  #search-input { transition: none; }
+}
+
+/* 指で操作する端末は、タップ標的を Apple HIG の 44pt 目安に近づける */
+@media (pointer: coarse) {
+  .iconbtn { width: 44px; height: 44px; }
+  .playbtn { width: 34px; height: 34px; margin-top: 0; }
+  .exlist li { padding-top: 10px; padding-bottom: 10px; }
+  .conj-rows li { padding-top: 8px; padding-bottom: 8px; }
+  .btn-mini { padding: 6px 14px; font-size: 12.5px; }
+  .quiz-reveal { padding: 8px 18px; font-size: 13.5px; }
+  .toc a { padding-top: 8px; padding-bottom: 8px; }
+  .sidebar-link { padding-top: 10px; padding-bottom: 10px; }
+  .field select, .field input[type="text"], .field input[type="password"] {
+    min-height: 44px; font-size: 16px;   /* 16px 未満だと iOS が画面を拡大してしまう */
+  }
+  .drill-input { min-height: 52px; font-size: 22px; }
+  .drill-accents button { min-width: 40px; min-height: 40px; font-size: 17px; }
+  .drill-choice { min-height: 48px; }
+  .chapter-nav a { padding-top: 14px; padding-bottom: 14px; }
+}
+
+/* ---------- iPad のセーフエリア（ホーム画面追加・横持ち） ---------- */
+
+.topbar {
+  padding-left: calc(10px + env(safe-area-inset-left));
+  padding-right: calc(10px + env(safe-area-inset-right));
+}
+.layout {
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
+}
+.main { padding-bottom: calc(100px + env(safe-area-inset-bottom)); }
+@media (max-width: 860px) {
+  .sidebar { padding-bottom: calc(24px + env(safe-area-inset-bottom)); }
+}

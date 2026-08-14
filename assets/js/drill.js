@@ -246,6 +246,9 @@
       input.autocapitalize = 'off';
       input.autocomplete = 'off';
       input.spellcheck = false;
+      /* iPadOS の Scribble（Apple Pencil の手書き入力）でそのまま書き込める。
+         自動修正が働くと手書きした活用形が英単語に置き換えられるので切る */
+      input.setAttribute('autocorrect', 'off');
       input.setAttribute('aria-label', '活用形を入力');
       row.appendChild(input);
 
@@ -268,6 +271,27 @@
         acc.appendChild(b);
       });
       body.appendChild(acc);
+
+      /* 手書き練習パッド（Apple Pencil / 指）。開いたときだけ作る */
+      if (FR.scribble) {
+        var padWrap = el('div', 'scribble-wrap');
+        var padBtn = el('button', 'btn-mini scribble-toggle', '手書きで練習');
+        padBtn.type = 'button';
+        var pad = null;
+        padBtn.addEventListener('click', function () {
+          if (!pad) {
+            pad = FR.scribble.create(function () { return current ? current.answer : ''; });
+            padWrap.appendChild(pad);
+            padBtn.textContent = '手書きを閉じる';
+          } else {
+            pad.remove();
+            pad = null;
+            padBtn.textContent = '手書きで練習';
+          }
+        });
+        padWrap.appendChild(padBtn);
+        body.appendChild(padWrap);
+      }
 
       function submit() {
         if (answered) return;
