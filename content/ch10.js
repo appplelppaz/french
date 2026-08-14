@@ -130,6 +130,24 @@ ma amie では母音がぶつかって言いにくいためです。cet と同�
 [[Ses longs cheveux noirs\|セ・ロン・シュヴー・ノワール\|彼女の長い黒髪]]
 :::
 
+:::deep 所有形容詞の語法あれこれ
+**（1）vous が敬称単数のときは votre / vos**
+
+相手が一人でも、vous で話しているなら所有形容詞は votre / vos です（× ton / ta）。呼び方と所有形容詞の人称は必ず揃えます。tu と vous を混ぜるのは失礼にあたります。
+
+**（2）on の所有形容詞は son / sa / ses**
+
+on（人は・私たちは）を受けるのは規範では son 系です：**On a ses habitudes.**（人にはそれぞれ習慣がある）。「私たち」の意味の on では notre / nos も使われます：On a pris notre voiture.（うちらの車で行った——話し言葉）。
+
+**（3）配分の chacun … son**
+
+[[Chacun a ses défauts.\|シャカン・ア・セ・デフォ\|誰にでも欠点はある。]]——chacun（それぞれ）は単数扱いなので son / sa / ses で受けます（第10.5章）。
+
+**（4）親愛の mon**
+
+軍隊・改まった呼びかけの **mon** colonel（大佐殿）、また **mon chéri / ma chérie**（愛しい人）、**mon vieux**（おまえ・相棒——くだけた呼びかけ）のように、所有形容詞は呼びかけにも使われます。意味は「私の」から離れて、親しさ・敬意の印になっています。
+:::
+
 ## 3. 疑問形容詞 — quel / quelle / quels / quelles
 
 「どの〜」「なんという〜」を表します。**4つの形はすべて同音**（「ケル」）です。
@@ -167,6 +185,36 @@ Quels beaux yeux ! | ケル・ボー・ズィユ | なんて美しい目だろ�
 :::
 
 英語の What a beautiful day! では a が入りますが、**フランス語では冠詞不要**です（× Quel un beau temps !）。
+
+感嘆の quel は日常会話の定型を多く作ります。**そのまま使える形**で覚えてください。
+
+| 表現 | 意味 |
+|---|---|
+| [[Quel dommage !\|ケル・ドマージュ]] | なんて残念！ |
+| [[Quelle chance !\|ケル・シャンス]] | なんて運がいい！ |
+| [[Quelle horreur !\|ケ・ロルール]] | ひどい！ |
+| [[Quelle bonne idée !\|ケル・ボンヌ・イデ]] | いい考えだね！ |
+| [[Quel monde !\|ケル・モンド]] | すごい人出だ！ |
+:::
+
+:::note quel のその他の顔
+**（1）間接疑問の中の quel**
+
+[[Je ne sais pas quelle heure il est.\|ジュ・ヌ・セ・パ・ケ・ルー・リ・レ\|何時か分かりません。]]
+
+疑問文がそのまま従属節に入る形です（第27.6章）。quel の一致は変わりません。
+
+**（2）n'importe quel — どんな〜でも**
+
+[[Tu peux venir à n'importe quelle heure.\|チュ・プ・ヴニール・ア・ナンポルト・ケ・ルール\|何時に来てもいいよ。]]
+
+n'importe（どれでも構わない）+ quel で「任意の」を表します。第10.5章の n'importe qui / quoi と同じ仲間です。
+
+**（3）quel que + être の接続法 — 〜がどうであれ**
+
+[[Quel que soit le prix, j'achète.\|ケル・ク・ソワ・ル・プリ・ジャシェット\|値段がどうであれ、買います。]]
+
+書き言葉寄りの譲歩表現で、quel は主語（le prix）に性数一致します。第31.5章で扱います。
 :::
 
 ## 4. 限定詞は重ねられない
@@ -223,6 +271,18 @@ A. 感嘆の quel の後ろには冠詞を付けないため。正しくは Quel
 
 Q. 「私の友人の一人」を un mon ami と言えないのはなぜですか。
 A. 冠詞と所有形容詞はどちらも限定詞であり、名詞ひとつにつき1個しか置けないため。正しくは un ami à moi または un de mes amis。なお tout は限定詞ではないので前に置ける（tous mes amis）。
+
+Q. 「なんて残念！」を quel を使って言ってください。感嘆の quel の冠詞の扱いも述べてください。
+A. **Quel dommage !** 感嘆の quel には**冠詞を付けない**（× Quel un dommage）。英語の What a pity! と違って a にあたるものが入らない。Quelle chance !（なんて運がいい）、Quelle bonne idée !（いい考え）も同じ型。
+
+Q. 相手一人に vous で話しているとき、所有形容詞はどれを使いますか。
+A. **votre / vos**。敬称の vous でも所有形容詞は2人称複数の系列で揃える。tu で話しながら votre を使う、あるいはその逆は、呼び方の混在として失礼にあたる。
+
+Q. n'importe quelle heure の n'importe quel はどういう意味ですか。
+A. 「**どんな〜でも、任意の**」。n'importe（どれでも構わない）+ quel の組み合わせで、quel は名詞に性数一致する（à n'importe quelle heure 何時でも）。n'importe qui / quoi / où（第10.5章）と同じ仲間。
+
+Q. Quel que soit le prix, j'achète. の quel que は何をしていますか。
+A. 「**〜がどうであれ**」という譲歩。quel que + être の接続法で、quel は主語に性数一致する（Quelles que soient tes raisons …）。書き言葉寄りの表現で、第31.5章の譲歩構文の仲間。
 :::
 
 :::ai-gen 指示形容詞、所有形容詞、疑問形容詞 quel
@@ -230,6 +290,12 @@ A. 冠詞と所有形容詞はどちらも限定詞であり、名詞ひとつ�
 ## この章の語彙
 
 :::vocab 第10章の語彙
+Quel dommage ! | 表現 | なんて残念！
+Quelle chance ! | 表現 | なんて運がいい！
+n'importe quel / quelle | adj. | どんな〜でも
+chacun / chacune | pron. | それぞれ
+habitude | n.f. | 習慣
+mon chéri / ma chérie | 表現 | 愛しい人（呼びかけ）
 ce / cet / cette / ces | adj. | この、その、あの
 mon / ma / mes | adj. | 私の
 ton / ta / tes | adj. | 君の

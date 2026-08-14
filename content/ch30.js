@@ -124,6 +124,39 @@ Si j'avais eu le temps, je serais venu. | スィ・ジャヴェ・ウ・ル・�
 
 si 節は大過去（過去の反実）、主節は条件法現在（現在の帰結）です。
 :::
+
+### ①のバリエーション — 主節は未来形とは限らない
+
+パターン①（si + 現在）の主節には、未来形のほかに**現在形・命令形**も置けます。
+
+:::ex si + 現在の主節いろいろ
+Si tu veux, on part maintenant. | スィ・チュ・ヴ・オン・パール・マントゥナン | よければ、今出発しよう。（主節＝現在）
+Si tu as faim, mange quelque chose. | スィ・チュ・ア・ファン・マンジュ・ケルク・ショーズ | お腹が空いてるなら、何か食べなさい。（主節＝命令）
+S'il pleut, on reste à la maison. | スィル・プルー・オン・レスト・ア・ラ・メゾン | 雨なら家にいるよ。（主節＝現在）
+:::
+
+**Si tu veux**（よければ）と **si possible**（可能なら）は、そのまま会話の潤滑油として使える定型です。
+
+### si を使わない条件の言い方
+
+ネイティブは si 節ばかり使うわけではありません。**句や副詞で条件を圧縮する**言い方が同じくらい使われます。
+
+| 手段 | 例 | 意味 |
+|---|---|---|
+| **sinon** | Dépêche-toi, **sinon** tu vas rater le train. | さもないと |
+| **avec + 名詞** | **Avec** un peu de chance, ça marchera. | 〜があれば |
+| **sans + 名詞** | **Sans** toi, je n'y serais pas arrivé. | 〜がなければ |
+| **ジェロンディフ** | **En travaillant** plus, tu réussirais. | 〜すれば（第29章） |
+| **au cas où + 条件法** | Prends un parapluie, **au cas où** il pleuvrait. | 〜の場合に備えて |
+| **à ta place** | **À ta place**, je refuserais. | 君の立場なら |
+
+:::warn au cas où は条件法を取る
+si は直説法しか取りませんが、**au cas où（〜の場合に備えて）の後ろは条件法**です。
+
+[[Prends tes clés, au cas où je ne serais pas là.|プラン・テ・クレ・オ・カ・ウ・ジュ・ヌ・スレ・パ・ラ|私がいない場合に備えて、鍵を持って行きなさい。]]
+
+会話では **au cas où** だけで文を終える言い方も頻繁に聞かれます：Prends un parapluie, au cas où.（念のため傘持って行きなよ）。「念のため」という日本語にちょうど対応します。
+:::
 :::
 
 ## 4. 条件法の3つの用法
@@ -166,7 +199,31 @@ L'accident aurait fait trois morts. | ラクスィダン・オレ・フェ・ト
 
 **裏が取れていない情報**であることを、条件法で示します。フランスの新聞・ニュースを読むときに必ず出会う用法です。日本語の「〜という」「〜もよう」にあたります。
 
-### （3）過去における未来（第27.6章）
+### （3）後悔と非難 — 条件法過去の独壇場
+
+**devoir / pouvoir / vouloir の条件法過去**は、後悔・非難の決まった言い方を作ります。日常会話での使用頻度が非常に高い形です。
+
+| 形 | 意味 | 響き |
+|---|---|---|
+| **j'aurais dû** + 不定詞 | 〜すべきだった | 後悔 |
+| **tu aurais dû** + 不定詞 | 〜すべきだったのに | 非難 |
+| **j'aurais pu** + 不定詞 | 〜できたのに | 後悔・悔しさ |
+| **tu aurais pu** + 不定詞 | 〜してくれてもよかったのに | 軽い非難 |
+| **j'aurais aimé / voulu** + 不定詞 | 〜したかった（が叶わなかった） | 残念 |
+
+:::ex 後悔と非難
+J'aurais dû t'écouter. | ジョレ・デュ・テクテ | 君の言うことを聞くべきだった。
+Tu aurais dû me le dire ! | チュ・オレ・デュ・ム・ル・ディール | 言ってくれればよかったのに！
+Tu aurais pu me prévenir. | チュ・オレ・ピュ・ム・プレヴニール | 前もって知らせてくれてもよかったのに。
+J'aurais aimé être là. | ジョレ・ゼメ・エートル・ラ | その場にいたかったな。
+On aurait dit un rêve. | オ・ノレ・ディ・アン・レーヴ | まるで夢のようだった。
+:::
+
+現在形の **devrais**（〜したほうがいい：助言）と過去形の **aurais dû**（〜すべきだった：後悔）を対にして覚えると、devoir の条件法が一気に使えるようになります。
+
+最後の **on aurait dit …**（まるで〜のようだった）は、比喩の決まり文句です（現在なら on dirait … まるで〜みたいだ）。
+
+### （4）過去における未来（第27.6章）
 
 [[Il a dit qu'il viendrait.\|イラ・ディ・キル・ヴィアンドレ\|彼は来ると言った。]]
 
@@ -196,6 +253,20 @@ Si tu étais là, je serais heureux. | スィ・テュ・エテ・ラ・ジュ�
 :::drill être,avoir,aller,faire,pouvoir,vouloir futur,conditionnel
 :::
 
+## 7. 丁寧さの階段
+
+依頼の言い方を、直接的なものから丁寧なものへ並べます。**下に行くほど条件法が深く関わります。**
+
+| 段階 | 例 | 場面 |
+|---|---|---|
+| 命令形 | Aide-moi. | 家族・親しい友人 |
+| 直説法の疑問 | Tu peux m'aider ? | 友人・同僚 |
+| 条件法の疑問 | Tu **pourrais** m'aider ? | 少し改まる |
+| vous + 条件法 | **Pourriez**-vous m'aider ? | 店・職場・初対面 |
+| 前置きつき | **Auriez**-vous la gentillesse de m'aider ? | 非常に丁寧・書簡 |
+
+フランス語の丁寧さは、日本語の敬語のような専用の語彙体系ではなく、**法と人称の選び方**で作られます。条件法はその中心的な道具です。
+
 ## 練習問題
 
 :::quiz
@@ -210,6 +281,18 @@ A. **si 節には条件法・未来形を置かない**ため。正しくは Si 
 
 Q. Je veux un café. と Je voudrais un café. の違いは何ですか。
 A. 前者は直説法で「コーヒーが欲しい」とぶっきらぼう。後者は条件法で「コーヒーをお願いします」と丁寧。条件法は「もし可能でしたら」という仮定を含ませることで断定を避け、相手に断る余地を残す。店や窓口では Je voudrais が標準。
+
+Q. J'aurais dû t'écouter. と Tu aurais dû me le dire ! は、それぞれ何を表しますか。
+A. どちらも **devoir の条件法過去 + 不定詞**。1人称なら**後悔**（聞くべきだった）、2人称なら**非難**（言ってくれればよかったのに）。tu aurais pu …（〜してくれてもよかったのに）は少し柔らかい非難。現在の devrais（助言）と対にして覚える。
+
+Q. au cas où の後ろはどの法ですか。si とどう違いますか。
+A. **条件法**（au cas où il pleuvrait）。si が直説法しか取らないのと対照的。意味は「〜の場合に備えて」で、会話では Prends un parapluie, au cas où.（念のため）と文末に単独でも使う。
+
+Q. si を使わずに条件を表す手段を3つ挙げてください。
+A. 例：**sinon**（さもないと）、**avec / sans + 名詞**（Avec un peu de chance … / Sans toi …）、**ジェロンディフ**（En travaillant plus, tu réussirais.）、**à ta place**（君の立場なら）。ネイティブは si 節と同じくらいこれらの圧縮形を使う。
+
+Q. 依頼の丁寧さは、フランス語ではどうやって作られますか。
+A. 専用の敬語語彙ではなく、**法と人称の選び方**で作る。Aide-moi. → Tu peux … ? → Tu pourrais … ? → Pourriez-vous … ? → Auriez-vous la gentillesse de … ? と、条件法と vous を組み合わせるほど丁寧になる。
 
 Q. Il y aurait dix blessés. はどういう意味ですか。
 A. 「負傷者は10人とみられる」。**伝聞・未確認情報**を表す条件法で、報道で多用される。裏が取れていないことを条件法で示す、日本語の「〜もよう」にあたる用法。
@@ -237,6 +320,16 @@ accident | n.m. | 事故
 président / présidente | n. | 大統領、社長
 heureux / heureuse | adj. | 幸せな
 place | n.f. | 場所、立場、席
+sinon | conj. | さもないと
+au cas où | loc.conj. | 〜の場合に備えて
+j'aurais dû | 表現 | 〜すべきだった
+tu aurais pu | 表現 | 〜してくれてもよかったのに
+on dirait | 表現 | まるで〜のようだ
+prévenir | v. | 前もって知らせる
+rater | v. | 逃す、しくじる
+parapluie | n.m. | 傘
+rêve | n.m. | 夢
+gentillesse | n.f. | 親切
 :::
 `
 });
