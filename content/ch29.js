@@ -275,7 +275,43 @@ tout を付けると同時性が強調され、しばしば「〜しながら**�
 si 節の代わりになる圧縮した条件です（第30章）。**C'est en forgeant qu'on devient forgeron.**（鍛冶をすることで鍛冶屋になる＝習うより慣れろ）という諺は、この用法の強調構文（第22章）です。
 :::
 
-## 9. 練習してみる
+## 9. -ant の語彙の広がり
+
+現在分詞は、形容詞・名詞として辞書に定着した語を大量に生んでいます。**見出し語として覚える価値のあるもの**を整理します。
+
+**形容詞化した -ant**（性数一致する）
+
+| 語 | 意味 | 元の動詞 |
+|---|---|---|
+| intéressant(e) | 面白い | intéresser |
+| amusant(e) | 愉快な | amuser |
+| étonnant(e) | 驚くべき | étonner |
+| charmant(e) | 魅力的な | charmer |
+| vivant(e) | 生きている・活気ある | vivre |
+| suivant(e) | 次の | suivre |
+| courant(e) | 日常の・流通している | courir |
+| brillant(e) | 輝かしい | briller |
+
+**名詞化した -ant**
+
+| 語 | 意味 |
+|---|---|
+| un étudiant / une étudiante | 学生（étudier する人） |
+| un débutant / une débutante | 初心者 |
+| un habitant / une habitante | 住民 |
+| un passant / une passante | 通行人 |
+| un gagnant / une gagnante | 勝者 |
+
+:::ex -ant の語彙
+C'est un film très étonnant. | セ・タン・フィルム・トレ・ゼトナン | とても驚くべき映画だ。
+La semaine suivante, il est revenu. | ラ・スメーヌ・スュイヴァント・イ・レ・ルヴニュ | その翌週、彼は戻ってきた。
+C'est de l'eau courante. | セ・ドゥ・ロ・クラント | 水道水です。
+Les habitants du quartier se connaissent. | レ・ザビタン・デュ・カルティエ | この界隈の住民は顔見知りだ。
+:::
+
+**suivant**（次の）と **courant**（日常の）は前置詞・熟語にも進出しています：la page suivante（次のページ）、le mois courant（今月）、C'est courant.（よくあることだ）。動詞1つを覚えると -ant 語彙が芋づるで手に入る——第1群動詞の多さ（第8章）が、ここでも効いています。
+
+## 10. 練習してみる
 
 :::ex 現在分詞とジェロンディフ
 Il travaille en écoutant de la musique. | イル・トラヴァイユ・ア・ネクタン・ドゥ・ラ・ミュズィック | 彼は音楽を聴きながら働く。

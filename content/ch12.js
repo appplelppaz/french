@@ -269,7 +269,33 @@ Je ne comprends pas pourquoi elle est partie. | ジュ・ヌ・コンプラン�
 **間接疑問の中では est-ce que も倒置も使わない**——語順は平叙文です（× Je ne sais pas où est-ce qu'il habite）。**Je me demande si …**（〜だろうか）、**Je ne sais pas ce que …**（何を〜か分からない）は独り言・つなぎ表現としても頻出します。
 :::
 
-## 8. まとめの表
+## 8. combien を使いこなす — 数・量・値段・頻度
+
+combien は生活で最も働く疑問詞です。**何を尋ねるかで形が変わります**。
+
+| 聞きたいこと | 形 | 例 |
+|---|---|---|
+| 値段 | **C'est combien ?** / Ça coûte combien ? | いくらですか |
+| 物の数 | **Combien de + 名詞** | Combien de personnes ?（何人？） |
+| 時間の長さ | **Combien de temps** | Combien de temps ça prend ? |
+| 頻度 | **Combien de fois** | Combien de fois par semaine ?（週何回？） |
+| 距離 | **À combien** | C'est à combien d'ici ?（ここからどのくらい？） |
+| 年齢 | ※ combien を使わない | **Quel âge** as-tu ? |
+
+:::ex combien の実戦
+Ça fait combien ? | サ・フェ・コンビアン | （会計で）おいくらですか？
+On est combien ce soir ? | オ・ネ・コンビアン・ス・ソワール | 今夜は何人？
+Combien de temps faut-il pour y aller ? | コンビアン・ドゥ・タン・フォ・ティル | 行くのにどのくらいかかりますか？
+Tu mesures combien ? | チュ・ムズュール・コンビアン | 身長どのくらい？
+Vous êtes combien dans votre famille ? | ヴー・ゼット・コンビアン | 何人家族ですか？
+:::
+
+- **Ça fait combien ?** は会計の定番（fait = 合計する）。答えは Ça fait 12 euros.
+- **On est combien ?**（何人いる？）——人数は être + combien で聞ける
+- **combien de + 無冠詞名詞**：de の後は冠詞なし（Combien de sucres ? 砂糖はいくつ？）
+- 年齢だけは **Quel âge … ?**（第10章の quel）で、combien を使わない
+
+## 9. まとめの表
 
 :::note 疑問代名詞・最終整理
 **人を尋ねる**

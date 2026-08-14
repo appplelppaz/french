@@ -233,7 +233,21 @@ Tout le monde a ri, et moi aussi. | トゥ・ル・モンド・ア・リ・エ�
 
 **現在 → 半過去 → 複合過去**を並べると、半過去が「現在形の語幹をそのまま使っている」ことが見えます。第13章で述べた「①直説法現在から3つ」の枝の1本です。
 
-## 7. 活用ドリル
+## 7. よくある誤り
+
+:::warn 日本語話者がやりがちな誤り
+| × | ○ | 理由 |
+|---|---|---|
+| Hier, je **regardais** un film.（1本見た） | Hier, j'**ai regardé** un film. | 完結した出来事は複合過去 |
+| Quand j'**ai été** petit … | Quand j'**étais** petit … | 状態・時期の枠は半過去 |
+| Il **a plu** quand je suis sorti.（降っていた） | Il **pleuvait** quand je suis sorti. | 背景の描写は半過去 |
+| Je **savais** la nouvelle hier soir.（知った） | J'**ai su** la nouvelle hier soir. | 「知るに至った」は複合過去 |
+| Avant, j'**ai fumé**.（昔は吸っていた） | Avant, je **fumais**. | 過去の習慣は半過去 |
+
+**J'étais en train de + 不定詞**（〜している最中だった）も便利な形です：J'étais en train de dormir quand tu as appelé.（電話をくれたとき、ちょうど寝ていたんだ）。半過去の「進行」の意味を明示的に強調したいときに使います。
+:::
+
+## 8. 活用ドリル
 
 :::drill chanter,finir,prendre,être,avoir,aller,faire,venir,voir,boire,manger,commencer imparfait
 

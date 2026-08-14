@@ -226,7 +226,49 @@ Il s'est fait gronder par sa mère. | イル・セ・フェ・グロンデ・パ
 | Ce livre est vendu bien. | Ce livre **se vend** bien. | 性質の受け身は代名動詞（§4） |
 :::
 
-## 9. 練習してみる
+## 9. ニュースの受動態 — 報道文の読み方
+
+:::note 受動態が主役になる場所
+「フランス語は受動態を避ける」と述べましたが、**報道・公文書では受動態が標準**です。動作主より出来事を前に出す文体だからです。
+
+:::ex ニュースの受動態
+Le suspect a été arrêté hier soir. | ル・スュスペ・ア・エテ・アレテ | 容疑者は昨夜逮捕された。
+Trois personnes ont été blessées dans l'accident. | トロワ・ペルソンヌ・オン・テテ・ブレセ | 事故で3人が負傷した。
+Le musée sera fermé pour travaux. | ル・ミュゼ・スラ・フェルメ・プール・トラヴォ | 美術館は工事のため閉館されます。
+La décision a été prise à l'unanimité. | ラ・デスィズィヨン・ア・エテ・プリーズ | 決定は全会一致でなされた。
+:::
+
+**a été + 過去分詞**（〜された）は報道の最頻出パターンです。目にする受動態の大半はこの形なので、「a été が来たら受動の複合過去」と反射的に読めるようにしてください。見出しではさらに縮んで、être が落ちた**過去分詞だけ**になります：Trois blessés dans un accident.（事故で3人負傷）。
+
+**会話は on、報道は受動態**——同じ内容の使い分けを並べると：
+
+- 会話：On a arrêté le suspect.（容疑者が捕まったって）
+- 報道：Le suspect a été arrêté.（容疑者は逮捕された）
+:::
+
+## 10. 受動態と再帰・使役の見分けチャート
+
+「être + 過去分詞」「se + 動詞」「faire + 不定詞」——**受け身に見える形**が3系統あります。読解時の判定を1枚にまとめます。
+
+| 形 | 例 | 意味の系統 |
+|---|---|---|
+| être + 過去分詞（+ par） | La porte **a été ouverte** (par Marie). | 受動態：〜される |
+| être + 過去分詞（par なし・状態） | La porte **est ouverte**. | 状態：〜されている・〜している |
+| se + 動詞（3人称・モノ主語） | Ce vin **se boit** frais. | 受動的用法：〜されるものだ |
+| se faire + 不定詞 | Il **s'est fait voler**. | 被害・依頼：〜される・〜してもらう |
+| faire + 不定詞 | Je **fais réparer** ma voiture. | 使役：〜させる・〜してもらう |
+
+**faire réparer**（修理してもらう）は使役構文ですが、日本語では「〜してもらう」なので受け身に感じられます。
+
+:::ex 「してもらう」の3段活用
+Je répare ma voiture. | ジュ・レパール・マ・ヴォワチュール | 自分で車を修理する。
+Je fais réparer ma voiture. | ジュ・フェ・レパレ・マ・ヴォワチュール | 車を修理してもらう（出す）。
+Je me suis fait réparer ma voiture. | ジュ・ム・スュイ・フェ・レパレ | （話し言葉で）車を直してもらった。
+:::
+
+**faire + 不定詞（〜してもらう・させる）は生活の基本構文**です：faire couper les cheveux（髪を切ってもらう）、faire livrer（配達してもらう）、faire suivre（転送してもらう）。「業者・他人にやってもらう」ことはすべて faire で言う、と覚えてください。
+
+## 11. 練習してみる
 
 :::ex 能動・受動・on・代名動詞
 Le professeur corrige les copies. | ル・プロフェスール・コリージュ・レ・コピ | 先生が答案を採点する。（能動）

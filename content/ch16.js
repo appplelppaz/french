@@ -254,7 +254,22 @@ aller / voir の命令形が間投詞化したもので、命令形の前に付�
 
 :::drill chanter,finir,prendre,être,avoir,aller,faire,venir,ouvrir imperatif
 
-## 10. 章のタイトルについて
+## 10. レシピを読む — vous の命令形の実地
+
+フランス語のレシピは **vous の命令形**（または不定詞）で書かれます。クレープの生地で読んでみましょう。
+
+:::ex クレープ生地のレシピ
+Mélangez la farine et les œufs. | メランジェ・ラ・ファリンヌ・エ・レ・ズー | 小麦粉と卵を混ぜます。
+Ajoutez le lait petit à petit. | アジュテ・ル・レ・プティ・タ・プティ | 牛乳を少しずつ加えます。
+Laissez reposer la pâte une heure. | レセ・ルポゼ・ラ・パット・ユヌ・ール | 生地を1時間休ませます。
+Faites chauffer une poêle. | フェット・ショフェ・ユヌ・ポワル | フライパンを熱します。
+Versez une louche de pâte. | ヴェルセ・ユヌ・ルーシュ・ドゥ・パット | お玉1杯の生地を流し入れます。
+Retournez la crêpe et laissez cuire une minute. | ルトゥルネ・ラ・クレップ | クレープを裏返して1分焼きます。
+:::
+
+**Faites chauffer / Laissez reposer / Laissez cuire** のように、**faire / laisser + 不定詞**（〜させる・〜するにまかせる）が料理語の骨格です。市販のレシピ本・料理サイトはこの語彙の反復なので、この6文が読めればフランス語のレシピはほぼ読めます。
+
+## 11. 章のタイトルについて
 
 「少し愛して 長く愛して」——これを命令形で言うと、次のようになります。
 

@@ -217,6 +217,29 @@ n'importe（どれでも構わない）+ quel で「任意の」を表します�
 書き言葉寄りの譲歩表現で、quel は主語（le prix）に性数一致します。第31.5章で扱います。
 :::
 
+### 会話の中の ce — 時間表現と決まり文句
+
+指示形容詞は時間表現で独特の働きをします。
+
+| 表現 | 意味 |
+|---|---|
+| **ce matin / ce soir** | 今朝／今晩 |
+| **cet après-midi** | 今日の午後 |
+| **cette semaine / cette année** | 今週／今年 |
+| **ces jours-ci** | ここのところ、近ごろ |
+| **ce jour-là** | その日（物語の中で） |
+| **à cette époque-là** | あの当時 |
+| **un de ces jours** | そのうちに |
+
+:::ex 時間の ce
+Tu fais quoi ce soir ? | チュ・フェ・コワ・ス・ソワール | 今晩なにするの？
+Il fait froid ces jours-ci. | イル・フェ・フロワ・セ・ジュール・スィ | 近ごろ寒いね。
+Ce jour-là, tout a changé. | ス・ジュール・ラ・トゥ・タ・シャンジェ | その日、すべてが変わった。
+On se voit un de ces jours ! | オン・ス・ヴォワ・アン・ドゥ・セ・ジュール | そのうち会おうね！
+:::
+
+**-ci は「現在に近い」、-là は「現在から遠い」**という対立が時間にも生きています。ces jours-**ci**（ここ数日＝今に近い）、ce jour-**là**（その日＝過去の一点）。物語で「その日」「その晩」と言うときは必ず -là が付きます。
+
 ## 4. 限定詞は重ねられない
 
 :::warn 限定詞は名詞ひとつにつき1個だけ
@@ -233,7 +256,38 @@ n'importe（どれでも構わない）+ quel で「任意の」を表します�
 [[tous mes amis\|トゥ・メ・ザミ\|私の友人全員]]、[[toute la journée\|トゥット・ラ・ジュルネ\|一日中]]
 :::
 
-## 5. 3系列を並べて確認する
+## 5. 「誰の？」に答える3つの言い方
+
+所有形容詞の周辺には、「誰のものか」を言う表現がそろっています。
+
+| 言い方 | 例 | 場面 |
+|---|---|---|
+| **C'est à + 強勢形** | C'est à moi. | 会話の既定（第19章） |
+| **être à + 名詞** | Ce vélo est à Paul. | 〜のものだ |
+| **celui / celle de + 名詞** | C'est celui de Marie. | 「マリの（それ）」 |
+| **appartenir à** | Ce château appartient à l'État. | 改まった「所属」 |
+
+:::ex 「誰の？」のやり取り
+C'est à qui, ce parapluie ? | セ・タ・キ・ス・パラプリュイ | この傘、誰の？
+C'est à moi. / C'est le mien. | セ・タ・モワ・セ・ル・ミヤン | 私の。／私のです。
+Ce n'est pas le mien, c'est celui de Paul. | ス・ネ・パ・ル・ミヤン・セ・スリュイ・ドゥ・ポール | 私のじゃなくて、ポールのだよ。
+À qui sont ces clés ? | ア・キ・ソン・セ・クレ | この鍵は誰の？
+:::
+
+**le mien / la mienne / les miens / les miennes**（私のもの）は所有代名詞と呼ばれ、「所有形容詞 + 名詞」のかたまりを1語で受けます。
+
+| 所有者 | 男性単数 | 女性単数 | 男性複数 | 女性複数 |
+|---|---|---|---|---|
+| 私の | le mien | la mienne | les miens | les miennes |
+| 君の | le tien | la tienne | les tiens | les tiennes |
+| 彼・彼女の | le sien | la sienne | les siens | les siennes |
+| 私たちの | le nôtre | la nôtre | les nôtres | les nôtres |
+| あなたの | le vôtre | la vôtre | les vôtres | les vôtres |
+| 彼らの | le leur | la leur | les leurs | les leurs |
+
+notre / votre と le nôtre / le vôtre で **ô の有無（と発音）が変わる**点に注意してください（notre「ノトル」→ le nôtre「ル・ノートル」）。会話では C'est à moi. で足りることが多いのですが、**「私のはこっち、君のはそっち」と対比するとき**は所有代名詞が必要になります：Le mien est bleu, le tien est rouge.（私のは青、君のは赤）。
+
+## 6. 3系列を並べて確認する
 
 同じ名詞に、4種類の限定詞を付け替えてみます。
 

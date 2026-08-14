@@ -252,7 +252,31 @@ Quand minuit sonna, elle s'enfuit. | カン・ミニュイ・ソナ・エル・�
 なお、**接続法半過去**（第31章で触れます）は単純過去の語幹から作られるため、単純過去が衰退すると接続法半過去も一緒に使われなくなりました。2つの時制は運命を共にしています。
 :::
 
-## 7. 活用ドリル
+## 7. 全人称の一覧表 — 参照用
+
+読解では3人称が中心ですが、参照用に全人称を一覧にしておきます。
+
+| 人称 | -a 型（chanter） | -i 型（finir） | -u 型（boire） | -in 型（venir） |
+|---|---|---|---|---|
+| je | chant**ai** | fin**is** | b**us** | v**ins** |
+| tu | chant**as** | fin**is** | b**us** | v**ins** |
+| il | chant**a** | fin**it** | b**ut** | v**int** |
+| nous | chant**âmes** | fin**îmes** | b**ûmes** | v**înmes** |
+| vous | chant**âtes** | fin**îtes** | b**ûtes** | v**întes** |
+| ils | chant**èrent** | fin**irent** | b**urent** | v**inrent** |
+
+**nous / vous に必ず ^ が付く**こと、**ils が -rent で終わる**ことが、4型に共通する目印です。1人称（je chantai「私は歌った」）は回想録・一人称小説で出会います。
+
+:::note 新聞の中の単純過去
+文学だけでなく、**新聞の歴史記事・訃報・スポーツの試合経過**でも単純過去は現役です。
+
+- Napoléon **naquit** en 1769 et **mourut** en 1821.（ナポレオンは1769年に生まれ、1821年に没した）
+- L'équipe **remporta** la victoire à la dernière minute.（チームは土壇場で勝利をものにした）
+
+**naquit（naître）と mourut（mourir）は伝記の2大定番**です。生没を語る文はほぼこの2語で書かれるので、形のまま覚えておくと年表・略歴がすらすら読めます。
+:::
+
+## 8. 活用ドリル
 
 読めればよい時制ですが、型を掴むために少し練習しておきます。
 

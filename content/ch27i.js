@@ -216,12 +216,33 @@ Il demande : « Qui est là ? » → Il demande qui est là. | イル・ドゥ�
 - 間接話法：Il pensa que c'était trop tard et qu'il ne la reverrait jamais.
 - **自由間接話法**：Il s'arrêta. **C'était trop tard. Il ne la reverrait jamais.**（彼は立ち止まった。もう遅すぎる。二度と彼女に会えないのだ。）
 
-伝達動詞（il pensa que）を消し、**時制と人称だけ間接話法のまま**、地の文に登場人物の思考を流し込む——これが自由間接話法（le discours indirect libre）です。フロベール以降のフランス小説で多用され、**condition法や半過去が地の文に突然現れたら、登場人物の内心**と読むのが読解の鍵になります。
+伝達動詞（il pensa que）を消し、**時制と人称だけ間接話法のまま**、地の文に登場人物の思考を流し込む——これが自由間接話法（le discours indirect libre）です。フロベール以降のフランス小説で多用され、**条件法や半過去が地の文に突然現れたら、登場人物の内心**と読むのが読解の鍵になります。
 
 書けるようになる必要はありませんが、小説を原文で読むなら必ず出会う形です。
 :::
 
-## 8. 総合練習
+## 8. 伝言を伝える — 話法の実地
+
+話法の変換が最も必要になるのは、**伝言**です。電話・メッセージの内容を第三者に伝える場面で練習します。
+
+:::ex 伝言の変換
+« Je serai en retard. » → Paul a dit qu'il serait en retard. | ポール・ア・ディ・キル・スレ・タン・ルタール | ポールは遅れると言ってた。
+« J'ai raté le train. » → Il a expliqué qu'il avait raté le train. | イ・ラ・エクスプリケ・キ・ラヴェ・ラテ | 電車に乗り遅れたんだって。
+« Commencez sans moi. » → Il a dit de commencer sans lui. | イ・ラ・ディ・ドゥ・コマンセ・サン・リュイ | 先に始めててと言ってた。
+« Tu peux me rappeler ? » → Elle demande si tu peux la rappeler. | エル・ドゥマンド・スィ・チュ・プ・ラ・ラプレ | かけ直してもらえるかって。
+« Où êtes-vous ? » → Il veut savoir où on est. | イル・ヴ・サヴォワール・ウ・オ・ネ | どこにいるのか知りたがってる。
+:::
+
+観察ポイント：
+
+- **serai → serait**（単純未来 → 条件法）、**ai raté → avait raté**（複合過去 → 大過去）——時制の一致
+- **Commencez → de commencer**——命令は de + 不定詞
+- **sans moi → sans lui**、**me → la**——人称の付け替え
+- 主節が**現在**（Elle demande …）なら**時制はずれない**——伝言をその場で伝えるときは一致が起きない
+
+最後の点は実務上重要です。**電話を切ってすぐ伝えるなら Elle demande si …（現在）**で足り、時制の一致は不要。**あとから報告するときだけ**（Elle a demandé si …）一致が発動します。
+
+## 9. 総合練習
 
 :::ex 直接話法から間接話法へ
 Il a dit : « Je suis fatigué. » → Il a dit qu'il était fatigué. | イラ・ディ・キ・レテ・ファティゲ | 彼は疲れたと言った。

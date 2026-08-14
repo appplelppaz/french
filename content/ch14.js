@@ -260,7 +260,33 @@ que の後ろに**文**が来ると、書き言葉では否定でない **ne**�
 **plus … plus …**（〜すればするほど）とあわせて、変化を語る道具です：[[Plus je le connais, plus je l'apprécie.|プリュ・ジュ・ル・コネ・プリュ・ジュ・ラプレスィ|知れば知るほど彼が好きになる。]]（文頭の plus に冠詞・que は不要）
 :::
 
-## 7. まとめの表
+## 7. 「同じ」「違う」「〜みたい」 — 比較の親戚
+
+比較級の周辺には、同一性・類似を言う道具がそろっています。
+
+| 表現 | 意味 | 例 |
+|---|---|---|
+| **le même / la même … que** | 〜と同じ… | J'ai la même veste que toi. |
+| **comme** | 〜のように | Il parle comme un Parisien. |
+| **pareil / pareille** | 同じような | C'est pareil.（同じことだよ） |
+| **différent(e) de** | 〜と違う | C'est différent du Japon. |
+| **ressembler à** | 〜に似ている | Elle ressemble à sa mère. |
+| **on dirait** | まるで〜みたい | On dirait son frère. |
+
+:::ex 同じ・違う・似ている
+J'ai la même veste que toi ! | ジェ・ラ・メーム・ヴェスト・ク・トワ | 君と同じ上着持ってる！
+C'est pareil. / Ce n'est pas pareil. | セ・パレイユ | 同じだよ。／それとこれとは話が別。
+Elle ressemble beaucoup à sa mère. | エル・ルサンブル・ボクー・ア・サ・メール | 彼女は母親によく似ている。
+On dirait un rêve. | オン・ディレ・アン・レーヴ | まるで夢みたいだ。
+Il fait doux pour la saison. | イル・フェ・ドゥ・プール・ラ・セゾン | 季節のわりに暖かい。
+:::
+
+- **le même … que**：même の比較対象も que で導く（第10.5章の même）
+- **Ce n'est pas pareil.**（それは話が別）は反論の定番
+- **on dirait + 名詞**（まるで〜みたい）は dire の条件法（第30章）から来た比喩の定型
+- **pour + 名詞**（〜のわりに）は基準ずらしの比較：grand pour son âge（年のわりに大きい）
+
+## 8. まとめの表
 
 :::note 比較・最上級・一覧
 | 比べる対象 | 優等 | 同等 | 劣等 |

@@ -237,7 +237,34 @@ Je n'ai qu'un frère. | ジュ・ネ・カン・フレール | 兄弟は一人�
 **話し言葉ではまず使われません**。読解のために知っておく項目で、自分で書くときに必要になることはほとんどありません。ただし「なぜここに ne があるのに否定でないのか」を説明できる必要はあります。
 :::
 
-## 7. 否定の返事と応酬 — 会話の道具
+## 7. 不定詞の否定と、否定の組み合わせ
+
+:::deep ne pas + 不定詞 — まとめて前に置く
+不定詞を否定するときは、**ne pas をまとめて不定詞の前**に置きます。活用した動詞を挟むのとは配置が違います。
+
+:::ex 不定詞の否定
+Je te demande de ne pas crier. | ジュ・トゥ・ドゥマンド・ドゥ・ヌ・パ・クリエ | 叫ばないでと頼んでいるんだ。
+Il vaut mieux ne rien dire. | イル・ヴォ・ミュー・ヌ・リヤン・ディール | 何も言わないほうがいい。
+Elle est partie sans rien dire. | エ・レ・パルティ・サン・リヤン・ディール | 彼女は何も言わずに去った。
+Merci de ne pas fumer. | メルスィ・ドゥ・ヌ・パ・フュメ | 禁煙にご協力ください。（掲示）
+:::
+
+**Merci de ne pas + 不定詞**は掲示の定型です（Merci de ne pas toucher. お手を触れないでください）。
+
+**否定語の組み合わせ**も整理しておきます。pas とは併用できませんが、pas 以外どうしは重ねられます。
+
+| 組み合わせ | 意味 | 例 |
+|---|---|---|
+| ne … **plus rien** | もう何も〜ない | Je ne vois plus rien. |
+| ne … **plus jamais** | もう二度と〜ない | Je n'y retournerai plus jamais. |
+| ne … **jamais rien** | 決して何も〜ない | Il ne dit jamais rien. |
+| ne … **plus personne** | もう誰も〜ない | Il n'y a plus personne. |
+| ne … **jamais personne** | 決して誰も〜ない | Elle n'invite jamais personne. |
+
+順序は **plus → jamais → rien / personne** の並びで固定です。「もう二度と何も言わない」なら Je ne dirai **plus jamais rien**. と3つ重なることもあります。
+:::
+
+## 8. 否定の返事と応酬 — 会話の道具
 
 :::deep 否定をめぐる会話の定型
 **（1）Pas + 語 — 動詞なしの否定**

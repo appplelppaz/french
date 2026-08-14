@@ -253,7 +253,30 @@ Si tu étais là, je serais heureux. | スィ・テュ・エテ・ラ・ジュ�
 :::drill être,avoir,aller,faire,pouvoir,vouloir futur,conditionnel
 :::
 
-## 7. 丁寧さの階段
+## 7. 相談に乗る — 条件法の総合演習
+
+友人の相談に乗る場面は、条件法のオンパレードです。
+
+:::ex 相談の会話
+J'ai un problème avec mon travail. Qu'est-ce que tu ferais, toi ? | ケス・ク・チュ・フレ・トワ | 仕事で悩んでてさ。君ならどうする？
+À ta place, je parlerais directement au chef. | ア・タ・プラス・ジュ・パルルレ | 僕なら上司に直接話すな。
+Tu devrais d'abord réfléchir calmement. | チュ・ドゥヴレ・ダボール・レフレシール | まず落ち着いて考えたほうがいいよ。
+Ce serait dommage de démissionner maintenant. | ス・スレ・ドマージュ・ドゥ・デミスィヨネ | 今辞めるのはもったいないと思うな。
+Moi, j'aurais peur de le regretter. | モワ・ジョレ・プール・ドゥ・ル・ルグレテ | 私なら後悔しそうで怖いな。
+On pourrait en reparler demain ? | オン・プレ・アン・ルパルレ・ドゥマン | 明日また話さない？
+:::
+
+型を抜き出すと：
+
+- **Qu'est-ce que tu ferais (à ma place) ?** — 助言を求める
+- **À ta place, je + 条件法** — 「私なら〜する」
+- **Tu devrais + 不定詞** — 「〜したほうがいい」
+- **Ce serait + 形容詞 + de + 不定詞** — 「〜するのは…だろう」
+- **On pourrait + 不定詞 ?** — 「〜しない？」という柔らかい提案
+
+この5つの型で、**助言のやり取りは一通り回せます**。直説法でも文は作れますが、条件法にすることで「あくまで仮の話」という距離が生まれ、押しつけにならない——それがフランス語の相談の作法です。
+
+## 8. 丁寧さの階段
 
 依頼の言い方を、直接的なものから丁寧なものへ並べます。**下に行くほど条件法が深く関わります。**
 

@@ -274,7 +274,34 @@ Dès que j'aurai terminé, je t'appellerai. | デ・ク・ジョレ・テルミ�
 **quand + 未来形**（第31.5章で詳述）も忘れずに：英語と違い、[[Quand il arrivera, on mangera.|カン・ティ・ラリヴラ・オン・マンジュラ|彼が着いたら食べよう。]] と**両方を未来形**にします。
 :::
 
-## 8. 活用ドリル
+## 8. 未来を指す時の表現 — カレンダーの語彙
+
+未来形と組む時の表現をまとめます。**dans / en の対立**（第7.5章）もここで復習できます。
+
+| 表現 | 意味 |
+|---|---|
+| **demain** / après-demain | 明日／あさって |
+| demain **matin / soir** | 明日の朝／晩 |
+| **la semaine prochaine** | 来週 |
+| **le mois prochain** / l'année prochaine | 来月／来年 |
+| **dans** trois jours | 3日後に |
+| **d'ici** samedi / d'ici là | 土曜までに／それまでに |
+| **jusqu'à** dimanche | 日曜まで（継続の終点） |
+| **à partir de** lundi | 月曜から |
+| **dès** demain | 明日からすぐ |
+| **bientôt** / tout à l'heure | まもなく／のちほど（今日中） |
+
+:::ex 未来の時の表現
+On se voit la semaine prochaine ? | オン・ス・ヴォワ・ラ・スメーヌ・プロシェーヌ | 来週会う？
+Je te rappelle tout à l'heure. | ジュ・トゥ・ラペル・トゥ・タ・ルール | あとでかけ直すね。
+D'ici là, repose-toi bien. | ディスィ・ラ・ルポーズ・トワ・ビヤン | それまでゆっくり休んで。
+Le projet sera fini d'ici la fin du mois. | ル・プロジェ・スラ・フィニ・ディスィ・ラ・ファン・デュ・モワ | 企画は月末までに終わるでしょう。
+À partir de demain, je me lève tôt ! | ア・パルティール・ドゥ・ドゥマン・ジュ・ム・レーヴ・ト | 明日から早起きするぞ！
+:::
+
+**tout à l'heure** は「さっき」（過去）と「のちほど」（未来）の両方に使える語で、**同じ日の中の近い時点**を指します。別れ際の **À tout à l'heure !**（またあとでね）も頻出です。**d'ici + 時点**（〜までに）は締め切りの言い方で、ビジネスでも日常でも活躍します。
+
+## 9. 活用ドリル
 
 :::drill chanter,finir,attendre,être,avoir,aller,faire,venir,voir,pouvoir,vouloir,savoir futur
 
