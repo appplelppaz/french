@@ -218,6 +218,23 @@ Il appela ses trois fils et leur dit : | イ・ラプラ・セ・トロワ・フ
 
 **Il était une fois（半過去）→ Un jour（単純過去へ切り替え）**——この型は童話・昔話に共通で、Un jour が「背景から出来事へ」の合図になっています。日本語の「昔々〜でした。ある日…」とまったく同じ構造です。
 
+### 読解練習 — 短い物語を解剖する
+
+理屈を実文で確認します。ペロー風の一節を、時制に注目して読んでください。
+
+:::ex 物語の一節を読む
+Il était une fois une jeune fille qui vivait avec sa belle-mère. | イ・レテ・ユヌ・フォワ | 昔々、継母と暮らす娘がいました。（半過去＝背景）
+Elle travaillait du matin au soir. | エル・トラヴァイエ | 娘は朝から晩まで働いていました。（半過去＝習慣）
+Un soir, une fée apparut devant elle. | ユヌ・フェ・アパリュ | ある晩、妖精が彼女の前に現れました。（単純過去＝出来事）
+La fée lui donna une robe magnifique. | ラ・フェ・リュイ・ドナ | 妖精は彼女に見事なドレスを与えました。（単純過去）
+La jeune fille partit au bal et y dansa toute la nuit. | パルティ・エ・ダンサ | 娘は舞踏会へ行き、一晩中踊りました。（単純過去の連続）
+Quand minuit sonna, elle s'enfuit. | カン・ミニュイ・ソナ・エル・サンフュイ | 真夜中の鐘が鳴ると、彼女は逃げ出しました。（単純過去）
+:::
+
+**解剖**：apparut（apparaître, -u 型）、donna（donner, -a 型）、partit（partir, -i 型）、dansa（-a 型）、sonna（-a 型）、s'enfuit（s'enfuir, -i 型）。地の文の出来事はすべて単純過去、背景（vivait, travaillait）は半過去——役割分担が一目で見えます。
+
+**会話文の中では複合過去**が使われることも思い出してください。物語の登場人物がしゃべるとき、その台詞は話し言葉なので « J'**ai perdu** ma chaussure ! »（靴をなくしたわ！）となります。**地の文＝単純過去、台詞＝複合過去**という层の分かれ方が、フランス語の小説の標準です。
+
 ## 6. 現代における位置づけ
 
 :::adv 単純過去は消えつつあるのか

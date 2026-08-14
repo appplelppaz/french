@@ -251,7 +251,31 @@ le problème auquel je pense | ル・プロブレーム・オケル・ジュ・�
 **実務的な近道**：qui の後は動詞がいきなり来る、que の後は主語が来る。これで大半が判定できます。
 :::
 
-## 9. 練習してみる
+## 9. 関係節と法・話し言葉の実際
+
+:::deep 3つの発展点
+**（1）先行詞が不確定なら接続法**（第29½章・第31章）
+
+- Je cherche un appartement **qui a** trois pièces.（3部屋の物件を探している——存在を確信）
+- Je cherche un appartement **qui ait** trois pièces.（あれば欲しい——実在は不明）
+
+**最上級・seul / premier / dernier の後の関係節**も接続法に傾きます：C'est le meilleur film **que j'aie** jamais **vu**.（今まで見た中で最高の映画だ）。
+
+**（2）話し言葉の「万能 que」**
+
+くだけた話し言葉では、dont や lequel の代わりに que で済ませる形が聞かれます（le livre **que** je t'ai parlé——規範では **dont**）。**規範的には誤り**ですが、実際の会話には現れます。聞いて理解できればよく、自分では dont を使ってください。
+
+**（3）qui est-ce qui と「前置詞 + qui」**
+
+前置詞の後で**人**を受けるのは qui です（物は lequel）。
+
+- la personne **avec qui** je travaille（一緒に働いている人）
+- l'ami **chez qui** j'habite（居候させてもらっている友人）
+
+**c'est … qui / que の強調構文**（第22章）、**ce qui / ce que の疑似分裂**——関係代名詞は「文をつなぐ」だけでなく、フランス語の情報構造の背骨です。この章の判定力が、そのまま第22章の運用力になります。
+:::
+
+## 10. 練習してみる
 
 :::ex 2文を1文にまとめる
 Voici le livre. Je l'ai acheté hier. → Voici le livre que j'ai acheté hier. | ヴォワスィ・ル・リーヴル・ク・ジェ・アシュテ・イエール | これが昨日買った本です。
@@ -280,6 +304,18 @@ A. **de + 名詞**を受けるとき。所有（whose）、de を取る動詞（
 
 Q. l'homme dont le fils je connais はなぜ誤りですか。
 A. 語順が違う。フランス語では **dont + 主語 + 動詞 + 定冠詞 + 名詞** の順になるため、正しくは l'homme **dont je connais le fils**。また所有形容詞（son fils）は使わず定冠詞（le fils）を使う。
+
+Q. Je cherche un appartement qui ait trois pièces. の接続法は何を表しますか。
+A. **先行詞の実在が不確定**であること。qui a（直説法）なら「3部屋の物件がある」と確信して探している。qui ait（接続法）なら「あれば欲しい」。関係節の法が話し手の想定を示す（第29½章）。
+
+Q. C'est le meilleur film que j'aie jamais vu. で接続法になるのはなぜですか。
+A. **最上級（および seul / premier / dernier / unique）の後の関係節**は、主観的な評価を和らげるため接続法に傾く。「私の知る限りでは」という留保の含み。直説法も可能だが、書き言葉では接続法が上品とされる。
+
+Q. 「一緒に働いている人」は avec lequel と avec qui のどちらですか。
+A. 人なら **avec qui** が普通（la personne avec qui je travaille）。lequel 系は物に使う（la table sur laquelle …）。人にも laquelle は可能だが、qui のほうが自然。
+
+Q. 話し言葉で le livre que je t'ai parlé と聞こえたら、どう理解しますか。
+A. 規範では le livre **dont** je t'ai parlé（parler **de**）だが、くだけた話し言葉では dont の代わりに万能の que が使われることがある。**聞いて理解できればよく、自分では dont を使う**。規範と実態の乖離の代表例。
 :::
 
 :::ai-gen 関係代名詞 qui, que, où, dont、ce qui / ce que

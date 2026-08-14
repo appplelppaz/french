@@ -242,7 +242,34 @@ que が3回出てくる不格好な形ですが、哲学的な問いや驚きの
 - [[Ça dépend de quoi ?|サ・デパン・ドゥ・コワ|何によるの？]]
 :::
 
-## 7. まとめの表
+## 7. 間接疑問 — 疑問詞はどう埋め込まれるか
+
+:::deep 疑問文を文の中に入れる
+「彼が**何を**欲しいか分からない」のように、疑問文を別の文に埋め込むときは、**疑問詞ごとに決まった変換**があります。
+
+| 直接疑問 | 間接疑問 | 例 |
+|---|---|---|
+| est-ce que …（〜か？） | **si** | Je ne sais pas **si** tu viens. |
+| **qu'est-ce qui**（何が） | **ce qui** | Dis-moi **ce qui** se passe. |
+| **qu'est-ce que / que**（何を） | **ce que** | Je ne sais pas **ce que** tu veux. |
+| qui（誰） | **qui**（そのまま） | Je sais **qui** a téléphoné. |
+| où / quand / comment / pourquoi / combien | そのまま | Dis-moi **où** tu habites. |
+| quel + 名詞 | そのまま | Je ne sais pas **quelle heure** il est. |
+
+**変わるのは「何」だけ**です。qu'est-ce qui → ce qui、qu'est-ce que → ce que。est-ce que の部分が消えて ce に化ける、と覚えると整理できます（第21章の ce qui / ce que と同じ形です）。
+
+:::ex 間接疑問
+Je ne sais pas ce que tu veux dire. | ジュ・ヌ・セ・パ・ス・ク・チュ・ヴ・ディール | 君が何を言いたいのか分からない。
+Dis-moi ce qui ne va pas. | ディ・モワ・ス・キ・ヌ・ヴァ・パ | どうしたのか言ってごらん。
+Je me demande s'il viendra. | ジュ・ム・ドゥマンド・スィル・ヴィアンドラ | 彼は来るだろうかと思う。
+Tu sais où il est ? | チュ・セ・ウ・イ・レ | 彼がどこにいるか知ってる？
+Je ne comprends pas pourquoi elle est partie. | ジュ・ヌ・コンプラン・パ・プルコワ・エ・レ・パルティ | なぜ彼女が去ったのか分からない。
+:::
+
+**間接疑問の中では est-ce que も倒置も使わない**——語順は平叙文です（× Je ne sais pas où est-ce qu'il habite）。**Je me demande si …**（〜だろうか）、**Je ne sais pas ce que …**（何を〜か分からない）は独り言・つなぎ表現としても頻出します。
+:::
+
+## 8. まとめの表
 
 :::note 疑問代名詞・最終整理
 **人を尋ねる**

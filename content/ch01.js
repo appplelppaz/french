@@ -227,7 +227,28 @@ monsieur の複数形が messieurs なのは、元が **mon sieur**（私の主�
 原則は「**変化しうる品詞（名詞・形容詞）だけが複数になる**」。動詞・前置詞・副詞は変化しません。
 :::
 
-## 4. 名詞は単独では文に置けない
+## 4. 人を表す名詞の男女 — 現代の動き
+
+:::deep 職業名詞の女性形
+人を表す名詞は、性が実際の性別に対応します。女性形の作り方は形容詞（第6章）とほぼ同じです。
+
+| 型 | 男性 | 女性 |
+|---|---|---|
+| + e | un étudiant | une étudiant**e** |
+| -er → -ère | un boulanger | une boulang**ère** |
+| -eur → -euse | un vendeur | une vend**euse** |
+| -teur → -trice | un acteur | une ac**trice** |
+| -ien → -ienne | un musicien | une music**ienne** |
+| 同形（冠詞で区別） | un / une artiste, un / une élève, un / une collègue | |
+
+長く「男性形しかない」とされてきた職業名も、現在は女性形が一般化しています：**une professeure**（教員）、**une écrivaine**（作家）、**une auteure / autrice**（著者）、**une ministre**（大臣）。アカデミー・フランセーズも2019年に職業名の女性化を正式に容認しました。**現代のフランス語では女性形を使うのが標準**です。
+
+一方、**性が固定の名詞**もあります：une personne（人）は男性を指しても常に女性名詞、un bébé（赤ちゃん）は女児でも男性名詞。**文法の性は最終的には語に付いた属性**であって、指す相手の性別と常に一致するわけではない——この距離感も含めて掴んでください。
+
+- [[C'est une personne très gentille.|セ・チュヌ・ペルソンヌ・トレ・ジャンティーユ|（男女問わず）とても親切な人です。]]
+:::
+
+## 5. 名詞は単独では文に置けない
 
 英語では I like books. と冠詞なしで言えますが、フランス語ではこれができません。**名詞には必ず限定詞（déterminant）が必要**です。
 
@@ -271,6 +292,18 @@ A. 7語（travail, vitrail, corail, émail, bail, soupirail, vantail）。それ
 
 Q. le livre と la livre は、それぞれ何を意味しますか。
 A. le livre は「本」、la livre は「ポンド（重さ・通貨の単位）」。性が意味を区別している例で、他に le tour（一周）/ la tour（塔）、le poste（職）/ la poste（郵便局）などがある。
+
+Q. acteur / vendeur の女性形はどう作りますか。
+A. **-teur → -trice**（acteur → actrice）、**-eur → -euse**(vendeur → vendeuse）。-er → -ère（boulanger → boulangère）、-ien → -ienne（musicien → musicienne）も合わせて、型で覚える。
+
+Q. 「教員」「作家」の女性形は現在どうなっていますか。
+A. **une professeure / une écrivaine（auteure, autrice）**が一般化し、2019年にアカデミー・フランセーズも職業名の女性化を正式に容認した。現代のフランス語では女性形を使うのが標準。
+
+Q. une personne は男性を指すときも女性名詞ですか。
+A. そう。**personne は常に女性名詞**で、指す相手の性別に関わらず une personne gentille と女性形で一致する。un bébé（常に男性）も同じ。文法の性は語に付いた属性で、指示対象の性別と常に一致するわけではない。
+
+Q. 冠詞でしか男女が区別できない名詞の例を挙げてください。
+A. **un / une artiste、un / une élève、un / une collègue、un / une enfant** など -e で終わる人物名詞。名詞自体は同形なので、冠詞・形容詞の一致だけが性を示す。
 :::
 
 :::ai-gen 名詞の性と数、複数形の作り方

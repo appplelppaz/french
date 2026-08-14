@@ -209,7 +209,32 @@ n'est-ce pas は、主語や時制に関係なく**常にこの形**です。英
 日本語の「え？」の感覚で **Quoi ?** を使うと失礼に響きます。**Pardon ?** を既定にしてください。
 :::
 
-## 5. 練習してみる
+## 5. 丁寧に尋ねる — 質問を包む定型
+
+:::deep Pourriez-vous me dire … ? — 質問の丁寧化
+知らない人にいきなり Où est la gare ? と聞くのは、日本語で「駅どこ」と聞くのに近い直接さです。実際の場面では、**質問を別の文の中に埋め込んで**丁寧にします。
+
+| 段階 | 形 | 例 |
+|---|---|---|
+| 直接 | 疑問文のみ | Où est la gare ? |
+| 標準 | **Excusez-moi,** + 疑問文 | Excusez-moi, où est la gare ? |
+| 丁寧 | **Pourriez-vous me dire** + 間接疑問 | Pourriez-vous me dire **où est la gare** ? |
+| 丁寧 | **Savez-vous** + 間接疑問 | Savez-vous **s'il y a** une pharmacie près d'ici ? |
+| 非常に丁寧 | **J'aimerais savoir** + 間接疑問 | J'aimerais savoir **quand** le train part. |
+
+:::ex 街で尋ねる
+Excusez-moi, je cherche la gare. | エクスキュゼ・モワ・ジュ・シェルシュ・ラ・ガール | すみません、駅を探しているのですが。
+Pourriez-vous me dire où se trouve la poste ? | プリエ・ヴ・ム・ディール・ウ・ス・トルーヴ・ラ・ポスト | 郵便局がどこにあるか教えていただけますか。
+Savez-vous à quelle heure ça ferme ? | サヴェ・ヴ・ア・ケ・ルール・サ・フェルム | 何時に閉まるかご存じですか。
+Est-ce que vous sauriez s'il y a un bus pour le centre ? | エス・ク・ヴ・ソリエ・スィ・リ・ヤ・アン・ビュス | 中心街行きのバスがあるかご存じでしょうか。
+:::
+
+埋め込まれた疑問（間接疑問）では、**est-ce que も倒置も使いません**。語順は平叙文に戻ります（× Pourriez-vous me dire où est-ce que la gare est ?）。「〜かどうか」は **si** でつなぎます。この仕組みの全体は第27.6章（話法）で扱いますが、**旅行会話としては上の4文を型で覚えれば今日から使えます**。
+
+もう1つの実務：**Je cherche …**（〜を探しています）と**平叙文で言って相手の助けを待つ**のも、フランスでは自然な尋ね方です。質問の形を取らないぶん、押しつけがましさがありません。
+:::
+
+## 6. 練習してみる
 
 :::ex 同じ内容を3通りで
 Vous parlez anglais ? | ヴー・パルレ・アングレ | 英語を話しますか？（くだけた）

@@ -220,7 +220,23 @@ c'est + 形容詞は、**感想を述べる最小の文型**です。会話の�
 規範文法では il est … de … ですが（第15章）、**話し言葉では c'est … de … が圧倒的**です。
 :::
 
-## 7. 3つの表現を比べる
+## 7. 人を紹介する — この章の総合演習
+
+提示の表現の出番が最も多いのは、**人と物の紹介**です。ひと続きの場面で使ってみます。
+
+:::ex 友人を紹介する
+Voici mon ami Paul. | ヴォワスィ・モ・ナミ・ポール | こちらは友人のポールです。
+C'est un collègue de bureau. | セ・タン・コレーグ・ドゥ・ビュロ | 職場の同僚です。
+Il est ingénieur. | イ・レ・タンジェニュール | エンジニアをしています。
+Il y a cinq ans qu'on se connaît. | イ・リ・ヤ・サン・カン・コン・ス・コネ | 知り合って5年になります。
+Et voilà sa femme, Marie. | エ・ヴォワラ・サ・ファム・マリ | そしてこちらが奥さんのマリです。
+:::
+
+**型**：Voici …（指し示す）→ C'est + 冠詞つき名詞（何者か）→ Il est + 無冠詞の職業（属性）→ Il y a + 期間（時間）。この章の3表現と第4節の使い分けが、この5文に全部入っています。
+
+**Il y a … que + 現在**（〜して…になる）は depuis の言い換えです：Il y a cinq ans qu'on se connaît. = On se connaît depuis cinq ans.（第7.5章）。
+
+## 8. 3つの表現を比べる
 
 同じ場面を3通りに言い分けてみます。
 
@@ -268,6 +284,12 @@ A. **C'est difficile de choisir.** c'est + 形容詞 + **de** + 不定詞で「�
 
 Q. C'est n'importe quoi. はどういう意味ですか。
 A. 「**めちゃくちゃだ、でたらめだ**」という呆れの口語表現。n'importe quoi（何でも→でたらめ、第10.5章）を c'est で受けた形。強い批判なので使う相手と場面に注意。
+
+Q. 人を紹介する定番の流れを4文で言ってください。
+A. **Voici mon ami Paul.**（指し示す）→ **C'est un collègue.**（何者か・冠詞つき）→ **Il est ingénieur.**（職業・無冠詞）→ **Il y a cinq ans qu'on se connaît.**（付き合いの長さ）。c'est + 名詞、il est + 属性の使い分けが紹介の場面に凝縮されている。
+
+Q. Il y a cinq ans qu'on se connaît. を depuis で言い換えてください。
+A. **On se connaît depuis cinq ans.** il y a + 期間 + que + 現在形は depuis の言い換えで、「〜して…になる」。どちらも現在形と組む（第7.5章）。
 :::
 
 :::ai-gen c'est と il est の使い分け、il y a、voici / voilà

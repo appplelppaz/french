@@ -281,7 +281,27 @@ décembre | デサンブル | 12月
 **Quel jour sommes-nous ?**（今日は何曜日ですか）や **Quelle est la date ?**（今日は何日ですか）で尋ねます。
 :::
 
-## 8. 挨拶と天気 — 実際の会話へ
+## 8. il faut の全時制 — 「必要」の言い分け
+
+:::deep il faut を時制で使いこなす
+il faut は falloir の3人称単数しかない動詞ですが、**時制はすべて揃っています**。日常会話での頻度が非常に高いので、まとめて手に入れてください。
+
+| 形 | 意味 |
+|---|---|
+| Il **faut** partir. | 出発しなければ |
+| Il **fallait** le dire ! | 言ってくれればよかったのに！（半過去） |
+| Il **a fallu** tout refaire. | 全部やり直すはめになった（複合過去） |
+| Il **faudra** réserver. | 予約が必要になるだろう（未来） |
+| Il **faudrait** réserver. | 予約したほうがいいのでは（条件法＝提案） |
+| Il **aurait fallu** partir plus tôt. | もっと早く出るべきだった（条件法過去＝後悔） |
+
+**Il fallait le dire !**（言ってよ！）と **Il faudrait + 不定詞**（〜したほうがいいのでは）は会話の定番です。il faut que + 接続法（第31章）と il faut + 不定詞の使い分け——**主語を特定するなら que + 接続法、一般論なら不定詞**——もここで意識しておくと、第31章が楽になります。
+
+- Il faut **partir**.（（一般に／私たちは）出発しないと）
+- Il faut **que je parte**.（**私は**出発しないと）
+:::
+
+## 9. 挨拶と天気 — 実際の会話へ
 
 天気の話題はフランスでも定番の世間話です。
 
@@ -314,6 +334,18 @@ A. heure が女性名詞なので、demi も女性形 demi**e** で一致させ�
 
 Q. 「7月14日」をフランス語で書いてください。また、「1月1日」はどうなりますか。
 A. le 14 juillet（le + 基数 + 月）。1日だけは序数を使い le 1er janvier（le premier janvier）。2日以降はすべて基数。月名は小文字で書く。
+
+Q. Il fallait le dire ! はどういう意味ですか。
+A. 「**言ってくれればよかったのに！**」。il faut の半過去が「（過去に）必要だった＝してくれなかった」という軽い非難を作る。Il aurait fallu partir plus tôt.（もっと早く出るべきだった）は条件法過去版の後悔。
+
+Q. Il faut partir. と Il faut que je parte. の違いは何ですか。
+A. **不定詞版は一般論・主語ぼかし**（出発しないと）、**que + 接続法版は主語を特定**（**私は**出発しないと）。誰の必要かを言いたいときだけ que 節にする（第31章）。
+
+Q. 「予約したほうがいいのでは」と控えめに提案するには？
+A. **Il faudrait réserver.** il faut の条件法。断定の Il faut réserver.（予約が必要だ）より柔らかい。天気・時刻・il faut は非人称 il の3本柱で、時制を変えるだけで表現の幅が大きく広がる。
+
+Q. 非人称の il と人称の il は、どう見分けますか。
+A. **il が何かを指しているか**を見る。Il pleut. / Il faut … / Il est trois heures. の il は何も指さない形式主語（非人称）。Il est médecin. の il は特定の人を指す（人称）。非人称の il は常に単数で、複数形が存在しない。
 :::
 
 :::ai-gen 非人称構文、天候表現、il faut、時刻と日付
@@ -321,6 +353,10 @@ A. le 14 juillet（le + 基数 + 月）。1日だけは序数を使い le 1er ja
 ## この章の語彙
 
 :::vocab 第15章の語彙
+Il fallait le dire ! | 表現 | 言ってくれればよかったのに
+il faudrait | 表現 | 〜したほうがいいのでは
+réserver | v. | 予約する
+refaire | v. | やり直す
 il faut | v. | 〜しなければならない
 pleuvoir | v. | 雨が降る
 neiger | v. | 雪が降る

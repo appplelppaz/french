@@ -226,7 +226,36 @@ un grand homme が「偉人」になるのは、grand が身長という物理�
 （économique が politique と強く結びつき、その全体を française が修飾する）
 :::
 
-## 9. 副詞への転換
+## 9. 色と国籍 — 実務で最初に必要な形容詞群
+
+:::deep 色の形容詞の特殊規則
+色は形容詞の代表ですが、2つの例外規則があります。
+
+**（1）名詞由来の色は不変化**
+
+orange（オレンジ）、marron（栗＝茶色）など、**物の名前をそのまま色に使ったものは一致しません**。
+
+- des chaussures **marron**（茶色い靴——marron のまま）
+- des robes **orange**（オレンジのドレス）
+
+一致する普通の色（bleu / vert / noir / blanc / rouge / jaune / gris）と区別してください。
+
+**（2）複合色も不変化**
+
+- des yeux **bleu clair**（明るい青の目——bleu**s** としない）
+- une jupe **vert foncé**（深緑のスカート）
+
+clair（明るい）/ foncé（濃い）が付くと全体が不変化になります。
+
+**国籍の形容詞**は小文字で書きます（名詞として「〜人」を言うときは大文字）。
+
+- Elle est **japonaise**.（形容詞・小文字）
+- C'est une **Japonaise**.（名詞・大文字）
+
+日本語話者は大文字小文字の区別を落としがちですが、フランス語では**形容詞は常に小文字**です（英語の Japanese と違う点）。
+:::
+
+## 10. 副詞への転換
 
 :::deep 形容詞から副詞を作る
 **女性形に -ment を付ける**のが基本規則です。
@@ -269,6 +298,18 @@ A. 動詞を修飾するのは副詞であり、形容詞ではないため。bo
 
 Q. évidemment はどう発音しますか。また、どの形容詞から作られていますか。
 A. 「エヴィダマン」。-ent で終わる形容詞 évident から、-emment を付けて作られる。-amment（constant → constamment）と -emment（évident → évidemment）は綴りが違うが、どちらも「アマン」と発音される。
+
+Q. des chaussures marron の marron に s が付かないのはなぜですか。
+A. marron（栗）は**名詞由来の色**なので不変化だから。orange も同じ。名詞をそのまま色名に転用した形容詞は一致しない。普通の色（bleu / noir / rouge …）は一致する。
+
+Q. 「明るい青の目」は des yeux bleus clairs ですか。
+A. 違う。**des yeux bleu clair**。clair / foncé などが付いた**複合色は全体が不変化**になる。une jupe vert foncé（深緑のスカート）も同じ。
+
+Q. Elle est japonaise. と C'est une Japonaise. で大文字が違うのはなぜですか。
+A. **形容詞は小文字、名詞（〜人）は大文字**という規則があるから。英語がどちらも Japanese と大文字にするのと違い、フランス語では品詞で書き分ける。言語名も小文字（le japonais 日本語）。
+
+Q. 「彼女は背の高い美しい女性だ」のように形容詞を2つ使うとき、位置はどうなりますか。
+A. それぞれの形容詞の定位置に置く：**une belle femme grande** より **une grande et belle femme** など並べ方は複数ありうるが、原則は「前置形容詞は前、後置形容詞は後ろ」（une **petite** voiture **rouge** 小さくて赤い車）。同じ位置に2つ並ぶときは et でつなぐ。
 :::
 
 :::ai-gen 形容詞の性数一致、形容詞の位置、位置で意味が変わる形容詞
@@ -276,6 +317,12 @@ A. 「エヴィダマン」。-ent で終わる形容詞 évident から、-emme
 ## この章の語彙
 
 :::vocab 第6章の語彙
+marron | adj. | 茶色の（不変化）
+orange | adj. | オレンジ色の（不変化）
+clair / claire | adj. | 明るい
+foncé / foncée | adj. | 濃い
+jupe | n.f. | スカート
+chaussure | n.f. | 靴
 grand / grande | adj. | 大きい、背が高い
 petit / petite | adj. | 小さい
 bon / bonne | adj. | 良い
