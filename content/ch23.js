@@ -243,7 +243,31 @@ se souvenir, s'en aller のように分解できない動詞は、**主語に一
 これらはすべて**過去分詞が一致しません**（直接目的語が別にあるため）。
 :::
 
-## 6. 一日の行動を言ってみる
+## 6. 代名動詞でしか言えないこと — 頻出動詞の使い分け
+
+:::deep 代名動詞と普通の形で意味が変わる動詞
+多くの動詞は、代名動詞になると**意味がずれます**。「再帰」からは予測できないものを列挙します。
+
+| 普通の形 | 代名動詞 |
+|---|---|
+| attendre（待つ） | **s'attendre à**（予期する）：Je m'attendais à ça. そうなると思ってた |
+| douter（疑う） | **se douter de**（うすうす気づく）：Je m'en doutais. やっぱりね |
+| mettre（置く） | **se mettre à**（〜し始める）：Il s'est mis à pleurer. 泣き出した |
+| passer（通る） | **se passer**（起こる）：Qu'est-ce qui se passe ? どうしたの？ |
+| | **se passer de**（〜なしで済ます）：Je peux m'en passer. |
+| trouver（見つける） | **se trouver**（位置する）：Où se trouve la gare ? 駅はどこですか |
+| entendre（聞こえる） | **s'entendre**（仲がいい）：On s'entend bien. 気が合う |
+| servir（仕える・出す） | **se servir de**（使う）：Je me sers de ce dico. この辞書を使っている |
+| rendre（返す） | **se rendre compte de**（気づく）：Je me suis rendu compte de mon erreur. |
+| tromper（だます） | **se tromper**（間違える）：Je me suis trompé. 間違えました |
+| plaindre（哀れむ） | **se plaindre de**（不平を言う）：Il se plaint tout le temps. |
+
+**Qu'est-ce qui se passe ?**（どうしたの？）、**Je me suis trompé.**（間違えました）、**On s'entend bien.**（気が合う）は日常の最頻出文です。**代名動詞は「再帰」の文法である以上に、これら頻出表現の置き場**だと考えて、1つずつ成句として覚えてください。
+
+なお **se rendre compte** の過去分詞は一致させません（Elle s'est rendu compte …）——compte が直接目的語なので、se は間接目的語になるためです（§4の規則どおり）。
+:::
+
+## 7. 一日の行動を言ってみる
 
 代名動詞は日常の行動を表すものが多いので、まとめて練習できます。
 
@@ -256,7 +280,7 @@ Le soir, je me repose. | ル・ソワール・ジュ・ム・ルポーズ | 夜�
 Je me couche vers minuit. | ジュ・ム・クシュ・ヴェール・ミニュイ | 真夜中ごろに寝る。
 :::
 
-## 7. 活用ドリル
+## 8. 活用ドリル
 
 代名動詞の活用は、再帰代名詞を付ける以外は通常の動詞と同じです。まず基になる動詞で練習します。
 
@@ -282,6 +306,18 @@ A. 身体部位には所有形容詞ではなく定冠詞を使い、所有者�
 
 Q. Ce livre se vend bien. は受動の意味ですが、第28章の受動態（être + 過去分詞）とどちらがよく使われますか。
 A. 代名動詞の受動的用法のほうが日常的によく使われる。行為者を言う必要がないとき、フランス語は受動態より se + 動詞、あるいは on を使う構文を好む。
+
+Q. Qu'est-ce qui se passe ? はどういう意味ですか。passer との関係は？
+A. 「**どうしたの？ 何が起きてるの？**」。se passer は「起こる」で、passer（通る）から意味がずれた代名動詞。過去なら Qu'est-ce qui s'est passé ?（何があったの？）。
+
+Q. Je m'en doutais. はどういう意味ですか。douter との違いは？
+A. 「**やっぱりね（うすうすそう思っていた）**」。se douter de は「うすうす気づく」で、douter de（疑う）とほぼ**逆の意味**になる。en が de ça を受けている。代名動詞化で意味が予測不能にずれる代表例。
+
+Q. 「駅はどこですか」を se trouver で言ってください。
+A. **Où se trouve la gare ?** se trouver は「位置する・ある」で、建物・場所の所在を尋ねる定型。Où est la gare ? より少し丁寧・客観的な響き。
+
+Q. Elle s'est rendu compte de son erreur. で rendu が一致しないのはなぜですか。
+A. **compte が直接目的語**なので、se は間接目的語（自分に勘定を返す→気づく）だから。§4の規則「se が間接目的語なら一致しない」がそのまま働く。se rendre compte は最頻出の「気づく」なので、この形のまま覚える。
 :::
 
 :::ai-gen 代名動詞、4つの用法、過去分詞の一致
@@ -289,6 +325,16 @@ A. 代名動詞の受動的用法のほうが日常的によく使われる。�
 ## この章の語彙
 
 :::vocab 第23章の語彙
+se passer | v.pr. | 起こる
+se passer de | v.pr. | 〜なしで済ます
+s'attendre à | v.pr. | 予期する
+se douter de | v.pr. | うすうす気づく
+se mettre à | v.pr. | 〜し始める
+se trouver | v.pr. | 位置する、ある
+s'entendre | v.pr. | 仲がいい
+se servir de | v.pr. | 使う
+se rendre compte de | v.pr. | 気づく
+se plaindre de | v.pr. | 不平を言う
 se lever | v.pr. | 起きる
 se coucher | v.pr. | 寝る
 se réveiller | v.pr. | 目が覚める

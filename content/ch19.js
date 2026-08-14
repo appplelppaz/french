@@ -229,7 +229,43 @@ Donne-moi ça. | ドンヌ・モワ・サ | それをちょうだい。
 
 これは強勢形の原理そのものです。**位置が形を決めている。**
 
-## 6. 「あなたと一緒に」を言ってみる
+## 6. -même と soi — 強勢形の広がり
+
+:::deep 強勢形 + -même（〜自身）
+強勢形に **-même** を付けると「〜自身」を表します（第10.5章の même の一用法）。
+
+:::ex -même
+Je l'ai fait moi-même. | ジュ・レ・フェ・モワ・メーム | 自分でやりました。
+Il l'a dit lui-même. | イル・ラ・ディ・リュイ・メーム | 彼自身がそう言った。
+Faites-le vous-mêmes. | フェット・ル・ヴー・メーム | 自分たちでやりなさい。
+:::
+
+vous が敬称単数なら vous-même（s なし）、複数なら vous-mêmes。**le fait maison / fait main**（自家製・手作り）と並んで、moi-même は「自分で」を強調する日常表現です。
+
+**soi — 不定の主語を受ける強勢形**
+
+主語が on / chacun / tout le monde など**不特定**のとき、強勢形は lui / elle ではなく **soi** になります。
+
+:::ex soi
+Chacun pour soi. | シャカン・プール・ソワ | 各自は自分のために（自己責任）。
+On rentre chez soi. | オン・ラントル・シェ・ソワ | 人はわが家へ帰る。
+Il faut avoir confiance en soi. | イル・フォ・アヴォワール・コンフィヤンス・アン・ソワ | 自分に自信を持たなければ。
+:::
+
+**chez soi**（自分の家）、**en soi**（それ自体）、**la confiance en soi**（自信）は soi の定型です。特定の人が主語なら chez lui / chez elle に戻ります。
+
+:::ex 会話の相づちとしての強勢形
+Moi aussi. | モワ・オスィ | 私も。
+Moi non plus. | モワ・ノン・プリュ | 私も（〜ない）。
+Pas moi. | パ・モワ | 私は違う。
+Moi si. | モワ・スィ | 私はそうだよ。（相手の否定に反対）
+Et toi ? | エ・トワ | で、君は？
+:::
+
+この5つは**動詞なしで文になる**強勢形の代表です。J'aime le café. — **Moi aussi.** ／ Je n'aime pas ça. — **Moi non plus.**（同意）／ **Moi si.**（私は好き）。相づちの既定セットとして丸ごと覚えてください。
+:::
+
+## 7. 「あなたと一緒に」を言ってみる
 
 :::ex 強勢形を使った表現
 Je veux rester avec toi. | ジュ・ヴ・レステ・アヴェック・トワ | 君と一緒にいたい。
@@ -262,6 +298,18 @@ A. penser à の à は「相手に何かを届ける」タイプではなく「
 
 Q. 肯定命令で me が moi に変わるのはなぜですか。
 A. 肯定命令では代名詞が動詞の後ろ＝強い位置に来るため、弱形 me が強形 moi に変わる。否定命令では動詞の前（弱い位置）なので me のまま。位置が形を決めるという、強勢形の原理そのもの。
+
+Q. 「自分でやりました」を強勢形を使って言ってください。
+A. **Je l'ai fait moi-même.** 強勢形 + -même で「〜自身」。il なら lui-même、敬称単数の vous なら vous-même（s なし）、複数なら vous-mêmes / eux-mêmes。
+
+Q. On rentre chez soi. の soi は何ですか。
+A. **不定の主語（on / chacun / tout le monde）を受ける強勢形**。特定の人なら chez lui / chez elle だが、不特定なら soi になる。chez soi（わが家）、en soi（それ自体）、la confiance en soi（自信）が定型。
+
+Q. Je n'aime pas ça. に「私も（嫌い）」と返すには？「私は好き」なら？
+A. **Moi non plus.**（否定への同意は non plus。× Moi aussi）。「私は好き」と反対するなら **Moi si.**（否定に対する肯定は si、第9章）。肯定文への「私も」は Moi aussi.、「私は違う」は Pas moi.。この4つは動詞なしで文になる相づちの既定セット。
+
+Q. 前置詞の後に je や me を置けないのはなぜですか。
+A. je / me は**無強勢の接語**で、動詞に寄りかからないと発音できない弱い形だから。前置詞の後ろは強勢が当たる自立した位置なので、**強勢形**（moi, toi, lui …）しか立てない。avec moi（× avec je / avec me）。
 :::
 
 :::ai-gen 強勢形、前置詞の後の代名詞、penser à + 強勢形
@@ -269,6 +317,14 @@ A. 肯定命令では代名詞が動詞の後ろ＝強い位置に来るため�
 ## この章の語彙
 
 :::vocab 第19章の語彙
+moi-même | pron. | 私自身
+soi | pron. | 自分（不定の主語を受ける）
+chez soi | 表現 | 自分の家で
+en soi | 表現 | それ自体
+confiance | n.f. | 信頼、自信
+Moi aussi. | 表現 | 私も
+Moi non plus. | 表現 | 私も〜ない
+Pas moi. | 表現 | 私は違う
 moi | pron. | 私（強勢形）
 toi | pron. | 君（強勢形）
 lui | pron. | 彼（強勢形）

@@ -195,7 +195,33 @@ Il demande : « Qui est là ? » → Il demande qui est là. | イル・ドゥ�
 - [[Il dit de venir.\|イル・ディ・ドゥ・ヴニール\|彼は来るように言っている。]]（命令の伝達）
 :::
 
-## 7. 総合練習
+## 7. 命令の間接話法と、自由間接話法
+
+:::deep 命令文を伝える — de + 不定詞
+命令文を間接話法にするときは、que 節ではなく **de + 不定詞**を使います。
+
+:::ex 命令の間接話法
+« Viens ! » → Il m'a dit de venir. | イル・マ・ディ・ドゥ・ヴニール | 彼は私に来るように言った。
+« Ne partez pas ! » → Elle nous a demandé de ne pas partir. | エル・ヌー・ザ・ドゥマンデ・ドゥ・ヌ・パ・パルティール | 彼女は私たちに出発しないよう頼んだ。
+« Attendez-moi. » → Il leur a dit de l'attendre. | イル・ルール・ア・ディ・ドゥ・ラタンドル | 彼は彼らに自分を待つよう言った。
+:::
+
+**dire à qn de faire / demander à qn de faire / conseiller à qn de faire**——第7.5章で見た「人には à、行為には de」の型がそのまま使われます。否定は **de ne pas + 不定詞**（ne pas がまとまって前）です。
+:::
+
+:::adv 自由間接話法 — 小説の第3の話法
+文学作品には、直接話法とも間接話法とも違う**第3の話法**があります。
+
+- 直接話法：Il pensa : « C'est trop tard. Je ne la reverrai jamais. »
+- 間接話法：Il pensa que c'était trop tard et qu'il ne la reverrait jamais.
+- **自由間接話法**：Il s'arrêta. **C'était trop tard. Il ne la reverrait jamais.**（彼は立ち止まった。もう遅すぎる。二度と彼女に会えないのだ。）
+
+伝達動詞（il pensa que）を消し、**時制と人称だけ間接話法のまま**、地の文に登場人物の思考を流し込む——これが自由間接話法（le discours indirect libre）です。フロベール以降のフランス小説で多用され、**condition法や半過去が地の文に突然現れたら、登場人物の内心**と読むのが読解の鍵になります。
+
+書けるようになる必要はありませんが、小説を原文で読むなら必ず出会う形です。
+:::
+
+## 8. 総合練習
 
 :::ex 直接話法から間接話法へ
 Il a dit : « Je suis fatigué. » → Il a dit qu'il était fatigué. | イラ・ディ・キ・レテ・ファティゲ | 彼は疲れたと言った。
@@ -234,6 +260,18 @@ A. 前者は情報の伝達（彼は来ると言っている）、後者は命�
 
 Q. Il a dit : « Je pars demain. » を間接話法にしてください。
 A. **Il a dit qu'il partait le lendemain.** 人称（je → il）、時制（現在 → 半過去）、時を表す語（demain → le lendemain）の3つが同時に変化する。
+
+Q. « Viens ! » を間接話法にしてください。que 節を使えますか。
+A. **Il m'a dit de venir.** 命令文の間接話法は que 節ではなく **de + 不定詞**。否定命令は de **ne pas** + 不定詞（Elle nous a demandé de ne pas partir.）。dire / demander / conseiller à qn de faire という「人には à、行為には de」の型。
+
+Q. 自由間接話法とは何ですか。
+A. 伝達動詞を消し、**時制と人称だけ間接話法のまま**地の文に登場人物の思考を流し込む文学の話法。Il s'arrêta. C'était trop tard. Il ne la reverrait jamais.（立ち止まった。もう遅すぎる。二度と会えないのだ）。条件法や半過去が地の文に突然現れたら内心の声と読む。フロベール以降の小説で多用。
+
+Q. 時制の一致で変わらない時制はありますか。
+A. ある。**半過去・大過去・条件法はそのまま**（すでに「過去から見た」形だから）。また、普遍の真理や現在も有効な事実は現在形のままにできる（Il a dit que la Terre est ronde.）。
+
+Q. 「彼は疲れていると言った」で、「疲れている」のは誰ですか。フランス語ではどう区別しますか。
+A. 日本語では曖昧だが、フランス語は人称で明示される。Il a dit **qu'il** était fatigué.（il = 彼自身か別の男性かは文脈次第だが、少なくとも3人称）。話者自身なら Il a dit que **j'**étais fatigué.（彼は私が疲れていると言った）。間接話法では**人称の付け替え**が時制の一致と同じくらい重要。
 :::
 
 :::ai-gen 直接話法と間接話法、時制の一致、間接疑問
@@ -241,6 +279,12 @@ A. **Il a dit qu'il partait le lendemain.** 人称（je → il）、時制（現
 ## この章の語彙
 
 :::vocab 第27.6章の語彙
+dire à qn de + 不定詞 | 構文 | 〜するように言う
+demander à qn de + 不定詞 | 構文 | 〜するように頼む
+conseiller à qn de + 不定詞 | 構文 | 〜するように勧める
+discours indirect libre | n.m. | 自由間接話法
+revoir | v. | 再会する
+s'arrêter | v.pr. | 立ち止まる
 dire que | v. | 〜と言う
 demander si | v. | 〜かどうか尋ねる
 demander de | v. | 〜するよう頼む

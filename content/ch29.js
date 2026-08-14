@@ -242,7 +242,40 @@ Elle marche en chantant. | エル・マルシュ・アン・シャンタン | �
 英語話者が最も間違えるのがこの2点です。
 :::
 
-## 8. 練習してみる
+## 8. tout en + ジェロンディフ、否定、そして使えない場面
+
+:::deep ジェロンディフの細部
+**（1）tout en + ジェロンディフ — 対立・逆説の同時**
+
+[[Il travaille tout en écoutant de la musique.|イル・トラヴァイユ・トゥ・タン・ネクタン・ドゥ・ラ・ミュズィック|彼は音楽を聞きながら働く。]]
+[[Tout en souriant, elle était furieuse.|トゥ・タン・スリヤン・エ・レテ・フュリユーズ|微笑みながらも、彼女は激怒していた。]]
+
+tout を付けると同時性が強調され、しばしば「〜しながら**も**」という**逆説**の含みが出ます。
+
+**（2）ジェロンディフの否定はまれ — sans + 不定詞を使う**
+
+「〜せずに」は、ジェロンディフの否定（en ne faisant pas）ではなく **sans + 不定詞**で言うのが自然です。
+
+- ○ Il est parti **sans dire** au revoir.（さよならも言わずに出て行った）
+- △ Il est parti en ne disant pas au revoir.（不自然）
+
+**（3）主語の一致 — ぶら下がり分詞は誤り**
+
+ジェロンディフの意味上の主語は**主節の主語**です。一致しないと誤文になります。
+
+- × **En sortant** du métro, la pluie s'est mise à tomber.（地下鉄を出たのは雨ではない）
+- ○ **En sortant** du métro, **j'ai** reçu la pluie. → 自然には：Quand je suis sorti du métro, il s'est mis à pleuvoir.
+
+英語の懸垂分詞（dangling participle）と同じ誤りで、フランス語でも規範違反です。
+
+**（4）「〜すれば」の条件用法**
+
+[[En prenant le train de 8 heures, tu arriveras à temps.|アン・プルナン・ル・トラン・ドゥ・ユイ・トゥール|8時の電車に乗れば間に合うよ。]]
+
+si 節の代わりになる圧縮した条件です（第30章）。**C'est en forgeant qu'on devient forgeron.**（鍛冶をすることで鍛冶屋になる＝習うより慣れろ）という諺は、この用法の強調構文（第22章）です。
+:::
+
+## 9. 練習してみる
 
 :::ex 現在分詞とジェロンディフ
 Il travaille en écoutant de la musique. | イル・トラヴァイユ・ア・ネクタン・ドゥ・ラ・ミュズィック | 彼は音楽を聴きながら働く。
@@ -272,6 +305,18 @@ A. 書けない。フランス語で動名詞にあたるのは**不定詞**な�
 
 Q. C'est en forgeant qu'on devient forgeron. には、どの文法項目が使われていますか。
 A. 第22章の**強調構文**（c'est … que）と、この章の**手段のジェロンディフ**（en forgeant）。「鍛冶をすることによってこそ鍛冶屋になる」＝習うより慣れよ、という諺。
+
+Q. Tout en souriant, elle était furieuse. の tout は何を加えていますか。
+A. **同時性の強調と逆説**。tout en + ジェロンディフは「〜しながらも」という対立の含みを持つ（微笑みながらも怒っていた）。
+
+Q. 「さよならも言わずに出て行った」はジェロンディフの否定で言いますか。
+A. 言わない。**sans + 不定詞**を使う：Il est parti **sans dire** au revoir. ジェロンディフの否定（en ne disant pas）は不自然で、「〜せずに」は sans が担当する。
+
+Q. En sortant du métro, la pluie s'est mise à tomber. はなぜ誤りですか。
+A. ジェロンディフの意味上の主語は**主節の主語**でなければならないから。この文では「地下鉄を出た」のが la pluie（雨）になってしまう。英語の懸垂分詞と同じ誤り。Quand je suis sorti du métro, il s'est mis à pleuvoir. などに直す。
+
+Q. C'est en forgeant qu'on devient forgeron. はどんな構造ですか。
+A. ジェロンディフの**手段・条件**の用法（鍛冶をすることで）を、**c'est … que の強調構文**（第22章）で取り出した形。「習うより慣れろ」にあたる諺。ジェロンディフが si 節の代わりの条件になる用法（En prenant le train de 8 heures, …）の代表例。
 :::
 
 :::ai-gen 現在分詞、ジェロンディフ、形容詞的分詞の区別
@@ -279,6 +324,12 @@ A. 第22章の**強調構文**（c'est … que）と、この章の**手段の�
 ## この章の語彙
 
 :::vocab 第29章の語彙
+tout en + ジェロンディフ | 構文 | 〜しながらも
+sans + 不定詞 | 構文 | 〜せずに
+furieux / furieuse | adj. | 激怒した
+forger | v. | 鍛える
+forgeron | n.m. | 鍛冶屋
+à temps | loc. | 間に合って
 en + 現在分詞 | 構文 | 〜しながら（ジェロンディフ）
 étant | p.prés. | être の現在分詞
 ayant | p.prés. | avoir の現在分詞

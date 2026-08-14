@@ -219,7 +219,48 @@ Ce sont les moins chers. | ス・ソン・レ・モワン・シェール | そ�
 この ne に否定の意味はありません。**書き言葉・改まった文体でのみ**現れます。話し言葉では省略されます。
 :::
 
-## 6. まとめの表
+## 6. 比較の細部 — 大学レベルの4点
+
+:::deep 押さえておきたい細部
+
+**（1）que の後の代名詞は強勢形**
+
+[[Il est plus grand que moi.|イ・レ・プリュ・グラン・ク・モワ|彼は私より背が高い。]]（× que je）
+
+比較の que の後ろは強い位置なので強勢形です（第19章）。
+
+**（2）比較の従属節では虚辞の ne**
+
+[[C'est plus difficile que je ne pensais.|セ・プリュ・ディフィスィル・ク・ジュ・ヌ・パンセ|思っていたより難しい。]]
+
+que の後ろに**文**が来ると、書き言葉では否定でない **ne**（虚辞の ne、第31.5章）が入ります。「思っていたほどではない」という含みの名残で、話し言葉では落ちます。
+
+**（3）数量の差を示す — de**
+
+[[Il est plus âgé que moi de trois ans.|イ・レ・プリュ・ザジェ・ク・モワ・ドゥ・トロワ・ザン|彼は私より3歳年上だ。]]
+[[C'est 10 euros de plus.|セ・ディ・ズーロ・ドゥ・プリュス|10ユーロ高い。]]
+
+差の大きさは **de** で導きます。**de plus / de moins**（〜多く／少なく）は価格・年齢の会話で頻出です。
+
+**（4）比較級を強める語**
+
+「ずっと〜」「はるかに〜」は **beaucoup / bien / encore + plus** で作ります。
+
+- [[C'est beaucoup plus cher.|セ・ボクー・プリュ・シェール|ずっと高い。]]
+- [[Elle chante bien mieux que moi.|エル・シャント・ビヤン・ミュー・ク・モワ|彼女は私よりずっと歌がうまい。]]
+- [[C'est encore pire.|セ・タンコール・ピール|なおさら悪い。]]
+
+**pire**（plus mauvais の不規則形）は抽象的な「悪さ」に使い、具体的な品質には plus mauvais も使えます。**C'est pire.**（もっとひどい）、**de pire en pire**（ますます悪く）は口語頻出。
+
+**（5）進行の比較 — de plus en plus**
+
+- [[Il fait de plus en plus chaud.|イル・フェ・ドゥ・プリュ・ザン・プリュ・ショ|ますます暑くなってきた。]]
+- [[de moins en moins|ドゥ・モワン・ザン・モワン|ますます〜でなく]]
+
+**plus … plus …**（〜すればするほど）とあわせて、変化を語る道具です：[[Plus je le connais, plus je l'apprécie.|プリュ・ジュ・ル・コネ・プリュ・ジュ・ラプレスィ|知れば知るほど彼が好きになる。]]（文頭の plus に冠詞・que は不要）
+:::
+
+## 7. まとめの表
 
 :::note 比較・最上級・一覧
 | 比べる対象 | 優等 | 同等 | 劣等 |
@@ -259,6 +300,18 @@ A. 最上級の範囲を表すのは常に前置詞 **de**。「世界で」だ�
 
 Q. Je n'en veux plus. と Moi, j'en veux plus. は、どう聞き分けますか。
 A. plus の s を発音するかどうか。否定の ne … plus では s を読まず「プリュ」、数量の plus（もっと）は文末で s を読み「プリュス」。話し言葉では ne が落ちるため、**s の有無だけが「もう要らない」と「もっと欲しい」を区別する**ことになる。
+
+Q. C'est plus difficile que je ne pensais. の ne は否定ですか。
+A. 否定ではない。**虚辞の ne**（第31.5章）で、比較の que の後ろに文が来るとき書き言葉で入る。「思っていたほどではない」という含みの名残。話し言葉では落ちて que je pensais となる。
+
+Q. 「彼は私より3歳年上だ」の「3歳」はどう導きますか。
+A. **de** で導く：Il est plus âgé que moi **de trois ans.** 差の大きさは de + 数量。C'est 10 euros **de plus**.（10ユーロ高い）の de plus / de moins も同じ仕組み。
+
+Q. 「ずっと高い」と比較を強めるには？ très は使えますか。
+A. **beaucoup plus cher / bien plus cher**。比較級を強めるのは beaucoup / bien / encore で、**très は使えない**（× très plus cher）。mieux を強めるなら bien mieux / beaucoup mieux。
+
+Q. de plus en plus はどういう意味ですか。反対は？
+A. 「**ますます〜**」（Il fait de plus en plus chaud. ますます暑い）。反対は **de moins en moins**。「〜すればするほど」は Plus je le connais, plus je l'apprécie. のように plus …, plus … を文頭に並べる（冠詞・que は不要）。
 :::
 
 :::ai-gen 比較級と最上級、meilleur と mieux の使い分け
@@ -266,6 +319,12 @@ A. plus の s を発音するかどうか。否定の ne … plus では s を�
 ## この章の語彙
 
 :::vocab 第14章の語彙
+pire | adj. | より悪い（mauvais の比較級）
+de plus en plus | loc. | ますます
+de moins en moins | loc. | ますます〜でなく
+de pire en pire | loc. | ますます悪く
+âgé / âgée | adj. | 年をとった
+apprécier | v. | 高く評価する、好む
 plus | adv. | より多く
 moins | adv. | より少なく
 aussi | adv. | 同じくらい、〜も

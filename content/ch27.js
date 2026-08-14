@@ -201,13 +201,39 @@ souvent（しばしば）、toujours（いつも）、tous les jours（毎日）
 [[Il allait partir.\|イ・ラレ・パルティール\|彼は出発しようとしていた。]]
 :::
 
-## 5. 全時制の中での位置
+## 5. 使い分けの実践 — 短い物語で確認する
+
+理屈を1つの物語に落とし込みます。**どの動詞がなぜその時制なのか**を、1文ずつ確認してください。
+
+:::ex ある朝の話
+Quand j'étais étudiant, j'habitais un petit studio. | カン・ジェテ・ゼテュディヤン・ジャビテ・アン・プティ・ステュディオ | 学生のころ、小さなワンルームに住んでいた。（背景×2）
+Tous les matins, je prenais le métro à sept heures. | トゥ・レ・マタン・ジュ・プルネ・ル・メトロ | 毎朝7時に地下鉄に乗っていた。（習慣）
+Un matin, le métro s'est arrêté entre deux stations. | アン・マタン・ル・メトロ・セ・タレテ | ある朝、地下鉄が駅の間で止まった。（出来事＝物語が動く）
+Il faisait noir, les gens s'inquiétaient. | イル・フゼ・ノワール・レ・ジャン・サンキエテ | 暗くて、乗客は不安がっていた。（その場の描写）
+Alors, quelqu'un a commencé à chanter. | アロール・ケルカン・ア・コマンセ・ア・シャンテ | すると、誰かが歌い出した。（出来事）
+Tout le monde a ri, et moi aussi. | トゥ・ル・モンド・ア・リ・エ・モワ・オスィ | みんな笑った。私も笑った。（出来事）
+:::
+
+型が見えます。**Quand j'étais petit / étudiant（〜だったころ）+ 半過去の背景・習慣 → Un jour / Un matin（ある日）+ 複合過去の出来事**。第20.5章の童話の型（Il était une fois → Un jour）と同じ骨組みが、日常の思い出話にもそのまま現れています。
+
+**Quand j'étais petit(e), …**（小さいころは…）は思い出話の定型の入り口です。この後ろは習慣・状態なので、ほぼ自動的に半過去が続きます。
+
+:::note 迷ったときの判定手順
+1. **「そのとき何が起きた？」への答えになるか** → なる：複合過去
+2. **「そのときどんな様子だった？」への答えになるか** → なる：半過去
+3. **習慣（毎日・いつも・当時は）か** → 半過去
+4. **区切り（〜の間、3回、ある日）が明示されているか** → 複合過去
+
+多くの動詞はどちらにもなれます。**時制の選択は事実の性質ではなく、話し手の捉え方**——これがこの章の結論です。
+:::
+
+## 6. 全時制の中での位置
 
 :::conj chanter present,imparfait,passeCompose
 
 **現在 → 半過去 → 複合過去**を並べると、半過去が「現在形の語幹をそのまま使っている」ことが見えます。第13章で述べた「①直説法現在から3つ」の枝の1本です。
 
-## 6. 活用ドリル
+## 7. 活用ドリル
 
 :::drill chanter,finir,prendre,être,avoir,aller,faire,venir,voir,boire,manger,commencer imparfait
 
@@ -237,6 +263,18 @@ A. e を挟むのは g を [ʒ] に保つため（a や o の前で [g] にな�
 
 Q. Si on allait au cinéma ? は過去の話ですか。
 A. 違う。si + 半過去で「〜しない？」という**提案**を表す用法。半過去には他にも、語調を和らげる用法（Je voulais vous demander…）や、間接話法で「その時点の現在」を表す用法があり、必ずしも過去を表すとは限らない。
+
+Q. 思い出話を始める定型表現と、その後に続きやすい時制を述べてください。
+A. **Quand j'étais petit(e), …**（小さいころは…）。後ろには習慣・状態が続くので、ほぼ自動的に**半過去**になる。物語が動き出す **Un jour / Un matin**（ある日・ある朝）で複合過去に切り替わる。童話の Il était une fois → Un jour と同じ骨組み。
+
+Q. j'ai su と je savais の違いは何ですか。
+A. **je savais** は「知っていた」（状態）、**j'ai su** は「知った・知るに至った」（状態に入った瞬間を出来事として捉える）。同様に je pouvais（できる状態だった）/ j'ai pu（実際にやれた）、je voulais（〜したかった）/ j'ai voulu（〜しようとした）、je connaissais（知っていた）/ j'ai connu（知り合った）。
+
+Q. Si on allait au cinéma ? に過去の意味はありますか。
+A. ない。**si + 半過去（主節なし）は「〜しない？」という提案**。半過去が過去ではなく「現実からの距離」を表す用法で、語調緩和（Je voulais vous demander …）や反実仮想の si 節と同じ原理。
+
+Q. 時制の選択を最終的に決めるのは何ですか。
+A. **事実の性質ではなく、話し手の捉え方**。同じ「3年間パリに住んだ」事実でも、期間で区切って出来事として言えば複合過去（J'ai habité à Paris pendant trois ans.）、当時の背景として言えば半過去（J'habitais à Paris à cette époque.）。
 :::
 
 :::ai-gen 半過去、複合過去との使い分け、状態動詞の時制対立
@@ -244,6 +282,14 @@ A. 違う。si + 半過去で「〜しない？」という**提案**を表す�
 ## この章の語彙
 
 :::vocab 第27章の語彙
+Quand j'étais petit(e) | 表現 | 小さいころは
+à cette époque | 表現 | 当時
+d'habitude | adv. | 普段は
+autrefois | adv. | 昔は
+studio | n.m. | ワンルーム
+station | n.f. | 駅（地下鉄）
+s'inquiéter | v.pr. | 心配する
+rire | v. | 笑う
 autrefois | adv. | 昔は
 d'habitude | adv. | 普段は
 souvent | adv. | しばしば

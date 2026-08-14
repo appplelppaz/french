@@ -187,7 +187,46 @@ Cette maison s'est construite en 1900. | セット・メゾン・セ・コンス
 - [[La porte a été fermée.\|ラ・ポル・タ・エテ・フェルメ\|ドアが閉められた。]]（動作と読みやすい）
 :::
 
-## 7. 練習してみる
+## 7. se faire + 不定詞 — もう1つの受け身
+
+:::deep se faire / se laisser + 不定詞
+「〜される」を表すもう1つの重要な手段が **se faire + 不定詞**です。話し言葉では受動態よりよく使われる場面があります。
+
+:::ex se faire + 不定詞
+Il s'est fait voler son vélo. | イル・セ・フェ・ヴォレ・ソン・ヴェロ | 彼は自転車を盗まれた。
+Elle s'est fait couper les cheveux. | エル・セ・フェ・クペ・レ・シュヴー | 彼女は髪を切ってもらった。
+Je me suis fait avoir. | ジュ・ム・スュイ・フェ・アヴォワール | やられた（だまされた）。
+Il s'est fait gronder par sa mère. | イル・セ・フェ・グロンデ・パール・サ・メール | 彼は母親に叱られた。
+:::
+
+ニュアンスは2つあります。
+
+- **被害**：Il s'est fait voler …（盗まれた——迷惑・被害の含み）
+- **依頼**：Elle s'est fait couper les cheveux.（切って**もらった**——自分で手配した）
+
+日本語の「〜される（迷惑）」と「〜してもらう」の両方をこの形がカバーします。**間接目的語の残る受け身**（自転車**を**盗まれた、髪**を**切ってもらった）は普通の受動態では書けないので、se faire が唯一の言い方になります。
+
+- × Son vélo lui a été volé.（文法的には可能だが硬い）
+- ○ Il **s'est fait voler** son vélo.（自然）
+
+なお、この構文の fait は**不変化**です（Elle s'est **fait** couper …。× faite）。faire + 不定詞の使役では過去分詞を一致させないという規則（第23章）がここにも及んでいます。
+
+**se laisser + 不定詞**（〜されるがままになる）も同じ型です：Il s'est laissé convaincre.（彼は説得されてしまった）。
+:::
+
+## 8. よくある誤り
+
+:::warn 日本語話者がやりがちな誤り
+| × | ○ | 理由 |
+|---|---|---|
+| La porte a ouvert**e** par Marie. | La porte a été ouvert**e** par Marie. | été を落とさない（être + 過去分詞） |
+| Il a été volé son vélo. | Il **s'est fait voler** son vélo. | 所有物が残る受け身は se faire（§7） |
+| Cette maison est construite en 1900. | Cette maison **a été** construite en 1900. | 出来事の過去は複合過去の受動態（§6） |
+| Je suis téléphoné par lui. | Il **m'a** téléphoné. | 間接目的語は受動態の主語になれない（§5） |
+| Ce livre est vendu bien. | Ce livre **se vend** bien. | 性質の受け身は代名動詞（§4） |
+:::
+
+## 9. 練習してみる
 
 :::ex 能動・受動・on・代名動詞
 Le professeur corrige les copies. | ル・プロフェスール・コリージュ・レ・コピ | 先生が答案を採点する。（能動）
@@ -216,6 +255,18 @@ A. **代名動詞の受動的用法**（第23章）。主語がモノのとき�
 
 Q. La porte est fermée. には何通りの解釈がありますか。
 A. 2通り。「ドアが閉められる」（動作の受動）と「ドアが閉まっている」（状態）。フランス語は être 一語で両方を担うため形では区別できず、文脈で判断する。ドイツ語の werden / sein、スペイン語の ser / estar のような区別がない。
+
+Q. 「彼は自転車を盗まれた」を自然なフランス語で言ってください。普通の受動態で書きにくいのはなぜですか。
+A. **Il s'est fait voler son vélo.** 「自転車を」という所有物が目的語として残る受け身は、普通の受動態（主語＝盗まれた物）では表せない。se faire + 不定詞が「被害の受け身」を担う。この構文の fait は不変化（Elle s'est fait couper les cheveux.）。
+
+Q. se faire + 不定詞には被害以外の意味もありますか。
+A. ある。**依頼**「〜してもらう」。Elle s'est fait couper les cheveux.（髪を切ってもらった）のように、自分で手配した行為にも使う。文脈で被害か依頼かが決まる。Je me suis fait avoir.（やられた・だまされた）は被害の定型。
+
+Q. Je suis téléphoné par lui. が誤りなのはなぜですか。
+A. 受動態の主語になれるのは**直接目的語だけ**だから。téléphoner **à** qn の「人」は間接目的語なので主語に昇格できない。能動のまま Il m'a téléphoné. と言う。英語の I was phoned が可能なのと対照的で、英語からの類推が効かない箇所。
+
+Q. se laisser + 不定詞はどういう意味ですか。
+A. 「**〜されるがままになる**」。Il s'est laissé convaincre.（説得されてしまった）。se faire が出来事として「された」を述べるのに対し、se laisser は**抵抗しなかった**という主語の態度を含む。
 :::
 
 :::ai-gen 受動態、par と de、on と代名動詞による代用
@@ -223,6 +274,12 @@ A. 2通り。「ドアが閉められる」（動作の受動）と「ドアが�
 ## この章の語彙
 
 :::vocab 第28章の語彙
+se faire + 不定詞 | 構文 | 〜される（被害）、〜してもらう
+se laisser + 不定詞 | 構文 | 〜されるがままになる
+se faire avoir | 表現 | だまされる
+voler | v. | 盗む
+gronder | v. | 叱る
+convaincre | v. | 説得する
 être + 過去分詞 | 構文 | 〜される（受動態）
 par | prép. | 〜によって（行為）
 de | prép. | 〜によって（感情・状態）
