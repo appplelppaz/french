@@ -314,6 +314,33 @@ Le projet sera fini d'ici la fin du mois. | ル・プロジェ・スラ・フィ
 
 :::ai-gen 単純未来、未来語幹、前未来、si と quand の使い分け
 
+## 10. 未来形が要る従属節 — quand と si の対立
+
+第31.5章で体系的に扱う内容ですが、**未来形の運用で最も重要な規則**なのでここで確定させます。
+
+| 接続詞 | 中の時制 | 例 |
+|---|---|---|
+| **quand / lorsque**（〜のとき） | **未来形** | Quand il **arrivera**, on partira. |
+| **dès que / aussitôt que**（〜したらすぐ） | **未来形** | Dès que je **saurai**, je te dirai. |
+| **tant que**（〜する限り） | **未来形** | Tant qu'il **fera** beau, on restera. |
+| **une fois que**（いったん〜すれば） | **未来形** | Une fois qu'il **sera** parti, on dînera. |
+| **si**（もし〜なら） | **現在形**（未来形は不可） | **Si** il **fait** beau, on sortira. |
+
+**時を表す接続詞は未来形、条件の si だけが現在形**——この一点だけ覚えれば足ります。
+
+:::ex 未来形が2つ並ぶ
+Quand tu seras grand, tu comprendras. | カン・チュ・スラ・グラン・チュ・コンプランドラ | 大きくなったら分かるよ。
+Dès que j'aurai fini, je t'appellerai. | デ・ク・ジョレ・フィニ・ジュ・タプレレ | 終わり次第、電話するね。
+Tant que tu seras là, tout ira bien. | タン・ク・チュ・スラ・ラ | 君がいてくれる限り、大丈夫だ。
+:::
+
+2つ目の **Dès que j'aurai fini**（前未来）に注目してください。**従属節の出来事が主節より先に完了している**なら、単純未来ではなく**前未来**を使います。「終わってしまったらすぐ」という完了の含みが要るからです。
+
+- Quand il **arrivera**, on partira.（着いたら出発する——同時）
+- Quand il **sera arrivé**, on partira.（着いてしまったら出発する——完了が先）
+
+英語には「時・条件の副詞節で未来形を使わない」という規則がありますが、**フランス語にはありません**。素直に時間関係を時制で表す——それだけです。
+
 ## この章の語彙
 
 :::vocab 第24章の語彙

@@ -317,6 +317,40 @@ Il a fait très chaud hier. | イラ・フェ・トレ・ショー・イエー�
 
 :::ai-gen 非人称構文、天候表現、il faut、時刻と日付
 
+## 10. 非人称構文の全体像 — il が指さない7つの型
+
+非人称の il は、天気と il faut だけではありません。**主語の位置を埋めるためだけに置かれる il** の全用法を整理します。
+
+| 型 | 例 | 意味 |
+|---|---|---|
+| **天候** | Il pleut. / Il fait beau. | 雨が降る／いい天気だ |
+| **時刻** | Il est trois heures. | 3時です |
+| **必要** | Il faut partir. | 出発しなければ |
+| **存在** | Il y a du monde. | 人がいる |
+| **評価 + de + 不定詞** | Il est important de dormir. | 眠ることは大切だ |
+| **評価 + que + 接続法** | Il est possible qu'il vienne. | 彼が来るかもしれない |
+| **出来事の提示** | Il est arrivé un accident. | 事故が起きた |
+| **残り・不足** | Il reste dix euros. / Il manque une chaise. | 10ユーロ残っている／椅子が1脚足りない |
+
+:::ex 非人称構文のいろいろ
+Il est difficile de tout comprendre. | イ・レ・ディフィスィル・ドゥ・トゥ・コンプランドル | すべてを理解するのは難しい。
+Il vaut mieux attendre. | イル・ヴォ・ミュー・ザタンドル | 待ったほうがいい。
+Il s'agit d'un malentendu. | イル・サジ・ダン・マランタンデュ | これは誤解の問題です。
+Il paraît qu'il va démissionner. | イル・パレ・キル・ヴァ・デミスィヨネ | 彼は辞任するらしい。
+Il reste encore du temps. | イル・レスト・アンコール・デュ・タン | まだ時間が残っている。
+:::
+
+**il s'agit de**（〜が問題である・〜のことだ）と **il paraît que**（〜らしい）は、書き言葉・話し言葉の両方で頻出します。とくに **il s'agit de** は主語を持てない動詞で、「これは何の話か」を導入する定型です。
+
+:::warn 意味上の主語は後ろに置かれる
+**Il reste dix euros.** の「10ユーロ」は意味の上では主語ですが、**動詞の後ろ**に置かれ、動詞は il に合わせて**常に単数**です。
+
+- ○ Il **reste** dix euros.（× Il restent）
+- ○ Il **est arrivé** trois personnes.（3人が到着した——文語的）
+
+この「後ろに置かれた意味上の主語」を**論理主語**と呼びます。il が文法上の主語、後ろの名詞が論理主語という二重構造で、フランス語が**主語の位置を空にできない**言語であることの現れです（第3章）。
+:::
+
 ## この章の語彙
 
 :::vocab 第15章の語彙

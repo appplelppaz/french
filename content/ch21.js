@@ -287,6 +287,60 @@ C'est le film. Je t'en ai parlé. → C'est le film dont je t'ai parlé. | セ�
 
 :::ai-gen 関係代名詞 qui, que, où, dont、ce qui / ce que
 
+## 11. dont の語順と「〜のうちの」
+
+**（1）dont 節の語順は固定**
+
+dont の後ろは**主語 → 動詞 → 残り**の順で、何も前に出しません。英語の whose と混ざると事故が起きます。
+
+- ○ un ami **dont le père** est médecin（父親が医者である友人）
+- × un ami dont **son** père est médecin（dont がすでに「彼の」を含むので son は重複）
+
+英語 whose father なら所有格が名詞に付きますが、フランス語は **dont + 定冠詞 + 名詞**です。「dont の後に所有形容詞を置かない」——これが最重要の注意点です。
+
+**（2）数量の dont — 「そのうちの〜」**
+
+dont には、節を作らず**数量だけを添える**便利な用法があります。
+
+:::ex 数量の dont
+J'ai trois frères, dont deux habitent à Paris. | ドン・ドゥ | 私には兄弟が3人いて、うち2人はパリに住んでいる。
+Il a écrit dix romans, dont ce chef-d'œuvre. | ドン・ス・シェフ・ドゥーヴル | 彼は小説を10冊書いた。この傑作もその1つだ。
+Cinq personnes, dont trois enfants, ont été blessées. | ドン・トロワ・ザンファン | 3人の子どもを含む5人が負傷した。
+:::
+
+**数詞 + …, dont + 数詞**（〜のうち…）は報道文の頻出パターンです。動詞なしで「dont trois enfants」とだけ添える形も普通で、日本語の「うち3人は子ども」にそのまま対応します。
+
+## 12. 関係節と先行詞の距離 — 曖昧さを避ける
+
+関係節は先行詞のすぐ後ろに置くのが原則ですが、**離れると誰にかかるか分からなくなります**。
+
+- △ J'ai vu la sœur de mon ami **qui habite à Lyon**.（リヨンに住んでいるのは姉か友人か？）
+
+フランス語には英語の that / which のような制限・非制限の区別が形にないため、**語順と文脈で解決する**しかありません。書くときは次の手を使います。
+
+| 手段 | 例 |
+|---|---|
+| **語順を変える** | J'ai vu **la sœur qui habite à Lyon**, celle de mon ami. |
+| **celui / celle で受け直す** | … mon ami, **celui qui** habite à Lyon |
+| **文を分ける** | J'ai vu la sœur de mon ami. **Elle** habite à Lyon. |
+| **コンマで非制限を示す** | mon ami**,** qui habite à Lyon**,** est venu. |
+
+**コンマの有無で意味が変わる**のは英語と同じです。
+
+- Les étudiants **qui** ont réussi sont partis.（合格した学生は帰った——**一部**）
+- Les étudiants**,** qui ont réussi**,** sont partis.（学生たちは、合格したので、帰った——**全員**）
+
+コンマがなければ**先行詞を絞り込む**（制限的）、コンマがあれば**補足説明**（非制限的）。試験でも読解でも問われる区別です。
+
+:::note 関係節が長いときは分ける
+フランス語の書き言葉は関係節を重ねる傾向がありますが、**qui / que が3つ以上連鎖すると読みにくくなります**。
+
+- △ C'est le livre que m'a prêté l'ami qui habite dans la maison qui est au coin.
+- ○ C'est le livre que m'a prêté un ami. **Il** habite dans la maison du coin.
+
+**節を1つ減らして名詞句にする**（la maison qui est au coin → la maison du coin）のも有効です。関係代名詞を使いこなすとは、**使わない選択肢も持つこと**でもあります。
+:::
+
 ## この章の語彙
 
 :::vocab 第21章の語彙

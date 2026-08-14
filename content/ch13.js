@@ -304,6 +304,49 @@ aller、faire、venir、pouvoir、vouloir、devoir、savoir、dire、voir、pren
 
 :::ai-gen 動詞活用の全体像、語幹の導出、finir と第2群
 
+## 10. 語尾の音は時制を越えて共通 — 音の骨格
+
+活用語尾を「時制ごとに別物」と覚えると量が膨れます。実は**人称ごとの音はほぼ全時制で共通**です。
+
+| 人称 | ほぼ常に | 例（半過去／未来／条件法） |
+|---|---|---|
+| je / tu | 無音（-s は読まない） | chantais / chanterai / chanterais |
+| il | 無音（-t は読まない） | chantait / chantera / chanterait |
+| **nous** | **常に「オン」[ɔ̃]**（-ons） | chantions / chanterons / chanterions |
+| **vous** | **常に「エ」[e]**（-ez） | chantiez / chanterez / chanteriez |
+| ils | 無音（-ent）または鼻母音（-ont） | chantaient / chanteront / chanteraient |
+
+つまり、**音として覚える価値があるのは nous の「オン」と vous の「エ」だけ**で、あとは語幹＋時制の目印（半過去の「エ」、未来の「ラ」）が聞こえるかどうかの問題です。
+
+- 未来と条件法の違いは、je で **[e]（chanterai）と [ɛ]（chanterais）**の母音の差だけ——実際の会話ではほぼ聞き分けられず、文脈で判断されています
+- ils の **-ont**（sont, ont, vont, font, chanteront）だけは「オン」と読む——**この4動詞 + 未来形**に限られた音です
+
+「書き分けは細かいが、音はずっと単純」——この非対称を知っておくと、聞き取りの負担が大きく減ります。
+
+## 11. 不規則動詞の「不規則さ」の中身
+
+「不規則動詞」といっても、**4つの情報すべてが不規則な動詞はごくわずか**です。どこが不規則かを型で分類しておくと、覚える箇所が絞れます。
+
+| 不規則の種類 | 例 | どこだけ違うか |
+|---|---|---|
+| **語幹が2つに割れる** | venir, prendre, boire, devoir, recevoir | 現在形の nous / vous と他 |
+| **未来語幹だけ不規則** | aller (ir-), voir (verr-), envoyer (enverr-), courir (courr-) | 未来・条件法のみ |
+| **過去分詞だけ不規則** | naître (né), mourir (mort), ouvrir (ouvert) | 複合時制のみ |
+| **接続法だけ不規則** | faire (fass-), pouvoir (puiss-), savoir (sach-), aller (aill-), vouloir (veuill-) | 接続法のみ |
+| **全面的に不規則** | **être, avoir** | ほぼすべて |
+
+**全面的に不規則なのは être と avoir の2語だけ**です。他はどこか1〜2箇所が違うだけで、残りは規則どおりに導けます。
+
+:::ex 「1箇所だけ不規則」の例
+Je vois. → Je verrai.（未来語幹 verr- だけ不規則） | ジュ・ヴォワ・ジュ・ヴェレ | 見る → 見るだろう
+Il ouvre. → Il a ouvert.（過去分詞 ouvert だけ不規則） | イ・ルーヴル・イ・ラ・ウヴェール | 開ける → 開けた
+Nous faisons. → que nous fassions.（接続法語幹だけ不規則） | ヌ・フゾン・ク・ヌ・ファスィヨン | する → するように
+:::
+
+**ouvrir 型**（ouvrir, offrir, souffrir, couvrir, cueillir）は綴りが -ir なのに**現在形は第1群と同じ語尾**（j'ouvre, tu ouvres, il ouvre）を取る、という別種の「不規則」です。ここも「現在形は第1群、過去分詞だけ -ert」と押さえれば済みます。
+
+**結論**：不規則動詞の学習とは、**4つの情報のうちどれが規則から外れるかを1動詞ずつ確認する作業**であって、50個の形を丸暗記する作業ではありません。この章の図式は、その確認作業の枠組みそのものです。
+
 ## この章の語彙
 
 :::vocab 第13章の語彙

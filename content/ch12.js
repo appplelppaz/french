@@ -315,6 +315,32 @@ Vous êtes combien dans votre famille ? | ヴー・ゼット・コンビアン |
 
 :::ai-gen 疑問副詞、疑問代名詞 qui/que/quoi、quel との使い分け
 
+## 10. lequel — 選択を問う疑問代名詞
+
+「どれ？」と**選択肢の中から選ばせる**疑問代名詞が lequel です。quel（疑問形容詞、第10章）が名詞に付くのに対し、lequel は**単独で立ちます**。
+
+| | 男性単数 | 女性単数 | 男性複数 | 女性複数 |
+|---|---|---|---|---|
+| 基本 | **lequel** | **laquelle** | **lesquels** | **lesquelles** |
+| à + | **auquel** | à laquelle | **auxquels** | **auxquelles** |
+| de + | **duquel** | de laquelle | **desquels** | **desquelles** |
+
+:::ex lequel の実戦
+J'ai deux robes. Laquelle préfères-tu ? | ラケル・プレフェール・チュ | ドレスが2着あるの。どっちが好き？
+Voici trois livres. Lesquels veux-tu ? | レケル・ヴ・チュ | 本が3冊あります。どれが欲しい？
+Duquel de ces films parles-tu ? | デュケル・ドゥ・セ・フィルム | この映画のうちどれの話をしてるの？
+Il y a plusieurs solutions. À laquelle penses-tu ? | ア・ラケル・パンス・チュ | 解決策はいくつかある。どれのことを考えている？
+:::
+
+**quel と lequel の分業**は明快です。
+
+- **Quel livre** veux-tu ?（どの本が欲しい？）——名詞が続く
+- **Lequel** veux-tu ?（どれが欲しい？）——名詞なし、すでに話題に出ている
+
+会話では **C'est lequel ?**（どれ？）や **Lequel, celui-ci ?**（どっち、こっち？）のように単独で使われます。前置詞と縮約する（auquel / duquel）点も、定冠詞 le を含んでいるからだと分かれば納得できます（第7章）。
+
+なお lequel は**関係代名詞**でもあります（第21章）。疑問文なら「どれ？」、先行詞の後なら「〜であるところの」——位置で判別してください。
+
 ## この章の語彙
 
 :::vocab 第12章の語彙

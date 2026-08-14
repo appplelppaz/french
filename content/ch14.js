@@ -309,6 +309,35 @@ Il fait doux pour la saison. | イル・フェ・ドゥ・プール・ラ・セ�
 
 :::ai-gen 比較級と最上級、meilleur と mieux の使い分け
 
+## 9. 数量の比較 — plus de と plus que
+
+比較の対象が**数量**になると、que と de の区別が必要になります。
+
+| 形 | 意味 | 例 |
+|---|---|---|
+| **plus de + 数詞** | 〜より多い（数量そのもの） | Il a **plus de** trente ans.（30歳を超えている） |
+| **plus que + 名詞** | 〜より多く（比較の相手） | Il travaille **plus que** moi.（私より働く） |
+| **plus de + 名詞 + que** | 〜より多くの… | J'ai **plus de** livres **que** toi. |
+
+:::ex 数量の比較
+Il y a plus de cent personnes. | イ・リ・ヤ・プリュ・ドゥ・サン・ペルソンヌ | 100人以上いる。
+Ça coûte moins de dix euros. | サ・クート・モワン・ドゥ・ディ・ズーロ | 10ユーロ未満だ。
+J'ai plus de travail que lui. | ジェ・プリュ・ドゥ・トラヴァイユ・ク・リュイ | 私は彼より仕事が多い。
+Elle a autant de patience que sa mère. | エラ・オータン・ドゥ・パスィヤンス・ク・サ・メール | 彼女は母親と同じくらい辛抱強い。
+:::
+
+**数詞の前は必ず de**（plus de trois、moins de dix）です。× plus que trois とは言いません。「〜以上／未満」という数の話だからです。
+
+**同等比較の3つ**も整理します。
+
+| 修飾する相手 | 形 | 例 |
+|---|---|---|
+| 形容詞・副詞 | **aussi … que** | aussi grand que toi |
+| 名詞 | **autant de … que** | autant de livres que toi |
+| 動詞 | **autant que** | Il travaille autant que moi. |
+
+**aussi は形容詞・副詞、autant は名詞・動詞**——第6.5章で見た très / beaucoup の対立とまったく同じ分業です。「とても」の très / beaucoup、「同じくらい」の aussi / autant——フランス語は**修飾する相手で語を変える**言語だ、という原則がここでも働いています。
+
 ## この章の語彙
 
 :::vocab 第14章の語彙

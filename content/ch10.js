@@ -308,6 +308,35 @@ Quel livre aimes-tu ? | ケル・リーヴル・エム・テュ | 君はどの�
 
 :::ai-gen 指示形容詞、所有形容詞、疑問形容詞 quel
 
+## 8. 指示代名詞 celui — 「〜のほう」を言う
+
+指示形容詞 ce に対応する**代名詞**が celui です。「そちらの／〜のもの」を1語で表します。
+
+| | 男性単数 | 女性単数 | 男性複数 | 女性複数 |
+|---|---|---|---|---|
+| 基本形 | **celui** | **celle** | **ceux** | **celles** |
+| -ci（こちら） | celui-ci | celle-ci | ceux-ci | celles-ci |
+| -là（あちら） | celui-là | celle-là | ceux-là | celles-là |
+
+**基本形は単独では使えず**、必ず次の3つのどれかが続きます。
+
+| 続くもの | 例 |
+|---|---|
+| **-ci / -là** | Je préfère **celui-là**.（あっちのほうが好き） |
+| **de + 名詞** | C'est **celle de** Marie.（それはマリのだ） |
+| **関係代名詞** | **Ceux qui** veulent partir, levez la main.（帰りたい人は挙手を） |
+
+:::ex celui の実戦
+Quel manteau ? — Celui-ci ou celui-là ? | セリュイ・スィ・ウ・セリュイ・ラ | どのコート？ — こっち、それともあっち？
+Ma voiture est en panne, je prends celle de ma sœur. | ジュ・プラン・セル・ドゥ・マ・スール | 車が故障したので姉のを借りる。
+Ceux qui sont d'accord, levez la main. | ス・キ・ソン・ダコール | 賛成の人は手を挙げて。
+Ce livre est plus intéressant que celui que j'ai lu hier. | ク・セリュイ・ク・ジェ・リュ・イエール | この本は昨日読んだものより面白い。
+:::
+
+**Ceux qui …**（〜する人々）は演説・説明文の頻出表現です。また比較文（第14章）では、**que celui / celle** で「〜より、あの…より」と受け直すのが標準の言い方になります。
+
+なお中性の指示代名詞 **ce / ceci / cela / ça** は名詞を受けず、**事柄**を指します（第4章）。celui は必ず名詞を受ける——ここが決定的な違いです。
+
 ## この章の語彙
 
 :::vocab 第10章の語彙

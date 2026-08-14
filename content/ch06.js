@@ -281,6 +281,56 @@ clair（明るい）/ foncé（濃い）が付くと全体が不変化になり�
 
 :::ai-gen 形容詞の性数一致、形容詞の位置、位置で意味が変わる形容詞
 
+## 11. 前置形容詞の中身 — BAGS で整理する
+
+名詞の前に置く形容詞（§6）は、英語圏の教室で **BAGS** と呼ばれる4グループで整理されています。
+
+| 頭文字 | グループ | 形容詞 |
+|---|---|---|
+| **B**eauty（美） | 美しさ | beau, joli |
+| **A**ge（年齢） | 新旧・老若 | jeune, vieux, nouveau, ancien |
+| **G**oodness（善悪） | 良し悪し | bon, mauvais, meilleur |
+| **S**ize（大小） | 大きさ | grand, petit, gros, long, haut |
+
+これに **premier / dernier / autre / même**（順序・同一性）を加えれば、前置形容詞はほぼ網羅できます。**短くて頻度が高く、評価的な意味**——という共通点があり、名詞と一体化して1つの概念を作ります（une **petite** maison「小さな家」はほぼ1語の感覚）。
+
+:::warn 前置形容詞の前では des が de になる
+複数の前置形容詞の前では、不定冠詞 **des が de に**変わります（第2章）。
+
+- des idées → **de bonnes** idées（よい考え）
+- des amis → **de vieux** amis（旧友）
+- des fleurs → **de jolies** fleurs（きれいな花）
+
+話し言葉では des bonnes idées も聞かれますが、**書き言葉では de** が規範です。なお「形容詞 + 名詞」が熟語化している場合は des のまま：des **jeunes gens**(若者たち)、des **petits pois**（グリーンピース）。熟語は1つの名詞扱いになるからです。
+:::
+
+## 12. 形容詞の副詞的用法と最上級の位置
+
+**（1）不変化で副詞になる形容詞**（第6.5章§4の予告）
+
+- parler **fort / bas**、coûter **cher**、sentir **bon**、travailler **dur**、chanter **juste / faux**
+
+動詞に直接付くとき、これらは**一致しません**：Elles parlent **fort**.（× fortes）。形容詞の形をした副詞なので、動詞にかかっていることを確認してください。
+
+**（2）最上級の位置は形容詞の定位置に従う**（第14章の先取り）
+
+最上級 le plus / le moins + 形容詞は、**その形容詞が本来置かれる位置**に置かれます。
+
+| 形容詞の位置 | 最上級 | 例 |
+|---|---|---|
+| 後置形容詞 | 名詞の後（定冠詞が2回） | la ville **la plus** belle de France |
+| 前置形容詞 | 名詞の前（定冠詞は1回） | **la plus** belle ville de France |
+
+**beau は前置形容詞**なので la plus belle ville が自然ですが、後置しても文法的には正しく、その場合 la ville la plus belle と定冠詞が2つ現れます。**intéressant のような後置形容詞では必ず2つ**になります：le livre **le plus** intéressant。
+
+:::ex 最上級と位置
+C'est la plus grande ville du pays. | セ・ラ・プリュ・グランド・ヴィル・デュ・ペイ | 国で一番大きな町だ。（前置）
+C'est le film le plus intéressant de l'année. | セ・ル・フィルム・ル・プリュ・ザンテレサン | 今年一番面白い映画だ。（後置・定冠詞2つ）
+Il a acheté la voiture la moins chère. | ラ・ヴォワチュール・ラ・モワン・シェール | 彼は一番安い車を買った。
+:::
+
+**「〜の中で」は de** で表します（× dans）：le plus grand **de** la classe（クラスで一番大きい）。英語の in と違うので注意してください。
+
 ## この章の語彙
 
 :::vocab 第6章の語彙

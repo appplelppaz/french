@@ -277,6 +277,48 @@ Elle ne me répond jamais. | エル・ヌ・ム・レポン・ジャメ | 彼女
 
 :::ai-gen 間接目的補語人称代名詞、lui と leur、à を取る動詞
 
+## 10. 与格動詞の語彙 — 会話の10動詞
+
+lui / leur と組む頻度の高い動詞を、意味のまとまりで補強します。**すべて「à + 人」の型**です。
+
+| 分野 | 動詞 |
+|---|---|
+| 伝える | dire, parler, raconter（物語る）, expliquer, écrire, répondre |
+| 渡す・示す | donner, offrir（贈る）, montrer, rendre（返す）, prêter（貸す）, envoyer |
+| 心を動かす | plaire（気に入られる）, manquer（恋しがられる）, faire plaisir（喜ばせる）, faire peur（怖がらせる） |
+| 頼む・許す | demander, permettre（許す）, promettre（約束する）, conseiller（勧める）, défendre / interdire（禁じる） |
+
+:::ex 与格動詞の実戦
+Ça lui fera plaisir. | サ・リュイ・フラ・プレズィール | 彼（彼女）は喜ぶよ。
+Je leur ai raconté une histoire. | ジュ・ルール・エ・ラコンテ・ユヌ・ヌ・イストワール | 彼らにお話をしてあげた。
+Le médecin lui a interdit de fumer. | ル・メドサン・リュイ・ア・アンテルディ | 医者は彼にタバコを禁じた。
+On lui a promis une réponse. | オン・リュイ・ア・プロミ・ユヌ・レポンス | 彼には返事すると約束してある。
+:::
+
+**faire plaisir à qn**（人を喜ばせる）は贈り物の場面の定番です：Ça te ferait plaisir ?（これ、うれしい？）。permettre / promettre / conseiller / interdire は「**à 人 de 不定詞**」の型（第7.5章）も取るので、Le médecin lui a interdit **de fumer**. のように「人には à（→lui）、行為には de」がそのまま生きています。
+
+## 11. 間接目的語と所有 — 「誰の」を動詞側で示す
+
+第10章と§7で触れた「身体部位の与格」を、もう少し広げて整理します。フランス語は**所有関係を所有形容詞ではなく動詞のまわりで示す**ことがあり、これが日本語話者に見えにくい構造です。
+
+| 型 | 例 | 直訳 |
+|---|---|---|
+| 与格 + 定冠詞（身体） | Il **m'**a pris **la** main. | 彼は私に手を取った＝私の手を取った |
+| 与格 + 定冠詞（所持品） | On **lui** a volé **son** sac. | 彼からバッグを盗んだ |
+| 代名動詞 + 定冠詞 | Je **me** lave **les** mains. | 自分に手を洗う＝自分の手を洗う |
+| 与格 + 感覚 | Ça **me** fait mal. | それは私に痛みを与える＝痛い |
+
+:::ex 所有を与格で示す
+Le coiffeur lui a coupé les cheveux. | ル・コワフール・リュイ・ア・クペ・レ・シュヴー | 美容師が彼（彼女）の髪を切った。
+Tu m'as marché sur le pied. | チュ・マ・マルシェ・スュール・ル・ピエ | 私の足を踏んだよ。
+Il s'est cassé la jambe. | イル・セ・カセ・ラ・ジャンブ | 彼は脚を折った。
+Ça me fait mal au dos. | サ・ム・フェ・マ・ロ・ド | 背中が痛い。
+:::
+
+**Il s'est cassé la jambe.**（脚を折った）は代名動詞 + 定冠詞の典型です。× Il a cassé sa jambe. とは言いません——「自分の脚」は se が示しており、所有形容詞は不要だからです。
+
+この構造のおかげで、**過去分詞の一致も変わります**。Il s'est cassé **la jambe**. は la jambe が直接目的語なので se は間接目的語となり、**cassé は一致しません**（第23章）。「所有を与格で示す」ことが、そのまま一致の判定にも効いてくる——文法の各部分がつながっている好例です。
+
 ## この章の語彙
 
 :::vocab 第18章の語彙

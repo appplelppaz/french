@@ -264,6 +264,47 @@ Elle a dit : « Ferme la porte ! » → Elle m'a dit de fermer la porte. | エ�
 
 :::ai-gen 直接話法と間接話法、時制の一致、間接疑問
 
+## 9. 時制の一致が起きない場合
+
+主節が過去でも、**従属節が現在形のままでよい**場合があります。機械的に全部ずらすわけではありません。
+
+| 場合 | 例 |
+|---|---|
+| **普遍の真理・恒常的事実** | Le professeur a dit que la Terre **tourne** autour du Soleil.（地球が太陽の周りを回ると先生は言った） |
+| **今も有効な事実** | Elle m'a dit qu'elle **habite** à Lyon.（彼女はリヨンに住んでいると言った——今も住んでいる含み） |
+| **主節が現在・未来** | Il dit qu'il **viendra**.（来ると言っている） |
+
+2つ目が実用上のポイントです。**habitait（半過去）にすると「当時住んでいた（今は不明）」**、habite（現在）のままなら「今も住んでいる」と、**話し手の判断が時制に出ます**。一致は義務の規則であると同時に、**現在形を残すことで「まだ真」と示せる**表現の道具でもあるのです。
+
+- Il m'a dit qu'il **était** malade.（そのとき病気だった——今は不明）
+- Il m'a dit qu'il **est** malade.（病気だと言っていた——今も病気）
+
+会話ではこの「現在形残し」が非常によく使われます。規則の目的は**時点の混乱を防ぐこと**なので、混乱が起きないなら現在形が残れる、と理解してください。
+
+## 10. 引用の技術 — 部分引用と要約
+
+実際の文章では、直接話法と間接話法をきれいに二分するより、**必要な部分だけ引用する**ことのほうが多くあります。
+
+| 技法 | 例 |
+|---|---|
+| **語句だけを « » で引く** | Il a parlé d'un « malentendu regrettable ». |
+| **selon / d'après で出典を示す** | **Selon lui**, le projet est mort. |
+| **伝聞の条件法**（第30章） | Le projet **serait** abandonné. |
+| **要約して伝える** | Il a exprimé son désaccord.（反対の意を示した） |
+
+:::ex 引用の技法
+Selon le journal, la décision est déjà prise. | スロン・ル・ジュルナル | 新聞によれば、決定はすでに下されている。
+D'après elle, il n'y a aucun problème. | ダプレ・エル | 彼女によれば、何の問題もないそうだ。
+Il a évoqué « des difficultés techniques ». | イ・ラ・エヴォケ | 彼は「技術的な困難」に言及した。
+Le ministre aurait démissionné. | ル・ミニストル・オレ・デミスィヨネ | 大臣は辞任した模様だ。
+:::
+
+**selon / d'après + 人**（〜によれば）は、時制の一致を発動させずに出典を示せる便利な形です。**Selon lui, le projet est mort.** は、間接話法にすれば Il a dit que le projet était mort. となりますが、selon を使えば現在形のまま引用できます。
+
+**伝聞の条件法**（第30章）は、**動詞1つで「未確認情報」を示す**フランス語独自の手段です。日本語の「〜という」「〜もよう」にあたり、報道文では selon とセットで使われます：**Selon des sources proches, il aurait démissionné.**（関係筋によれば辞任した模様だ）。
+
+話法の学習は、最終的に「**誰の言葉として、どこまで責任を持って述べるか**」を選ぶ技術です。時制の一致という規則の背後にあるのは、この責任の所在の問題だと理解しておいてください。
+
 ## この章の語彙
 
 :::vocab 第27.6章の語彙

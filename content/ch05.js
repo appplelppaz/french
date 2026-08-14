@@ -302,6 +302,33 @@ Tu ne viens pas ? — **Si**, je viens !（来ないの？ — いや、行く�
 
 :::ai-gen 否定表現、ne...pas 以外の否定語、否定の de、ne...que
 
+## 9. 否定の作用域 — どこまでを否定しているか
+
+同じ ne … pas でも、**文のどこにかかるか**で意味が変わります。読解で誤読しやすい箇所です。
+
+:::ex 作用域の違い
+Je ne pense pas qu'il vienne. | ジュ・ヌ・パンス・パ・キル・ヴィエンヌ | 彼が来るとは思わない。（否定が que 節にかかる）
+Il ne travaille pas beaucoup. | イル・ヌ・トラヴァイユ・パ・ボクー | 彼はあまり働かない。（beaucoup を否定）
+Il ne travaille pas pour l'argent. | イル・ヌ・トラヴァイユ・パ・プー・ラルジャン | 彼が働くのは金のためではない。（pour l'argent を否定）
+Tous les étudiants ne sont pas venus. | トゥ・レ・ゼテュディヤン・ヌ・ソン・パ・ヴニュ | 学生全員が来たわけではない。（部分否定）
+Aucun étudiant n'est venu. | オキュン・ネテュディヤン・ネ・ヴニュ | どの学生も来なかった。（全否定）
+:::
+
+**（1）主節否定の繰り上げ**
+
+Je ne pense pas qu'il vienne. は、論理的には「彼が来ない、と思う」ではなく「彼が来る、とは思わない」です。**否定が主節に付いていても、意味は従属節にかかる**——英語の I don't think he'll come. と同じ現象で、これを「否定の繰り上げ」と呼びます。penser / croire / trouver で起きます。
+
+**（2）tous … ne … pas は部分否定**
+
+**Tous les étudiants ne sont pas venus.** は「全員が来たわけではない」（一部は来た）。全否定にしたいなら **aucun** か **personne** を使います。日本語の「全員来なかった」と読むと逆になるので要注意です。
+
+**（3）否定の位置が変わると焦点が動く**
+
+- Il **n'**a **pas** acheté ce livre **pour lui**.（彼のために買ったのではない——他の誰かのため）
+- Il **n'**a **pas** acheté **ce livre** pour lui.（この本を買ったのではない——別の本）
+
+強勢の置き方で決まる英語と違い、フランス語は**否定の直後に来る要素**が焦点になりやすい傾向があります。第22章の強調構文（Ce n'est pas ce livre qu'il a acheté.）を使えば、焦点を明示できます。
+
 ## この章の語彙
 
 :::vocab 第5章の語彙

@@ -260,6 +260,48 @@ Tout le monde a ri, et moi aussi. | トゥ・ル・モンド・ア・リ・エ�
 
 :::ai-gen 半過去、複合過去との使い分け、状態動詞の時制対立
 
+## 8. 過去の継続 — depuis + 半過去
+
+「〜し続けていた」という**過去の時点までの継続**は、半過去 + depuis で表します。
+
+:::ex depuis + 半過去
+Il pleuvait depuis deux jours. | イル・プルヴェ・ドゥピュイ・ドゥ・ジュール | 2日前から雨が降り続いていた。
+J'attendais depuis une heure quand il est arrivé. | ジャタンデ・ドゥピュイ・ユヌ・ール | 彼が来たとき、私は1時間前から待っていた。
+On se connaissait depuis dix ans. | オン・ス・コネセ・ドゥピュイ・ディ・ザン | 私たちは10年来の知り合いだった。
+:::
+
+第7.5章で「depuis は現在形と組む」と学びました（J'habite ici depuis 5 ans.）。その過去版がこれです。**現在まで続く継続＝現在形 + depuis、過去のある時点まで続いていた継続＝半過去 + depuis**——時制が1段ずれるだけで、構造は同じです。
+
+英語では過去完了進行形（had been waiting）を使うところですが、フランス語は**ただの半過去**で済ませます。「継続」は半過去自身が含んでいるので、特別な形が要らないのです。
+
+同じ理屈で、**il y avait … que / ça faisait … que + 半過去**も「〜前から〜していた」を表します：Ça faisait une heure que j'attendais.（もう1時間も待っていたんだ）。こちらは「長さ」への苛立ち・強調が乗る、話し言葉の言い方です。
+
+## 9. 半過去が現れる4つの構文 — 過去以外の顔をまとめる
+
+半過去は「過去の状態」だけの時制ではありません。**現実からの距離**を表す形として、いくつもの構文に組み込まれています。
+
+| 構文 | 例 | 表すもの |
+|---|---|---|
+| **si + 半過去（単独）** | Si on allait au cinéma ?（映画行かない？） | 提案 |
+| **si + 半過去（+ 条件法）** | Si j'avais le temps, je viendrais. | 現在の反実仮想 |
+| **語調緩和** | Je voulais vous demander …（お伺いしたいのですが） | 遠慮 |
+| **comme si + 半過去** | Il parle comme s'il savait tout. | 事実に反する比喩 |
+| **時制の一致** | Il a dit qu'il était malade. | 過去から見た現在 |
+| **近接過去・未来の過去版** | Il venait de partir. / Il allait partir. | 過去の直前・直後 |
+
+**共通しているのは「いま・ここの現実から一歩引く」働き**です。時間的な距離（過去）が、心理的な距離（遠慮・仮定・比喩）に転用されている——第30章の条件法とまったく同じ仕組みで、多くの言語に共通する現象です。
+
+:::ex 半過去の非過去用法
+Si on prenait un café ? | スィ・オン・プルネ・アン・カフェ | コーヒーでも飲まない？
+Je venais vous voir pour une question. | ジュ・ヴネ・ヴ・ヴォワール | 少し伺いたいことがあって参りました。
+Si seulement il était là ! | スィ・スルマン・イ・レテ・ラ | 彼がここにいてくれさえすれば！
+On aurait dit qu'il pleuvait. | オ・ノレ・ディ・キル・プルヴェ | 雨が降っているようだった。
+:::
+
+**Si on + 半過去 ?**（〜しない？）は誘いの最も自然な形の1つで、Si on y allait ?（行かない？）、Si on mangeait ?（食べようか？）と、日常で頻繁に使われます。**Si seulement + 半過去 !**（〜さえすれば）は願望の嘆きです。
+
+**Je venais / Je voulais + 不定詞**（〜しに参りました・〜したかったのですが）は、窓口や訪問先で用件を切り出すときの丁寧な決まり文句です。現在形の Je veux … より格段に柔らかく響きます。
+
 ## この章の語彙
 
 :::vocab 第27章の語彙

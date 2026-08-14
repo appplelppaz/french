@@ -267,6 +267,54 @@ Il sort de l'hôpital. | イル・ソール・ドゥ・ロピタル | 彼は病�
 
 :::ai-gen 前置詞と定冠詞の縮約、à と de の用法、国名の前置詞
 
+## 11. à と de の総合対照表 — この章のまとめ
+
+縮約を学んだ今、à と de の全体を1枚で対照しておきます（詳細は第7.5章）。
+
+| 観点 | à | de |
+|---|---|---|
+| 中核の意味 | **到達・方向**（〜へ、〜に） | **起点・分離**（〜から、〜の） |
+| 縮約 | au（à+le）、aux（à+les） | du（de+le）、des（de+les） |
+| 場所 | à Paris（〜で・〜へ） | de Paris（〜から） |
+| 時 | à midi（時刻） | de 9h à 17h（起点） |
+| 所有・所属 | C'est **à** moi.（属詞） | le livre **de** Marie（名詞句） |
+| 用途・内容 | une tasse **à** café（用途） | une tasse **de** café（内容） |
+| 動詞との結合 | penser à、jouer à（競技） | parler de、jouer de（楽器） |
+| 不定詞の前 | commencer à（開始・方向） | finir de（完了・分離） |
+| 対応する代名詞 | **y**（第26章） | **en**（第25章） |
+
+最後の行がこの後の学習の伏線です。**à の世界は y が、de の世界は en が受け持つ**——前置詞の二大区分が、そのまま代名詞の二大区分になります。au / du と聞いた瞬間に「à 系か de 系か」を感じ取れるようになれば、この章の目的は達成です。
+
+## 12. 縮約が起きない前置詞 — à と de だけの現象
+
+縮約するのは **à と de の2つだけ**です。他の前置詞は定冠詞と並んでもそのままです。
+
+- **dans le** jardin（× danle）
+- **sur la** table、**pour les** enfants、**avec le** professeur
+- **par le** train、**sous la** pluie、**vers le** soir
+
+なぜ à と de だけなのか。この2語が**フランス語で圧倒的に高頻度**だからです。頻繁に使われる語ほど音が磨耗し、隣の語と融合します（英語の going to → gonna と同じ現象）。**縮約は使用頻度の化石**なのです。
+
+:::note 前置詞の後の冠詞は消えることもある
+一方で、**冠詞そのものが消える**前置詞があります（第2章）。
+
+| 前置詞 | 冠詞 | 例 |
+|---|---|---|
+| **en** | 原則なし | en France、en voiture、en été |
+| **par**（手段・配分） | なし | par avion、par semaine |
+| **sans** | なし（不定・部分冠詞） | sans sucre、sans problème |
+| **avec**（抽象名詞） | なし | avec plaisir、avec patience |
+| **de**（数量の後） | なし | beaucoup **de** livres |
+
+したがって、前置詞と冠詞の関係は3通りに分かれます。
+
+1. **縮約する**（à, de + le/les）
+2. **冠詞が消える**（en, par, sans, avec + 抽象名詞）
+3. **そのまま並ぶ**（dans, sur, pour, avec + 具体名詞 …）
+
+**en France と dans la France du XIXe siècle**（第7.5章）の対比は、1と3ではなく2と3の対比でした。en は冠詞を要求しない前置詞、dans は要求する前置詞——そう整理すると、両者が別の語であることがはっきりします。
+:::
+
 ## この章の語彙
 
 :::vocab 第7章の語彙

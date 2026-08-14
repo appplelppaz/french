@@ -298,6 +298,31 @@ préférer A **à** B（B より A が好き）の à も、第7.5章で見た�
 
 :::ai-gen -er動詞の現在形、綴りが変わる動詞、動詞+不定詞のà/de
 
+## 10. -er 動詞から派生語彙を広げる
+
+第1群動詞は**名詞・形容詞と語根を共有**しているものが多く、1語覚えると語彙が芋づる式に増えます。
+
+| 動詞 | 派生名詞 | 派生形容詞 |
+|---|---|---|
+| travailler（働く） | le travail（仕事）、un travailleur（労働者） | travaillé（凝った） |
+| chanter（歌う） | une chanson（歌）、un chanteur（歌手） | chantant（歌うような） |
+| danser（踊る） | une danse、un danseur | dansant |
+| aimer（愛する） | l'amour（愛）、un amateur（愛好家） | aimable（親切な） |
+| habiter（住む） | un habitant（住民）、une habitation（住居） | habitable |
+| commencer（始める） | un commencement（始まり） | commençant |
+| penser（考える） | une pensée（考え） | pensif（物思わしげな） |
+| chercher（探す） | une recherche（研究・探索）、un chercheur（研究者） | recherché（凝った） |
+
+**-eur / -euse（〜する人）、-ment（〜すること）、-tion（〜すること）、-able（〜できる）**という4つの接尾辞を知っているだけで、動詞から名詞・形容詞を推測できます。
+
+:::ex 派生語の関係
+Il travaille dur ; c'est un bon travailleur. | イル・トラヴァイユ・デュール | 彼はよく働く。いい働き手だ。
+Elle chante bien. Sa chanson préférée est ancienne. | エル・シャント・ビヤン | 彼女は歌がうまい。好きな歌は古い曲だ。
+Ce quartier compte mille habitants. | ス・カルティエ・コント・ミル・ザビタン | この地区の住民は千人だ。
+:::
+
+逆方向も成り立ちます。名詞 **un téléphone** → 動詞 **téléphoner**、**un dessin**（絵）→ **dessiner**（描く）、**un voyage** → **voyager**。**新しい動詞はほぼすべて -er 型で作られる**ので（第8章冒頭）、名詞を知っていれば動詞を作れる場面が多くあります。
+
 ## この章の語彙
 
 :::vocab 第8章の語彙

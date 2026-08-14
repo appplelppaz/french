@@ -293,6 +293,69 @@ Je ne mange pas de fromage. | ジュ・ヌ・マンジュ・パ・ドゥ・フ�
 
 :::ai-gen 定冠詞・不定冠詞・部分冠詞の使い分け、否定の de
 
+## 8. 無冠詞になる場所 — 冠詞の「消えるポイント」
+
+冠詞は原則必須ですが、**決まった構文の中では消えます**。消える場所を列挙しておくと、読解で戸惑いません。
+
+| 場所 | 例 |
+|---|---|
+| **職業・身分の属詞** | Il est **médecin**.（彼は医者だ） |
+| **avoir の熟語** | avoir **faim** / **soif** / **peur** / **raison** / **besoin de** |
+| **前置詞 en の後** | en **France**、en **voiture**、en **été** |
+| **手段・様態の par / sans / avec** | par **avion**、sans **sucre**、avec **plaisir** |
+| **同格** | Paris, **capitale** de la France |
+| **列挙** | Hommes, femmes, enfants : tout le monde courait. |
+| **看板・見出し** | Maison à vendre.（売家） |
+
+:::ex 無冠詞の実例
+Elle est professeure. | エ・レ・プロフェスール | 彼女は教員です。
+J'ai sommeil. | ジェ・ソメイユ | 眠い。
+Il voyage en train, sans bagages. | イル・ヴォワヤージュ・アン・トラン・サン・バガージュ | 彼は列車で、荷物なしで旅する。
+Avec plaisir ! | アヴェック・プレズィール | 喜んで！
+:::
+
+とくに **avoir + 無冠詞名詞**（faim / soif / peur / sommeil / raison / tort / envie / besoin）は熟語のかたまりで、「空腹・渇き・恐れ」などの**状態が形容詞のように**働いています。だから très が付けられるのでした（J'ai très faim. 第6.5章）。
+
+逆に、**Il est médecin.** と **C'est un médecin.** の対（属詞は無冠詞、c'est の後は冠詞つき）は第4章で見たとおりです。無冠詞は「名詞が個体でなく資格・状態を表すとき」に起きる——と一般化して覚えてください。
+
+## 9. 冠詞の選択がつまずく5つの場面
+
+冠詞の規則はここまでで揃いました。実際に迷いやすい場面を、判断つきで並べておきます。
+
+**（1）好み・総称 → 定冠詞**
+
+J'aime **le** vin.（ワインが好き）／ **Les** chats sont indépendants.（猫は独立している）
+好みの動詞（aimer / adorer / détester / préférer）と一般論は**必ず定冠詞**です。
+
+**（2）食べる・飲む・買う → 部分冠詞か不定冠詞**
+
+Je bois **du** vin.（ワインを飲む）／ J'achète **une** bouteille.（1本買う）
+量なら du、個数なら un。
+
+**（3）否定文 → de**（ただし定冠詞は残る）
+
+Je ne bois pas **de** vin.（不定・部分冠詞 → de）
+Je n'aime pas **le** vin.（定冠詞はそのまま——総称は否定しても総称）
+
+**（4）être の属詞（職業・国籍）→ 無冠詞**
+
+Il est **professeur**.（× un professeur）
+ただし **C'est un professeur.** は冠詞つき（第4章）。
+
+**（5）数量表現の後 → de のみ**
+
+beaucoup **de** livres、un peu **d'**eau、un kilo **de** pommes
+× beaucoup des livres（des livres が「その本」を指す特定の場合のみ可）
+
+:::warn beaucoup de と beaucoup des
+- **beaucoup de livres**（たくさんの本——不特定）
+- **beaucoup des livres que j'ai lus**（私が読んだ本のうちの多く——特定の集合から）
+
+des が現れるのは、**de + 定冠詞 les**（その本のうちの）という縮約のときだけです。ふつうの「たくさんの〜」は必ず **de + 無冠詞**。日本語話者が最も落としやすい点の1つです。
+:::
+
+**判断の順序**をまとめると：①総称・特定か → 定冠詞、②数えるか量るか → un / du、③否定か → de、④属詞か → 無冠詞、⑤数量表現の後か → de。この5問を順に当てれば、ほとんどの場面で冠詞は決まります。
+
 ## この章の語彙
 
 :::vocab 第2章の語彙
