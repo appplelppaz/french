@@ -4,7 +4,7 @@
  *   node build.js   →   dist/french-textbook.html
  *
  * index.html の <link rel=stylesheet> と <script src> をすべて中身に置き換え、
- * さらに全37章を同梱する。出力は単体で完全に動作するので、メールに添付しても
+ * さらに全41章を同梱する。出力は単体で完全に動作するので、メールに添付しても
  * USB に入れても、機内でも使える。
  *
  * Node の標準モジュールしか使わない（npm install は不要）。
